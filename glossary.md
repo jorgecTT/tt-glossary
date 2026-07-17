@@ -1,6 +1,6 @@
 # Thumbtack ES-US Glossary (approved)
 
-Offline fallback snapshot of 234 approved terms (machine source: `glossary.json`, synced from the Apps Script endpoint). Product/UI/specific terms must stay consistent; ordinary words not listed here vary by context.
+Offline fallback snapshot of 233 approved terms (machine source: `glossary.json`, synced from the Apps Script endpoint). Product/UI/specific terms must stay consistent; ordinary words not listed here vary by context.
 
 
 ## PRODUCT — never translate, keep English exactly (2)
@@ -36,7 +36,7 @@ Offline fallback snapshot of 234 approved terms (machine source: `glossary.json`
 - **View details** → `View details ("Ver detalles")`  — _Acción para ver la información completa de un trabajo u oportunidad._
 - **Weekly Budget** → `Weekly Budget ("Presupuesto Semanal")`  — _El límite de gasto que puedes establecer para los prospectos._
 
-## TERMS / specific vocabulary — canonical ES when used in the sense in Context (207)
+## TERMS / specific vocabulary — canonical ES when used in the sense in Context (206)
 
 - **+ Add new** → + Agregar nuevo  — _Etiqueta de botón para añadir números adicionales._
 - **Access code** → código de acceso  — _Código de 7 dígitos para conectar llamadas desde números no registrados._
@@ -109,7 +109,6 @@ Offline fallback snapshot of 234 approved terms (machine source: `glossary.json`
 - **Guidelines** → Pautas  — _Reglas y recomendaciones de la plataforma. El corpus usa 'pautas'; evitar 'directrices'._
 - **Help Center** → Centro de Ayuda  — _La colección de todos nuestros artículos y guías de soporte._
 - **Hourly Rate** → Tarifa por Hora  — _Un precio fijado por cada hora de trabajo._
-- **Insights** → información  — _lead insights = información de prospectos; competition insights = información sobre la competencia. No confundir con Performance Dashboard (Panel de Rendimiento)._
 - **Instant Deposit** → Depósito Instantáneo  — _Un servicio para recibir tus fondos más rápidamente, a menudo con una pequeña tarifa._
 - **integration** → integración  — _Conexión técnica entre Thumbtack y una aplicación externa._
 - **Integrations** → Integrations (“Integraciones”)  — _Opción del menú para gestionar conexiones con herramientas externas._

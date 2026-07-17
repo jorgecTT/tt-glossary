@@ -1,7 +1,7 @@
 {
   "ok": true,
   "mode": "glossary",
-  "count": 234,
+  "count": 233,
   "terms": [
     {
       "en": "Account",
@@ -367,15 +367,6 @@
       "en": "Hourly Rate",
       "es": "Tarifa por Hora",
       "context": "Un precio fijado por cada hora de trabajo.",
-      "sourceArticle": "manual glossary import",
-      "dateAdded": "2026-07-10T05:00:00.000Z",
-      "status": "manual",
-      "type": "term"
-    },
-    {
-      "en": "Insights",
-      "es": "información",
-      "context": "lead insights = información de prospectos; competition insights = información sobre la competencia. No confundir con Performance Dashboard (Panel de Rendimiento).",
       "sourceArticle": "manual glossary import",
       "dateAdded": "2026-07-10T05:00:00.000Z",
       "status": "manual",
