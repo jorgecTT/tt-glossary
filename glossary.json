@@ -1,0 +1,2167 @@
+{
+  "ok": true,
+  "mode": "glossary",
+  "count": 240,
+  "terms": [
+    {
+      "en": "Account",
+      "es": "Cuenta",
+      "context": "Tu cuenta de profesional en Thumbtack.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Account Settings",
+      "es": "Configuración de la cuenta",
+      "context": "El área donde gestionas tu información personal, contraseña y notificaciones.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "ui"
+    },
+    {
+      "en": "Add-ons",
+      "es": "Servicios adicionales",
+      "context": "Servicios opcionales con costo extra. Alternativa coloquial: 'extras'.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Authorized Agent",
+      "es": "Agente Autorizado",
+      "context": "Un individuo designado por un usuario para hacer solicitudes de derechos de privacidad en su nombre.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Availability",
+      "es": "Disponibilidad",
+      "context": "Las horas y días que marcas como disponible para trabajar.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Background Check",
+      "es": "Verificación de Antecedentes",
+      "context": "El proceso para verificar los antecedentes de un profesional.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Base Price",
+      "es": "Precio Base",
+      "context": "La cantidad estándar que cobras por un servicio.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Behavioral Targeted Advertising",
+      "es": "Publicidad dirigida por comportamiento",
+      "context": "Publicidad que usa datos del comportamiento en línea de un usuario para mostrar anuncios personalizados.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Block Time",
+      "es": "Bloquear Tiempo",
+      "context": "Marcar un periodo en tu calendario como no disponible.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Business Hours",
+      "es": "Horario Comercial",
+      "context": "Las horas de operación que muestras en tu perfil.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Business Profile",
+      "es": "Perfil de Negocio",
+      "context": "Tu página en Thumbtack que los clientes ven.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "ui"
+    },
+    {
+      "en": "Calendar Sync",
+      "es": "Sincronización de Calendario",
+      "context": "Conectar tu calendario personal (ej. Google) con Thumbtack.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Category",
+      "es": "Categoría",
+      "context": "El área general de servicio que ofreces (ej. \"Mejoras del hogar\").",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "CCPA (California Consumer Privacy Act)",
+      "es": "CCPA (Ley de Privacidad del Consumidor de California)",
+      "context": "Ley de California que otorga a los consumidores derechos sobre su información personal.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Change Password",
+      "es": "Cambiar Contraseña",
+      "context": "El proceso para actualizar tu contraseña por seguridad.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "ui"
+    },
+    {
+      "en": "Chargeback Protection",
+      "es": "Protección contra Contracargos",
+      "context": "Una política que protege al profesional si un cliente disputa un pago hecho a través de Thumbtack Pay.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Claimable Jobs",
+      "es": "Trabajos Reclamables",
+      "context": "Proyectos disponibles en tu área que puedes reclamar si te interesan.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Close Account",
+      "es": "Cerrar Cuenta",
+      "context": "Eliminar tu cuenta de Thumbtack de forma permanente.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "ui"
+    },
+    {
+      "en": "Code of Conduct",
+      "es": "Código de Conducta",
+      "context": "Las expectativas de comportamiento para profesionales y clientes en la plataforma.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Confirmation letter",
+      "es": "Carta de confirmación",
+      "context": "Documento (generalmente del banco) que verifica una acción, como retirar una disputa.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Contact Us / Support",
+      "es": "Contáctanos / Soporte",
+      "context": "La forma de comunicarte con el equipo de atención al cliente de Thumbtack.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "rejected",
+      "type": ""
+    },
+    {
+      "en": "Content and Review Policy",
+      "es": "Política de Contenido y Reseñas",
+      "context": "Las reglas de Thumbtack sobre lo que se puede publicar en reseñas y perfiles.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Copyright Policy",
+      "es": "Política de Derechos de Autor",
+      "context": "Las reglas sobre el uso de material protegido (fotos, textos).",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Cost of Materials",
+      "es": "Costo de Materiales",
+      "context": "El gasto en los materiales necesarios para realizar un trabajo.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "CPA (Colorado Privacy Act)",
+      "es": "CPA (Ley de Privacidad de Colorado)",
+      "context": "Ley de Colorado que otorga a los consumidores derechos sobre sus datos personales.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Credits",
+      "es": "Créditos",
+      "context": "Se usan para promociones o reembolsos por parte de Thumbtack.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "CTDPA (Connecticut Data Privacy Act)",
+      "es": "CTDPA (Ley de Privacidad de Datos de Connecticut)",
+      "context": "Ley de Connecticut que rige la recopilación y uso de datos personales.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Customers",
+      "es": "Clientes",
+      "context": "Las personas que buscan profesionales para sus proyectos.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Data Privacy Laws",
+      "es": "Leyes de privacidad de datos",
+      "context": "Leyes que regulan cómo las organizaciones manejan la información personal.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Deactivate Account",
+      "es": "Desactivar Cuenta",
+      "context": "Pausar tu cuenta temporalmente para no recibir prospectos ni cargos.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "ui"
+    },
+    {
+      "en": "Direct Deposit",
+      "es": "Depósito Directo",
+      "context": "Recibir tus ganancias directamente en tu cuenta bancaria.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Direct Leads",
+      "es": "Prospectos Directos",
+      "context": "Clientes que te eligen específicamente a ti y te contactan directamente.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Disputed charges",
+      "es": "Cargos disputados",
+      "context": "Cargos que un cliente ha reclamado a su banco como no válidos.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Earnings",
+      "es": "Ganancias",
+      "context": "El dinero que recibes de tus clientes por los trabajos realizados.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Estimate",
+      "es": "Cotización aproximada",
+      "context": "Un precio aproximado basado en los detalles iniciales del cliente.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Flat Fee",
+      "es": "Tarifa Fija",
+      "context": "Un precio único y total para un servicio definido.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Fraud and Damage Policy",
+      "es": "Política de Fraude y Daños",
+      "context": "Lo que cubre Thumbtack en caso de fraude o daños materiales.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Front Desk",
+      "es": "Front Desk",
+      "context": "Un servicio que ayuda a gestionar las llamadas y los prospectos iniciales.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "product"
+    },
+    {
+      "en": "GDPR (General Data Protection Regulation)",
+      "es": "GDPR (Reglamento General de Protección de Datos)",
+      "context": "Regulación de la Unión Europea sobre protección de datos.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Guidelines",
+      "es": "Pautas",
+      "context": "Reglas y recomendaciones de la plataforma. El corpus usa 'pautas'; evitar 'directrices'.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Help Center",
+      "es": "Centro de Ayuda",
+      "context": "La colección de todos nuestros artículos y guías de soporte.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Hourly Rate",
+      "es": "Tarifa por Hora",
+      "context": "Un precio fijado por cada hora de trabajo.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Insights",
+      "es": "información",
+      "context": "lead insights = información de prospectos; competition insights = información sobre la competencia. No confundir con Performance Dashboard (Panel de Rendimiento).",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Instant Deposit",
+      "es": "Depósito Instantáneo",
+      "context": "Un servicio para recibir tus fondos más rápidamente, a menudo con una pequeña tarifa.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Job Preferences",
+      "es": "Preferencias de trabajo",
+      "context": "La configuración de dónde, cuándo y qué tipo de trabajos quieres.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "ui"
+    },
+    {
+      "en": "Job Types",
+      "es": "Tipos de trabajo",
+      "context": "Los trabajos específicos dentro de un servicio (ej. \"Pintar interior\").",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Law Enforcement Requests",
+      "es": "Solicitudes de Autoridades",
+      "context": "Peticiones de información por parte de la policía u organismos oficiales.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Leads",
+      "es": "Prospectos",
+      "context": "Clientes potenciales que coinciden con tus preferencias de trabajo.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "License",
+      "es": "Licencia",
+      "context": "La licencia profesional que puedes añadir a tu perfil para generar confianza.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Linked account",
+      "es": "Cuenta vinculada",
+      "context": "Una cuenta que nuestro sistema ha identificado como conectada a otra.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Login Information",
+      "es": "Información de Inicio de Sesión",
+      "context": "Tu correo electrónico y contraseña para acceder a Thumbtack.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Mark as Hired",
+      "es": "Marcar como Contratado",
+      "context": "La acción de indicar que un cliente te ha elegido para el trabajo.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "ui"
+    },
+    {
+      "en": "Max lead prices",
+      "es": "Precios Máximos por Prospecto",
+      "context": "El precio máximo que estás dispuesto a pagar por un tipo de prospecto.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Message",
+      "es": "Mensaje",
+      "context": "La comunicación escrita con clientes a través de la plataforma.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Non-Discrimination Policy",
+      "es": "Política de no Discriminación",
+      "context": "La prohibición estricta de cualquier tipo de discriminación.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Notifications",
+      "es": "Notificaciones",
+      "context": "Las alertas que recibes por correo, SMS o en la aplicación.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "ui"
+    },
+    {
+      "en": "Opportunities",
+      "es": "Oportunidades",
+      "context": "Proyectos disponibles que pueden no coincidir exactamente con tus preferencias.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Opt-Out",
+      "es": "Optar por Excluirse",
+      "context": "El acto de elegir no permitir que se venda o comparta tu información personal.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Outstanding balance",
+      "es": "Saldo pendiente",
+      "context": "Una cantidad de dinero que le debes a Thumbtack.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Partner Tools",
+      "es": "Herramientas de Socios",
+      "context": "Integraciones con otras plataformas (ej. GoSite).",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Pause Leads",
+      "es": "Pausar Prospectos",
+      "context": "Detener temporalmente la recepción de nuevos prospectos.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "ui"
+    },
+    {
+      "en": "Payment Information",
+      "es": "Información de Pago",
+      "context": "Detalles financieros como números de tarjeta de crédito o cuentas bancarias.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Performance Dashboard",
+      "es": "Panel de Rendimiento",
+      "context": "La sección donde analizas tus estadísticas (vistas, respuestas, etc.).",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Personal Information",
+      "es": "Información personal",
+      "context": "Cualquier dato que pueda ser usado para identificar a un individuo.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Policies",
+      "es": "Políticas",
+      "context": "Las normas oficiales de Thumbtack sobre temas específicos.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Portfolio",
+      "es": "Portafolio",
+      "context": "La colección de fotos y videos de tus trabajos anteriores.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "ui"
+    },
+    {
+      "en": "Preload my balance",
+      "es": "Precargar mi Saldo",
+      "context": "Añadir fondos a tu cuenta de Thumbtack por adelantado.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "ui"
+    },
+    {
+      "en": "Price Range",
+      "es": "Rango de Precios",
+      "context": "Un precio mínimo y máximo para trabajos complejos.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Privacy Policy",
+      "es": "Política de Privacidad",
+      "context": "El documento que explica cómo manejamos y protegemos tus datos.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Pro App",
+      "es": "aplicación Thumbtack Pro",
+      "context": "Nombre de la app móvil para profesionales. 'Thumbtack Pro' no se traduce.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Pro Rewards",
+      "es": "Recompensas para Profesionales",
+      "context": "El programa de lealtad que ofrece beneficios a los profesionales.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Profile Photo",
+      "es": "Foto de Perfil",
+      "context": "Tu foto personal que ayuda a los clientes a conocerte.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Project",
+      "es": "Proyecto",
+      "context": "La necesidad o trabajo específico que un cliente publica.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Promotions",
+      "es": "Promociones",
+      "context": "Ofertas especiales que puedes aplicar para atraer clientes.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Push Notifications",
+      "es": "Notificaciones Push",
+      "context": "Alertas que aparecen directamente en la pantalla de tu móvil desde la app.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Quality Commitment",
+      "es": "Compromiso de Calidad",
+      "context": "Las políticas de Thumbtack para asegurar un servicio de calidad.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Quick Replies",
+      "es": "Respuestas Rápidas",
+      "context": "Plantillas de mensajes guardados para responder rápidamente a los clientes.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "ui"
+    },
+    {
+      "en": "Quote",
+      "es": "Cotización",
+      "context": "La propuesta de precio que envías a un prospecto.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Quote Templates",
+      "es": "Plantillas de Cotización",
+      "context": "Modelos de cotizaciones pre-hechos para enviar a los clientes.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Rank / Ranking",
+      "es": "Clasificación / Posición",
+      "context": "Tu posición en los resultados de búsqueda de los clientes.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "rejected",
+      "type": ""
+    },
+    {
+      "en": "Reactivate account",
+      "es": "Reactivar cuenta",
+      "context": "Volver a habilitar una cuenta que estaba desactivada o suspendida.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "ui"
+    },
+    {
+      "en": "Refer a Pro",
+      "es": "Recomendar a un Profesional",
+      "context": "Sugerir a otro profesional de Thumbtack a un cliente.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Referral Program",
+      "es": "Programa de Recomendación",
+      "context": "El programa que te premia por traer nuevos profesionales a la plataforma.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Refunds",
+      "es": "Reembolsos",
+      "context": "Devoluciones de dinero por pagos de prospectos o servicios.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Request a refund",
+      "es": "Solicitar un Reembolso",
+      "context": "El acto de pedir la devolución del dinero por un prospecto que no cumplió con los criterios.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Request to Delete",
+      "es": "Solicitud de Eliminación",
+      "context": "El derecho de un usuario a solicitar la eliminación de su información personal.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Request to Know",
+      "es": "Solicitud de Información",
+      "context": "El derecho de un usuario a solicitar una copia de su información personal.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Resolve Issues",
+      "es": "Resolver Problemas",
+      "context": "El proceso de solucionar un desacuerdo o problema con un cliente.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Respond to Leads",
+      "es": "Responder a Prospectos",
+      "context": "La acción de contactar a un cliente potencial que te ha llegado.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Respond to Reviews",
+      "es": "Responder a Reseñas",
+      "context": "Escribir una respuesta pública a una reseña que has recibido.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Responsible Disclosure",
+      "es": "Divulgación Responsable",
+      "context": "La política para reportar vulnerabilidades de seguridad que encuentres.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Reviews",
+      "es": "Reseñas",
+      "context": "Las valoraciones y comentarios que los clientes dejan en tu perfil.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Right to...",
+      "es": "Derecho a...",
+      "context": "Se refiere a los derechos de privacidad (Corregir, Eliminar, Saber, etc.).",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "rejected",
+      "type": ""
+    },
+    {
+      "en": "Sales Tax",
+      "es": "Impuesto sobre las Ventas",
+      "context": "El impuesto que se puede aplicar a los servicios según la ubicación.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Search Results",
+      "es": "Resultados de Búsqueda",
+      "context": "La lista de profesionales que un cliente ve al buscar un servicio.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "ui"
+    },
+    {
+      "en": "Security",
+      "es": "Seguridad",
+      "context": "Medidas para proteger tu cuenta, como la autenticación de dos factores.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Services",
+      "es": "Servicios",
+      "context": "Las diferentes prestaciones que ofreces a los clientes.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "SMS Terms",
+      "es": "Términos de SMS",
+      "context": "Las condiciones que aceptas al suscribirte a los mensajes de texto de Thumbtack.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Starting Price",
+      "es": "Precio inicial",
+      "context": "Precio base visible en resultados de búsqueda; la UI del buscador muestra 'Desde'.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Suspicious Activity",
+      "es": "Actividad Sospechosa",
+      "context": "Cualquier comportamiento que parezca fraudulento o que viole las normas.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Terms and Conditions",
+      "es": "Términos y Condiciones",
+      "context": "El contrato legal completo que rige el uso de la plataforma.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Terms of Use",
+      "es": "Términos de Uso",
+      "context": "El acuerdo legal que rige el uso de la plataforma Thumbtack.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Third Party Requests",
+      "es": "Solicitudes de Terceros",
+      "context": "Peticiones de información sobre un usuario por parte de alguien que no es el usuario.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Thumbtack Community",
+      "es": "Comunidad de Thumbtack",
+      "context": "El foro para que los profesionales se conecten y compartan consejos.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Thumbtack Guarantee",
+      "es": "Garantía Thumbtack",
+      "context": "La protección que Thumbtack ofrece a los clientes en caso de problemas.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Thumbtack Pay",
+      "es": "Thumbtack Pay",
+      "context": "Sistema de procesamiento de pagos — nombre de producto, no se traduce.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "product"
+    },
+    {
+      "en": "Top Pro Badge",
+      "es": "insignia de Top Pro",
+      "context": "Top Pro' es el nombre del programa y no se traduce.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Track my spending",
+      "es": "Rastrear mis Gastos",
+      "context": "Revisar el historial de tus pagos a Thumbtack.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "ui"
+    },
+    {
+      "en": "Travel Areas",
+      "es": "Zonas de Desplazamiento",
+      "context": "Las áreas geográficas donde estás dispuesto a trabajar.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Troubleshooting",
+      "es": "Solución de Problemas",
+      "context": "Pasos para resolver problemas técnicos con la aplicación o el sitio web.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Turn On/Off Preferences",
+      "es": "Activar/Desactivar Preferencias",
+      "context": "Habilitar o deshabilitar tu perfil para recibir prospectos de pago.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "ui"
+    },
+    {
+      "en": "User Guidelines",
+      "es": "Guias para el Usuario",
+      "context": "Normas específicas sobre cómo deben interactuar los usuarios en Thumbtack.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Verification processes",
+      "es": "Procesos de verificación",
+      "context": "Pasos para confirmar la identidad de un usuario antes de procesar una solicitud.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Weekly Budget",
+      "es": "Presupuesto Semanal",
+      "context": "El límite de gasto que puedes establecer para los prospectos.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "ui"
+    },
+    {
+      "en": "Withdraw the disputes",
+      "es": "Retirar las disputas",
+      "context": "La acción de cancelar un reclamo de pago que hiciste a tu banco.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Weekly targeting budget",
+      "es": "Preferencias de su presupuesto semanal",
+      "context": "Preferencia que controla el gasto semanal por prospectos según su configuración.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Weekly spending limit",
+      "es": "Límite de gasto semanal",
+      "context": "Tope total que usted decide gastar por semana.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Lead prices",
+      "es": "Precios de los prospectos",
+      "context": "Frase en texto general para hablar de cuánto paga por prospectos.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Manage lead prices",
+      "es": "Administrar precios de prospectos",
+      "context": "Etiqueta de UI para cambiar precios de prospectos.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "ui"
+    },
+    {
+      "en": "For you",
+      "es": "Para usted",
+      "context": "Pestaña donde ve recomendaciones y trabajos que coinciden con su preferencias.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "ui"
+    },
+    {
+      "en": "Open leads",
+      "es": "Prospectos abiertos",
+      "context": "Otra forma de referirse a Oportunidades (según experimento/UX).",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "ui"
+    },
+    {
+      "en": "View details",
+      "es": "Ver detalles",
+      "context": "Acción para ver la información completa de un trabajo u oportunidad.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "ui"
+    },
+    {
+      "en": "Save",
+      "es": "Guardar",
+      "context": "Botón para guardar cambios.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "ui"
+    },
+    {
+      "en": "Add new service",
+      "es": "Agregar nuevo servicio",
+      "context": "Acción para crear un servicio nuevo en su perfil.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "ui"
+    },
+    {
+      "en": "Tap",
+      "es": "Seleccione",
+      "context": "Verbo para pasos en la app móvil: Tap X = Seleccione X. En Desktop: 'Haga clic en'.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-10T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Thumbtack Quality Commitment",
+      "es": "Compromiso de calidad de Thumbtack",
+      "context": "Garantía que protege y respalda la inversión del profesional en la plataforma.",
+      "sourceArticle": "Here’s a guide to spending on Thumbtack.",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "Phone Number Guarantee",
+      "es": "Garantía de número de teléfono",
+      "context": "Asegura que el profesional pueda ponerse en contacto con el cliente pagado.",
+      "sourceArticle": "Here’s a guide to spending on Thumbtack.",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "lead price",
+      "es": "precios de los prospectos",
+      "context": "Monto exacto que el profesional paga por cada contacto de cliente potencial.",
+      "sourceArticle": "Here’s a guide to spending on Thumbtack.",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "payment method",
+      "es": "método de pago",
+      "context": "Tarjeta de crédito o débito guardada para realizar los cobros futuros.",
+      "sourceArticle": "Here’s a guide to spending on Thumbtack.",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "payment history",
+      "es": "historial de pagos",
+      "context": "Registro detallado de todas las transacciones y gastos realizados por el profesional.",
+      "sourceArticle": "Here’s a guide to spending on Thumbtack.",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "Payments",
+      "es": "Pagos",
+      "context": "Sección del perfil para gestionar la facturación y el historial de cobros.",
+      "sourceArticle": "Here’s a guide to spending on Thumbtack.",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "manual",
+      "type": "ui"
+    },
+    {
+      "en": "Receipts",
+      "es": "Recibos",
+      "context": "Pestaña donde se pueden visualizar y descargar los comprobantes de pago.",
+      "sourceArticle": "Here’s a guide to spending on Thumbtack.",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "Download",
+      "es": "Descargar",
+      "context": "Acción o botón para guardar el archivo del recibo en el dispositivo.",
+      "sourceArticle": "Here’s a guide to spending on Thumbtack.",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "Thumbtack",
+      "es": "Thumbtack",
+      "context": "Nombre de la plataforma para conectar profesionales con clientes.",
+      "sourceArticle": "How Thumbtack works",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "pros",
+      "es": "profesionales",
+      "context": "Especialistas o negocios registrados que ofrecen sus servicios.",
+      "sourceArticle": "How Thumbtack works",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "pro account",
+      "es": "cuenta de profesional",
+      "context": "Tipo de cuenta específica para proveedores de servicios.",
+      "sourceArticle": "How Thumbtack works",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "Jobs page",
+      "es": "pestaña Jobs",
+      "context": "Sección de la interfaz donde se gestionan los trabajos.",
+      "sourceArticle": "How Thumbtack works",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "ratings",
+      "es": "calificaciones",
+      "context": "Puntuaciones otorgadas por los clientes a los profesionales.",
+      "sourceArticle": "How Thumbtack works",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "Pro Tip",
+      "es": "Pro Tip",
+      "context": "Etiqueta que acompaña consejos prácticos para el usuario profesional.",
+      "sourceArticle": "How Thumbtack works",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "Pill Pro",
+      "es": "Pill Pro",
+      "context": "Distintivo o programa para profesionales dentro de la plataforma.",
+      "sourceArticle": "How to create a webhook",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "webhook",
+      "es": "webhook",
+      "context": "Herramienta técnica para enviar información automáticamente a otras aplicaciones.",
+      "sourceArticle": "How to create a webhook",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "partner tool",
+      "es": "herramientas de socios",
+      "context": "Aplicaciones externas que tienen una integración directa y oficial.",
+      "sourceArticle": "How to create a webhook",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "rejected",
+      "type": ""
+    },
+    {
+      "en": "test lead",
+      "es": "prospecto de prueba",
+      "context": "Datos de ejemplo enviados para verificar el funcionamiento de la conexión.",
+      "sourceArticle": "How to create a webhook",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "Integrations",
+      "es": "Integrations (“Integraciones”)",
+      "context": "Opción del menú para gestionar conexiones con herramientas externas.",
+      "sourceArticle": "How to create a webhook",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "Manage webhooks",
+      "es": "Manage webhooks (“Administrar webhooks”)",
+      "context": "Sección del panel para editar las conexiones automáticas configuradas.",
+      "sourceArticle": "How to create a webhook",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "Create webhook",
+      "es": "Create webhook (“Crear webhook”)",
+      "context": "Botón para iniciar la configuración de una nueva conexión.",
+      "sourceArticle": "How to create a webhook",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "Save changes",
+      "es": "Save changes (“Guardar cambios”)",
+      "context": "Botón para confirmar y guardar las actualizaciones realizadas.",
+      "sourceArticle": "How to create a webhook",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "Test this webhook",
+      "es": "Test this webhook (“Probar este webhook”)",
+      "context": "Acción para validar que la información llega correctamente al destino.",
+      "sourceArticle": "How to create a webhook",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "Recent deliveries",
+      "es": "Recent deliveries (“Entregas recientes”)",
+      "context": "Pestaña que muestra el historial de envíos de datos realizados.",
+      "sourceArticle": "How to create a webhook",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "Failure",
+      "es": "Failure (“Falla”)",
+      "context": "Estado que indica que ocurrió un error en la entrega.",
+      "sourceArticle": "How to create a webhook",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "Responses",
+      "es": "Responses (“Respuestas”)",
+      "context": "Pestaña con detalles técnicos sobre el resultado del envío.",
+      "sourceArticle": "How to create a webhook",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "Delete webhook",
+      "es": "Delete webhook (“Eliminar webhook”)",
+      "context": "Botón para remover permanentemente una conexión de datos.",
+      "sourceArticle": "How to create a webhook",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "Enabled",
+      "es": "Enabled (“Activado”)",
+      "context": "Estado que indica que el webhook está funcionando activamente.",
+      "sourceArticle": "How to create a webhook",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "Disabled",
+      "es": "Disabled (“Desactivado”)",
+      "context": "Estado que indica que la conexión está apagada.",
+      "sourceArticle": "How to create a webhook",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "endpoint URL",
+      "es": "endpoint URL (“URL de destino”)",
+      "context": "Dirección digital donde se reciben los datos de los prospectos.",
+      "sourceArticle": "How to create a webhook",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "Authorization type",
+      "es": "Authorization type (“Tipo de autorización”)",
+      "context": "Ajuste de seguridad para validar la conexión entre herramientas.",
+      "sourceArticle": "How to create a webhook",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "Thumbtack Pro app",
+      "es": "aplicación para profesionales de Thumbtack",
+      "context": "Nombre oficial de la aplicación móvil de la plataforma.",
+      "sourceArticle": "How to download our pro app",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "messages",
+      "es": "mensajes",
+      "context": "Comunicación directa entre el cliente y el profesional dentro de la aplicación.",
+      "sourceArticle": "How to download our pro app",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "app store",
+      "es": "tienda de aplicaciones",
+      "context": "Plataforma digital donde se descarga la aplicación móvil.",
+      "sourceArticle": "How to download our pro app",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "Download the pro app now",
+      "es": "Descargue la aplicación para profesionales ahora",
+      "context": "Etiqueta de botón para iniciar la descarga de la herramienta móvil.",
+      "sourceArticle": "How to download our pro app",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "Thumbtack account",
+      "es": "cuenta de Thumbtack",
+      "context": "Perfil personal del usuario para acceder a los servicios de la plataforma.",
+      "sourceArticle": "How to download our pro app",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "auto-updates",
+      "es": "actualizaciones automáticas",
+      "context": "Función del dispositivo para mantener la aplicación en su versión más reciente.",
+      "sourceArticle": "How to download our pro app",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "alerts",
+      "es": "alertas",
+      "context": "Notificaciones que informan al usuario sobre actividad en su cuenta.",
+      "sourceArticle": "How to download our pro app",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "partner tool",
+      "es": "herramienta de socios",
+      "context": "Aplicaciones externas que tienen una colaboración oficial con Thumbtack.",
+      "sourceArticle": "How to set up a Zapier webhook",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "integration",
+      "es": "integración",
+      "context": "Conexión técnica entre Thumbtack y una aplicación externa.",
+      "sourceArticle": "How to set up a Zapier webhook",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "Create a Zap",
+      "es": "Create a Zap (“Crear un Zap”)",
+      "context": "Botón en Zapier para iniciar un nuevo flujo automatizado.",
+      "sourceArticle": "How to set up a Zapier webhook",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "trigger",
+      "es": "disparador",
+      "context": "Evento inicial que activa la automatización en Zapier.",
+      "sourceArticle": "How to set up a Zapier webhook",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "Action",
+      "es": "Action (“Acción”)",
+      "context": "Paso de Zapier que define qué ocurre tras el disparo.",
+      "sourceArticle": "How to set up a Zapier webhook",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "Customer Name",
+      "es": "Customer Name (“Nombre del cliente”)",
+      "context": "Campo de datos que identifica al usuario solicitante.",
+      "sourceArticle": "How to set up a Zapier webhook",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "business profiles",
+      "es": "perfiles de negocio",
+      "context": "Cuentas de empresa que un profesional gestiona en Thumbtack.",
+      "sourceArticle": "How to set up a Zapier webhook",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "lead",
+      "es": "prospecto",
+      "context": "Cliente potencial interesado en contratar los servicios de un profesional.",
+      "sourceArticle": "How to sign in to my account",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "pro",
+      "es": "profesional",
+      "context": "Persona o empresa que ofrece sus servicios en la plataforma.",
+      "sourceArticle": "How to sign in to my account",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "customer",
+      "es": "cliente",
+      "context": "Usuario que busca y contrata profesionales para sus proyectos.",
+      "sourceArticle": "How to sign in to my account",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "Thumbtack Pro app",
+      "es": "aplicación de Thumbtack Pro",
+      "context": "Aplicación específica para que los profesionales gestionen su negocio.",
+      "sourceArticle": "How to sign in to my account",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "conflict",
+      "type": ""
+    },
+    {
+      "en": "Sign up or log in",
+      "es": "Registrarse o iniciar sesión",
+      "context": "Opción en la interfaz para crear una cuenta o acceder.",
+      "sourceArticle": "How to sign in to my account",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "Log in",
+      "es": "Iniciar sesión",
+      "context": "Botón o acción para entrar a la cuenta de usuario.",
+      "sourceArticle": "How to sign in to my account",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "Forgot password?",
+      "es": "¿Olvidó su contraseña?",
+      "context": "Enlace de ayuda para recuperar el acceso a la cuenta.",
+      "sourceArticle": "How to sign in to my account",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "Resend",
+      "es": "Reenviar",
+      "context": "Botón para solicitar un nuevo código de verificación por SMS.",
+      "sourceArticle": "How to sign in to my account",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "magic link",
+      "es": "magic link",
+      "context": "Enlace seguro enviado por correo para acceder sin contraseña.",
+      "sourceArticle": "How to sign in to my account",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "Switch to business",
+      "es": "Cambiar a cuenta comercial",
+      "context": "Opción del menú para cambiar a la vista de profesional.",
+      "sourceArticle": "How to sign in to my account",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "Switch to customer",
+      "es": "Cambiar a cuenta de cliente",
+      "context": "Opción del menú para cambiar a la vista de cliente.",
+      "sourceArticle": "How to sign in to my account",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "Sign up",
+      "es": "Sign up (\"Registrarse\")",
+      "context": "Botón en la aplicación para iniciar el proceso de registro.",
+      "sourceArticle": "How to sign up as a pro",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "Next",
+      "es": "Next (\"Siguiente\")",
+      "context": "Botón para avanzar al siguiente paso en la configuración.",
+      "sourceArticle": "How to sign up as a pro",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "Sign up for free",
+      "es": "Sign up for free (\"Registrarse gratis\")",
+      "context": "Botón en la versión de escritorio para crear una cuenta gratuita.",
+      "sourceArticle": "How to sign up as a pro",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "targeting",
+      "es": "segmentación",
+      "context": "Término técnico referido a la configuración de las preferencias de trabajo.",
+      "sourceArticle": "How to sign up as a pro",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "budget",
+      "es": "presupuesto",
+      "context": "Límite de gasto semanal para la obtención de prospectos.",
+      "sourceArticle": "How to sign up as a pro",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "review",
+      "es": "reseña",
+      "context": "Calificación y comentario dejado por los clientes sobre el profesional.",
+      "sourceArticle": "How to sign up as a pro",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "Payments",
+      "es": "Payments (\"Pagos\")",
+      "context": "Sección de la cuenta donde se gestionan las tarjetas bancarias.",
+      "sourceArticle": "How to sign up as a pro",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "rejected",
+      "type": ""
+    },
+    {
+      "en": "profile",
+      "es": "perfil",
+      "context": "Página pública con la información y servicios del profesional.",
+      "sourceArticle": "How to sign up as a pro",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "setup checklist",
+      "es": "lista de verificación",
+      "context": "Guía de pasos necesarios para completar la cuenta del profesional.",
+      "sourceArticle": "How to sign up as a pro",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "customer account",
+      "es": "cuenta de cliente",
+      "context": "Cuenta utilizada por usuarios que buscan contratar profesionales.",
+      "sourceArticle": "How to switch between my pro and customer accounts",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "Thumbtack Pro app",
+      "es": "Aplicación Thumbtack Pro",
+      "context": "App móvil diseñada para que los profesionales gestionen su negocio.",
+      "sourceArticle": "How to switch between my pro and customer accounts",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "conflict",
+      "type": ""
+    },
+    {
+      "en": "Thumbtack app",
+      "es": "Aplicación Thumbtack",
+      "context": "App móvil para buscar y contratar profesionales para proyectos.",
+      "sourceArticle": "How to switch between my pro and customer accounts",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "Switch to business",
+      "es": "Cambiar a cuenta de profesional",
+      "context": "Acción del menú para cambiar a la interfaz de negocio.",
+      "sourceArticle": "How to switch between my pro and customer accounts",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "conflict",
+      "type": ""
+    },
+    {
+      "en": "jobs",
+      "es": "trabajos",
+      "context": "Servicios contratados o tareas asignadas a un profesional.",
+      "sourceArticle": "How to switch between my pro and customer accounts",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "Credentials",
+      "es": "Credenciales",
+      "context": "Sección de la cuenta donde se encuentran las verificaciones y documentos.",
+      "sourceArticle": "How to take a background check",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "Start",
+      "es": "Comenzar",
+      "context": "Botón de acción para iniciar el trámite de validación de identidad.",
+      "sourceArticle": "How to take a background check",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "background check badge",
+      "es": "distintivo de verificación de antecedentes",
+      "context": "Insignia visual que aparece en el perfil tras aprobar la revisión.",
+      "sourceArticle": "How to take a background check",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "Thumbtack Pro Rewards",
+      "es": "Thumbtack Pro Rewards",
+      "context": "Programa de lealtad y beneficios para los profesionales de Thumbtack.",
+      "sourceArticle": "How to take a background check",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "account owner",
+      "es": "dueño de la cuenta",
+      "context": "Persona responsable de la administración y cumplimiento de la cuenta.",
+      "sourceArticle": "How to take a background check",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "Take a background check",
+      "es": "Realice una verificación de antecedentes",
+      "context": "Etiqueta del botón de llamado a la acción al final del texto.",
+      "sourceArticle": "How to take a background check",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "criminal background check",
+      "es": "verificación de antecedentes penales",
+      "context": "Revisión de registros criminales realizada por un proveedor externo acreditado.",
+      "sourceArticle": "How to take a background check",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "Thumbtack balance",
+      "es": "Saldo de Thumbtack",
+      "context": "Fondos disponibles en la cuenta del profesional para pagar servicios.",
+      "sourceArticle": "Refund policy for pros",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "Credit package",
+      "es": "Paquete de créditos",
+      "context": "Compra prepagada de créditos para adquirir prospectos en la plataforma.",
+      "sourceArticle": "Refund policy for pros",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "Opportunities tab",
+      "es": "Pestaña de Oportunidades",
+      "context": "Sección de la aplicación donde los profesionales encuentran nuevos clientes.",
+      "sourceArticle": "Refund policy for pros",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "Courtesy credit",
+      "es": "Crédito de cortesía",
+      "context": "Crédito otorgado discrecionalmente por situaciones no cubiertas por la política.",
+      "sourceArticle": "Refund policy for pros",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "Promotional credits",
+      "es": "Créditos promocionales",
+      "context": "Créditos recibidos como incentivo en intercambio por una compra.",
+      "sourceArticle": "Refund policy for pros",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "Pending",
+      "es": "Pendiente",
+      "context": "Estado de una solicitud de reembolso que aún espera aprobación.",
+      "sourceArticle": "Refund policy for pros",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "Refunded",
+      "es": "Reembolsado",
+      "context": "Estado de una solicitud aprobada y acreditada a la cuenta.",
+      "sourceArticle": "Refund policy for pros",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "Denied",
+      "es": "Rechazado",
+      "context": "Estado de una solicitud de reembolso que no fue aprobada.",
+      "sourceArticle": "Refund policy for pros",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "Refund Requested",
+      "es": "Reembolso Solicitado",
+      "context": "Estado que indica que la solicitud de reembolso ha sido enviada.",
+      "sourceArticle": "Refund policy for pros",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "Thumbtack Help",
+      "es": "Centro de ayuda de Thumbtack",
+      "context": "Portal de soporte con artículos informativos para los usuarios.",
+      "sourceArticle": "Refund policy for pros",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "Thumbtack numbers",
+      "es": "números de Thumbtack",
+      "context": "Característica que asigna un número permanente para contactar clientes.",
+      "sourceArticle": "What are Thumbtack numbers",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "Refund",
+      "es": "reembolso",
+      "context": "Devolución del pago si el cliente no responde al profesional.",
+      "sourceArticle": "What are Thumbtack numbers",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "Registered phone numbers",
+      "es": "Números de teléfono registrados",
+      "context": "Sección de configuración para gestionar los teléfonos vinculados.",
+      "sourceArticle": "What are Thumbtack numbers",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "Register a new number",
+      "es": "Registrar un nuevo número",
+      "context": "Botón para añadir un número de teléfono a la cuenta.",
+      "sourceArticle": "What are Thumbtack numbers",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "+ Add new",
+      "es": "+ Agregar nuevo",
+      "context": "Etiqueta de botón para añadir números adicionales.",
+      "sourceArticle": "What are Thumbtack numbers",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "Add from your contacts",
+      "es": "Agregar desde sus contactos",
+      "context": "Opción para importar números de la agenda del dispositivo.",
+      "sourceArticle": "What are Thumbtack numbers",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "Add manually",
+      "es": "Agregar manualmente",
+      "context": "Opción para ingresar un número de teléfono por escrito.",
+      "sourceArticle": "What are Thumbtack numbers",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "Settings",
+      "es": "Configuración",
+      "context": "Menú para ajustar las preferencias de la cuenta.",
+      "sourceArticle": "What are Thumbtack numbers",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "View or share number",
+      "es": "Ver o compartir número",
+      "context": "Acción para visualizar o enviar los datos de contacto del cliente.",
+      "sourceArticle": "What are Thumbtack numbers",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "Send text",
+      "es": "Enviar mensaje de texto",
+      "context": "Botón para remitir los detalles de contacto por mensaje escrito.",
+      "sourceArticle": "What are Thumbtack numbers",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "View phone number",
+      "es": "Ver número de teléfono",
+      "context": "Botón para mostrar el contacto telefónico asignado al cliente.",
+      "sourceArticle": "What are Thumbtack numbers",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "Copy to clipboard",
+      "es": "Copiar al portapapeles",
+      "context": "Función para copiar la información del cliente y pegarla externamente.",
+      "sourceArticle": "What are Thumbtack numbers",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "Access code",
+      "es": "código de acceso",
+      "context": "Código de 7 dígitos para conectar llamadas desde números no registrados.",
+      "sourceArticle": "What are Thumbtack numbers",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "Thumbtack messenger",
+      "es": "mensajería de Thumbtack",
+      "context": "Sistema de chat interno de la plataforma para comunicarse.",
+      "sourceArticle": "What are Thumbtack numbers",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "Customer Relationship Management (CRM)",
+      "es": "Gestión de Relaciones con el Cliente (CRM)",
+      "context": "Sistema externo de gestión de clientes integrado con la plataforma.",
+      "sourceArticle": "What are Thumbtack numbers",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "Application Programming Interface (API)",
+      "es": "Interfaz de Programación de Aplicaciones (API)",
+      "context": "Integración técnica para automatizar funciones entre sistemas.",
+      "sourceArticle": "What are Thumbtack numbers",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "Pro API",
+      "es": "API para profesionales",
+      "context": "Interfaz técnica específica para las herramientas de los profesionales.",
+      "sourceArticle": "What are Thumbtack numbers",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "Front Desk",
+      "es": "Front Desk",
+      "context": "Nombre del servicio de respuesta automática de Thumbtack.",
+      "sourceArticle": "What is Front Desk",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "rejected",
+      "type": ""
+    },
+    {
+      "en": "automated lead response service",
+      "es": "servicio automatizado de respuesta a prospectos",
+      "context": "Descripción de la función técnica principal del producto.",
+      "sourceArticle": "What is Front Desk",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "Let's get you enrolled",
+      "es": "Inscríbase ahora",
+      "context": "Botón para iniciar el registro de un negocio en el servicio.",
+      "sourceArticle": "What is Front Desk",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "monthly subscription",
+      "es": "suscripción mensual",
+      "context": "Modelo de cobro recurrente cada mes por el uso de la herramienta.",
+      "sourceArticle": "What is Front Desk",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "plan",
+      "es": "plan",
+      "context": "Opciones de servicio con distintos niveles de precio y funciones.",
+      "sourceArticle": "What is Front Desk",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "form",
+      "es": "formulario",
+      "context": "Documento digital para solicitar cambios en la cuenta o servicio.",
+      "sourceArticle": "What is Front Desk",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "auto",
+      "type": ""
+    },
+    {
+      "en": "Thumbtack messenger",
+      "es": "mensajero de Thumbtack",
+      "context": "Canal de chat oficial de Thumbtack para la comunicación.",
+      "sourceArticle": "What is Front Desk",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "conflict",
+      "type": ""
+    },
+    {
+      "en": "Rank",
+      "es": "posición",
+      "context": "Su posición en los resultados de búsqueda.",
+      "sourceArticle": "glossary cleanup",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Ranking",
+      "es": "clasificación",
+      "context": "El ordenamiento de profesionales en los resultados de búsqueda.",
+      "sourceArticle": "glossary cleanup",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Contact Us",
+      "es": "Contáctanos",
+      "context": "Botón/enlace de UI para contactar al equipo de soporte.",
+      "sourceArticle": "glossary cleanup",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "manual",
+      "type": "ui"
+    },
+    {
+      "en": "Support",
+      "es": "Soporte",
+      "context": "El equipo/área de atención al cliente.",
+      "sourceArticle": "glossary cleanup",
+      "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    }
+  ]
+}
