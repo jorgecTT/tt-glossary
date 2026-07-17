@@ -1,9 +1,13 @@
 #!/usr/bin/env python3
-"""Build articles.json (EN↔ES published-URL link map) from the url_index CSV export.
+"""Build articles.json — a faithful mirror of the url_index tab (EN/ES/PT published
+URLs per translationKey+audience group), so the skill can resolve Help Center links
+from GitHub (claude.ai's sandbox blocks docs.google.com and script.google.com).
 
-The skill reads articles.json to swap English help.thumbtack.com links for their
-Spanish equivalent when translating. Source: the `url_index` tab of the Corpus Cache,
-rebuilt nightly by the Apps Script `buildUrlIndex`.
+Every row is kept (an ES-only or PT-only article has no urlEN but is still a valid
+lookup target). Empty urlES on a row that HAS urlEN means: no published Spanish
+translation (meaningful, not an error).
+
+Usage: build_articles.py <url_index.csv>
 """
 import csv
 import json
@@ -14,22 +18,25 @@ ROOT = pathlib.Path(__file__).resolve().parent.parent
 src = sys.argv[1] if len(sys.argv) > 1 else str(ROOT / "url_index.csv")
 
 rows = list(csv.DictReader(open(src, encoding="utf-8")))
-articles = []
-for r in rows:
-    url_en = (r.get("urlEN") or "").strip()
-    if not url_en:
-        continue  # no English published URL → nothing to match on
-    articles.append({
-        "translationKey": (r.get("translationKey") or "").strip(),
-        "audience": (r.get("audience") or "").strip(),
-        "titleEN": (r.get("titleEN") or "").strip(),
-        "titleES": (r.get("titleES") or "").strip(),
-        "urlEN": url_en,
-        "urlES": (r.get("urlES") or "").strip(),
-        "notes": (r.get("notes") or "").strip(),
-    })
+
+
+def g(r, k):
+    return (r.get(k) or "").strip()
+
+
+articles = [{
+    "translationKey": g(r, "translationKey"),
+    "audience": g(r, "audience"),
+    "titleEN": g(r, "titleEN"),
+    "titleES": g(r, "titleES"),
+    "urlEN": g(r, "urlEN"),
+    "urlES": g(r, "urlES"),
+    "urlPT": g(r, "urlPT"),
+    "notes": g(r, "notes"),
+} for r in rows if g(r, "translationKey")]
 
 out = {"ok": True, "count": len(articles), "articles": articles}
 (ROOT / "articles.json").write_text(json.dumps(out, ensure_ascii=False, indent=2))
-with_es = sum(1 for a in articles if a["urlES"])
-print(f"wrote articles.json — {len(articles)} with urlEN, {with_es} with an ES pair")
+en = sum(1 for a in articles if a["urlEN"])
+es = sum(1 for a in articles if a["urlEN"] and a["urlES"])
+print(f"articles.json — {len(articles)} rows, {en} with urlEN, {es} EN+ES pairs")

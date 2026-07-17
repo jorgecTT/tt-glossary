@@ -1,0 +1,21 @@
+{
+  "ok": true,
+  "count": 3,
+  "aliases": [
+    {
+      "oldSlug": "weekly-insights",
+      "currentSlug": "insights",
+      "notes": ""
+    },
+    {
+      "oldSlug": "insights",
+      "currentSlug": "insights",
+      "notes": "slug is live (no redirect)"
+    },
+    {
+      "oldSlug": "este-slug-no-existe-jamas",
+      "currentSlug": "",
+      "notes": "returns 200 but slug not found in url_index — likely a soft-404 (article does not exist). Verify manually."
+    }
+  ]
+}

@@ -23,30 +23,34 @@ jobs:
         run: |
           set -euo pipefail
           curl -sSL -m 60 "${GLOSSARY_URL}?mode=glossary" -o glossary.raw.json
-          # Validate the response is the expected JSON before overwriting anything.
-          python3 -c "import json; d=json.load(open('glossary.raw.json')); assert d.get('ok') and d.get('terms'), 'bad payload'; json.dump(d, open('glossary.json','w'), ensure_ascii=False, indent=2); print('fetched', d['count'], 'terms')"
+          # Validate, then drop status=rejected terms so the skill never applies them.
+          python3 -c "import json; d=json.load(open('glossary.raw.json')); assert d.get('ok') and d.get('terms'), 'bad payload'; d['terms']=[t for t in d['terms'] if (t.get('status') or '').lower()!='rejected']; d['count']=len(d['terms']); json.dump(d, open('glossary.json','w'), ensure_ascii=False, indent=2); print('kept', d['count'], 'terms (rejected dropped)')"
           rm -f glossary.raw.json
 
       - name: Regenerate glossary.md
         run: python3 scripts/build_md.py
 
-      - name: Fetch url_index, build link map + master book
+      - name: Fetch url_index + slug_aliases, build link map, aliases + master book
         env:
           URL_INDEX_CSV: "https://docs.google.com/spreadsheets/d/16X-I4oT-W96XTwx1qs7ErqTAT6sJI7du3_vnYFp9MIo/export?format=csv&gid=1087407530"
+          SLUG_ALIASES_CSV: "https://docs.google.com/spreadsheets/d/16X-I4oT-W96XTwx1qs7ErqTAT6sJI7du3_vnYFp9MIo/export?format=csv&gid=1881652000"
           EXEC_URL: "https://script.google.com/macros/s/AKfycbxbORV7ZpK1MdepVI__yFLzxMj7RZRF48kdTZ4TZI5qZp7d836UspO5F8_5TuHPtiNUmA/exec"
         run: |
           set -euo pipefail
           curl -sSL -m 60 "$URL_INDEX_CSV" -o url_index.csv
-          head -1 url_index.csv | grep -q "translationKey" # sanity check it's the CSV, not a login page
+          head -1 url_index.csv | grep -q "translationKey" # sanity: CSV, not a login page
+          curl -sSL -m 60 "$SLUG_ALIASES_CSV" -o slug_aliases.csv
+          head -1 slug_aliases.csv | grep -q "oldSlug"      # sanity
           python3 scripts/build_articles.py url_index.csv
+          python3 scripts/build_aliases.py slug_aliases.csv
           python3 scripts/build_masterbook.py "$EXEC_URL" url_index.csv
-          rm -f url_index.csv
+          rm -f url_index.csv slug_aliases.csv
 
       - name: Commit if changed
         run: |
           git config user.name "glossary-sync-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add glossary.json glossary.md articles.json masterbook.json
+          git add glossary.json glossary.md articles.json aliases.json masterbook.json
           if git diff --cached --quiet; then
             echo "No changes."
           else

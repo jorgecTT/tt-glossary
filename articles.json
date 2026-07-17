@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "count": 183,
+  "count": 193,
   "articles": [
     {
       "translationKey": "1099-k tax support faqs",
@@ -9,6 +9,7 @@
       "titleES": "Preguntas frecuentes sobre el formulario tributario 1099-K",
       "urlEN": "https://help.thumbtack.com/article/1099-k",
       "urlES": "https://help.thumbtack.com/article/preguntas-frecuentes-sobre-el-formulario-tributario-1099-k",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -18,6 +19,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/accept-a-solution",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -27,6 +29,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/accept-a-solution-pros",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -36,6 +39,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/agreement-made-customer",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -45,6 +49,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/agreement-made-pros",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -54,6 +59,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/ask-a-question-customer",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -63,6 +69,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/ask-a-question-pro",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -72,6 +79,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/build-your-brand",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -81,6 +89,17 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/claimable-jobs-policy",
       "urlES": "",
+      "urlPT": "",
+      "notes": ""
+    },
+    {
+      "translationKey": "communicating with customers",
+      "audience": "pro",
+      "titleEN": "",
+      "titleES": "Comunicando con los clientes",
+      "urlEN": "",
+      "urlES": "https://help.thumbtack.com/article/comunicando-con-los-clientes",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -90,6 +109,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/communication-tips-customers",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -99,6 +119,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/communication-tips-pro",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -108,6 +129,7 @@
       "titleES": "Política de Contenido y Reseñas",
       "urlEN": "https://help.thumbtack.com/article/content-and-review-policy",
       "urlES": "https://help.thumbtack.com/article/politica-de-contenido-y-resenas",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -117,6 +139,7 @@
       "titleES": "Política de Derechos de Autor",
       "urlEN": "https://help.thumbtack.com/article/copyright-policy",
       "urlES": "https://help.thumbtack.com/article/politica-de-derechos-de-autor",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -126,6 +149,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/counter-a-solution",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -135,6 +159,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/counter-a-solution-pros",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -144,6 +169,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/dispute-closed-by-thumbtack",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -153,6 +179,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/find-opportunities-in-your-market",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -162,6 +189,7 @@
       "titleES": "Política de Fraude y Daños",
       "urlEN": "https://help.thumbtack.com/article/fraud-and-damage-policy",
       "urlES": "https://help.thumbtack.com/article/politica-de-fraude-y-danos",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -171,6 +199,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/get-ready-to-grow",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -180,6 +209,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/guidelines-for-law-enforcement-information-requests",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -189,6 +219,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/guidelines-for-third-party-information-requests",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -198,6 +229,7 @@
       "titleES": "Guía para ser contratado a través de sus mensajes",
       "urlEN": "https://help.thumbtack.com/article/messaging-guide",
       "urlES": "https://help.thumbtack.com/article/guia-para-ser-contratado-a-traves-de-sus-mensajes",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -207,6 +239,7 @@
       "titleES": "Guía para su perfil de Thumbtack",
       "urlEN": "https://help.thumbtack.com/article/profile-guide",
       "urlES": "https://help.thumbtack.com/article/guia-para-su-perfil-de-thumbtack",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -216,6 +249,7 @@
       "titleES": "Guía para que los clientes lo encuentren",
       "urlEN": "https://help.thumbtack.com/article/customer-experience-guide",
       "urlES": "https://help.thumbtack.com/article/guia-para-que-los-clientes-lo-encuentren",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -225,6 +259,7 @@
       "titleES": "Guía para invertir su dinero en Thumbtack",
       "urlEN": "https://help.thumbtack.com/article/spending-guide",
       "urlES": "https://help.thumbtack.com/article/he-aqui-una-guia-para-invertir-su-dinero-en-thumbtack",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -234,6 +269,7 @@
       "titleES": "¿Por qué elegir Thumbtack",
       "urlEN": "https://help.thumbtack.com/article/why-thumbtack-guide",
       "urlES": "https://help.thumbtack.com/article/guia-por-que-elegir-thumbtack",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -243,6 +279,17 @@
       "titleES": "Guía para sus preferencias de trabajo",
       "urlEN": "https://help.thumbtack.com/article/preferences-guide",
       "urlES": "https://help.thumbtack.com/article/guia-preferencias-de-enfoque",
+      "urlPT": "https://help.thumbtack.com/article/esse-e-o-seu-guia-para-as-suas-preferencias-de-publico-alvo",
+      "notes": ""
+    },
+    {
+      "translationKey": "hide my business",
+      "audience": "pro",
+      "titleEN": "",
+      "titleES": "Ocultar mi negocio",
+      "urlEN": "",
+      "urlES": "https://help.thumbtack.com/article/ocultar-mi-negocio",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -252,6 +299,7 @@
       "titleES": "Cómo pueden GoSite y Thumbtack ayudarle a mejorar su negocio",
       "urlEN": "https://help.thumbtack.com/article/gosite-and-thumbtack",
       "urlES": "https://help.thumbtack.com/article/como-pueden-gosite-y-thumbtack-ayudarle-a-mejorar-su-negocio",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -261,6 +309,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/how-can-thumbtack-help",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -270,6 +319,17 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/lowes-jobs",
       "urlES": "",
+      "urlPT": "",
+      "notes": ""
+    },
+    {
+      "translationKey": "how much do i pay for leads and and opportunities?",
+      "audience": "pro",
+      "titleEN": "",
+      "titleES": "¿Cuánto debo pagar por los prospectos y oportunidades",
+      "urlEN": "",
+      "urlES": "https://help.thumbtack.com/article/cuanto-debo-pagar-por-los-prospectos-y-las-reservas",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -279,6 +339,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/pay-for-leads",
       "urlES": "",
+      "urlPT": "https://help.thumbtack.com/article/quanto-pago-por-prospectos-e-agendamentos",
       "notes": ""
     },
     {
@@ -288,6 +349,7 @@
       "titleES": "Cómo se cobran los prospectos en mi tarjeta",
       "urlEN": "https://help.thumbtack.com/article/when-will-my-card-be-charged-for-leads",
       "urlES": "https://help.thumbtack.com/article/cuando-se-cargara-mi-tarjeta-por-los-prospectos",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -297,6 +359,7 @@
       "titleES": "Cómo funciona Thumbtack",
       "urlEN": "https://help.thumbtack.com/article/how-thumbtack-works",
       "urlES": "https://help.thumbtack.com/article/como-funciona-thumbtack",
+      "urlPT": "https://help.thumbtack.com/article/como-funciona-a-thumbtack",
       "notes": ""
     },
     {
@@ -306,6 +369,7 @@
       "titleES": "Cómo agregar o eliminar un perfil de negocio",
       "urlEN": "https://help.thumbtack.com/article/creating-a-second-or-additional-business-profile",
       "urlES": "https://help.thumbtack.com/article/como-agregar-un-perfil-comercial",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -315,6 +379,7 @@
       "titleES": "Cómo agregar o eliminar una tarjeta de crédito",
       "urlEN": "https://help.thumbtack.com/article/payment-methods",
       "urlES": "https://help.thumbtack.com/article/como-agregar-o-eliminar-una-tarjeta-de-credito",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -324,6 +389,7 @@
       "titleES": "Cómo agregar o eliminar un servicio",
       "urlEN": "https://help.thumbtack.com/article/add-a-service",
       "urlES": "https://help.thumbtack.com/article/como-agregar-eliminar-servicio",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -333,6 +399,7 @@
       "titleES": "Cómo agregar fotos y videos",
       "urlEN": "https://help.thumbtack.com/article/photos-and-videos",
       "urlES": "https://help.thumbtack.com/article/como-agregar-fotos-videos",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -342,6 +409,7 @@
       "titleES": "Cómo solicitar reseñas",
       "urlEN": "https://help.thumbtack.com/article/ask-for-reviews",
       "urlES": "https://help.thumbtack.com/article/como-solicitar-resenas",
+      "urlPT": "https://help.thumbtack.com/article/como-solicitar-avaliacoes",
       "notes": ""
     },
     {
@@ -351,6 +419,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/manage-projects",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -360,6 +429,7 @@
       "titleES": "Cómo crear un webhook",
       "urlEN": "https://help.thumbtack.com/article/how-to-create-a-webhook",
       "urlES": "https://help.thumbtack.com/article/como-crear-un-webhook",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -369,6 +439,7 @@
       "titleES": "Cómo crear cotizaciones y facturas en Thumbtack",
       "urlEN": "https://help.thumbtack.com/article/estimates",
       "urlES": "https://help.thumbtack.com/article/como-crear-cotizaciones",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -378,6 +449,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/how-to-deactivate-an-account",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -387,6 +459,7 @@
       "titleES": "Cómo desactivar una cuenta profesional",
       "urlEN": "https://help.thumbtack.com/article/deactivate-my-account",
       "urlES": "https://help.thumbtack.com/article/como-desactivar-cuenta-profesional",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -396,6 +469,7 @@
       "titleES": "Cómo descargar nuestra aplicación para profesionales",
       "urlEN": "https://help.thumbtack.com/article/thumbtack-apps",
       "urlES": "https://help.thumbtack.com/article/como-descargar-nuestra-aplicacion-para-profesionales",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -405,6 +479,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/download-our-customer-app",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -414,6 +489,7 @@
       "titleES": "Cómo editar mi presupuesto",
       "urlEN": "https://help.thumbtack.com/article/set-budget",
       "urlES": "https://help.thumbtack.com/article/como-editar-mi-presupuesto",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -423,6 +499,7 @@
       "titleES": "Como editar el perfil de su negocio",
       "urlEN": "https://help.thumbtack.com/article/edit-my-profile",
       "urlES": "https://help.thumbtack.com/article/como-editar-el-perfil-de-su-negocio",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -432,6 +509,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/find-pros-on-thumbtack",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -441,6 +519,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/chat-with-pros",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -450,6 +529,7 @@
       "titleES": "Cómo solucionar problemas técnicos",
       "urlEN": "https://help.thumbtack.com/article/basic-troubleshooting",
       "urlES": "https://help.thumbtack.com/article/como-solucionar-problemas-tecnicos",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -459,6 +539,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/manage-home-care-plan",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -468,6 +549,7 @@
       "titleES": "Cómo importar reseñas a mi perfil de Thumbtack",
       "urlEN": "https://help.thumbtack.com/article/how-to-import-or-update-my-google-reviews",
       "urlES": "https://help.thumbtack.com/article/como-importar-o-actualizar-mis-resenas-de-google",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -477,6 +559,7 @@
       "titleES": "Cómo mejorar mi perfil",
       "urlEN": "https://help.thumbtack.com/article/improve-my-profile",
       "urlES": "https://help.thumbtack.com/article/mejorar-mi-perfil",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -486,6 +569,7 @@
       "titleES": "Cómo mejorar mi posición en los resultados de búsqueda",
       "urlEN": "https://help.thumbtack.com/article/my-rank-in-search-results",
       "urlES": "https://help.thumbtack.com/article/como-mejorar-clasificacion-resultados-de-busqueda",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -495,6 +579,7 @@
       "titleES": "Cómo realizar el seguimiento de mis trabajos",
       "urlEN": "https://help.thumbtack.com/article/keep-track-of-my-hires",
       "urlES": "https://help.thumbtack.com/article/como-realizar-el-seguimiento-de-mis-trabajos",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -504,6 +589,7 @@
       "titleES": "Cómo vincular su cuenta de Thumbtack con las plataformas asociadas",
       "urlEN": "https://help.thumbtack.com/article/how-to-link-your-thumbtack-account-with-partner-platforms",
       "urlES": "https://help.thumbtack.com/article/como-vincular-su-cuenta-de-thumbtack-con-las-plataformas-asociadas",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -513,6 +599,7 @@
       "titleES": "Cómo administrar mi disponibilidad",
       "urlEN": "https://help.thumbtack.com/article/my-availability",
       "urlES": "https://help.thumbtack.com/article/disponibilidad",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -522,6 +609,7 @@
       "titleES": "Cómo administrar el seguro de su negocio",
       "urlEN": "https://help.thumbtack.com/article/how-to-add-my-business-insurance",
       "urlES": "https://help.thumbtack.com/article/como-agregar-el-seguro-de-su-negocio",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -531,6 +619,7 @@
       "titleES": "Cómo administrar la licencia de su negocio",
       "urlEN": "https://help.thumbtack.com/article/manage-my-license",
       "urlES": "https://help.thumbtack.com/article/como-administrar-mi-licencia",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -540,6 +629,7 @@
       "titleES": "Cómo administrar mis proyectos destacados",
       "urlEN": "https://help.thumbtack.com/article/show-off-your-best-work",
       "urlES": "https://help.thumbtack.com/article/como-destacar-mi-mejor-trabajo",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -549,6 +639,7 @@
       "titleES": "Cómo administrar mis tipos de trabajo",
       "urlEN": "https://help.thumbtack.com/article/job-preferences",
       "urlES": "https://help.thumbtack.com/article/como-gestionar-tipos-de-trabajo",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -558,6 +649,7 @@
       "titleES": "Cómo administrar mis áreas de desplazamiento",
       "urlEN": "https://help.thumbtack.com/article/travel-preferences",
       "urlES": "https://help.thumbtack.com/article/como-elegir-areas-de-servicio",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -567,6 +659,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/how-to-match-with-a-pro-who-fits-your-schedule",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -576,6 +669,7 @@
       "titleES": "Cómo enviar mensajes a los clientes",
       "urlEN": "https://help.thumbtack.com/article/my-messages",
       "urlES": "https://help.thumbtack.com/article/como-enviar-mensajes-a-los-clientes",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -585,6 +679,7 @@
       "titleES": "Cómo pausar mis prospectos",
       "urlEN": "https://help.thumbtack.com/article/hide-my-business",
       "urlES": "https://help.thumbtack.com/article/como-pausar-mis-prospectos",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -594,6 +689,7 @@
       "titleES": "Como precargar mi saldo",
       "urlEN": "https://help.thumbtack.com/article/add-balance",
       "urlES": "https://help.thumbtack.com/article/como-precargar-mi-saldo",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -603,6 +699,7 @@
       "titleES": "Cómo establecer el precio de mis servicios",
       "urlEN": "https://help.thumbtack.com/article/price-my-services",
       "urlES": "https://help.thumbtack.com/article/como-establecer-precio-servicios",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -612,6 +709,7 @@
       "titleES": "Cómo contactar las oportunidades",
       "urlEN": "https://help.thumbtack.com/article/how-to-reach-out-to-opportunities",
       "urlES": "https://help.thumbtack.com/article/como-contactar-oportunidades",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -621,6 +719,7 @@
       "titleES": "Cómo reactivar una cuenta",
       "urlEN": "https://help.thumbtack.com/article/reactivate-my-account",
       "urlES": "https://help.thumbtack.com/article/how-to-reactivate-an-account-1",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -630,6 +729,7 @@
       "titleES": "Cómo recomendar a un profesional",
       "urlEN": "https://help.thumbtack.com/article/pro-referral-program",
       "urlES": "https://help.thumbtack.com/article/como-recomendar-a-un-profesional",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -639,6 +739,7 @@
       "titleES": "Cómo reportar actividad sospechosa",
       "urlEN": "https://help.thumbtack.com/article/reporting-suspicious-activity",
       "urlES": "https://help.thumbtack.com/article/reportar-actividade-sospechosa",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -648,6 +749,7 @@
       "titleES": "Cómo solicitar un reembolso",
       "urlEN": "https://help.thumbtack.com/article/how-to-request-a-refund",
       "urlES": "https://help.thumbtack.com/article/como-solicitar-un-reembolso",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -657,6 +759,7 @@
       "titleES": "Cómo reprogramar una reserva",
       "urlEN": "https://help.thumbtack.com/article/how-to-reschedule-a-booking",
       "urlES": "https://help.thumbtack.com/article/como-reprogramar-una-reserva",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -666,6 +769,7 @@
       "titleES": "Cómo resolver problemas con un cliente",
       "urlEN": "https://help.thumbtack.com/article/working-with-difficult-customers",
       "urlES": "https://help.thumbtack.com/article/trabajar-con-clientes-dificiles",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -675,6 +779,17 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/resolve-issues-with-a-project",
       "urlES": "",
+      "urlPT": "",
+      "notes": ""
+    },
+    {
+      "translationKey": "how to resolve issues",
+      "audience": "customer",
+      "titleEN": "",
+      "titleES": "Cómo resolver problemas en Thumbtack",
+      "urlEN": "",
+      "urlES": "https://help.thumbtack.com/article/como-resolver-problemas-en-thumbtack",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -684,6 +799,7 @@
       "titleES": "Cómo responder a los prospectos",
       "urlEN": "https://help.thumbtack.com/article/respond-to-leads",
       "urlES": "https://help.thumbtack.com/article/como-responder-prospectos-reservas",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -693,6 +809,7 @@
       "titleES": "Cómo responder a las reseñas",
       "urlEN": "https://help.thumbtack.com/article/respond-to-reviews",
       "urlES": "https://help.thumbtack.com/article/responder-a-las-resenas",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -702,6 +819,7 @@
       "titleES": "Cómo dejar una reseña a un profesional",
       "urlEN": "https://help.thumbtack.com/article/review-a-pro",
       "urlES": "https://help.thumbtack.com/article/como-dejar-resena-profesional",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -711,6 +829,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/set-lead-prices-1",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -720,6 +839,7 @@
       "titleES": "Cómo establecer mis precios de los prospectos",
       "urlEN": "https://help.thumbtack.com/article/set-lead-prices",
       "urlES": "https://help.thumbtack.com/article/establecer-precios-maximos-en-los-prospectos",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -729,6 +849,7 @@
       "titleES": "Cómo configurar un webhook en Zapier",
       "urlEN": "https://help.thumbtack.com/article/how-to-set-up-a-zapier-webhook",
       "urlES": "https://help.thumbtack.com/article/como-configurar-un-webhook-en-zapier",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -738,6 +859,7 @@
       "titleES": "Cómo configurar el depósito directo",
       "urlEN": "https://help.thumbtack.com/article/how-to-set-up-direct-deposit",
       "urlES": "https://help.thumbtack.com/article/como-configurar-el-deposito-directo",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -747,6 +869,7 @@
       "titleES": "Cómo compartir sus comentarios sobre el producto",
       "urlEN": "https://help.thumbtack.com/article/share-feedback",
       "urlES": "https://help.thumbtack.com/article/como-compartir-sus-comentarios-sobre-el-producto",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -756,6 +879,7 @@
       "titleES": "Cómo iniciar sesión en mi cuenta",
       "urlEN": "https://help.thumbtack.com/article/logging-in-to-my-account",
       "urlES": "https://help.thumbtack.com/article/como-iniciar-sesion",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -765,6 +889,7 @@
       "titleES": "Cómo registrarse como profesional",
       "urlEN": "https://help.thumbtack.com/article/signing-up-as-a-professional",
       "urlES": "https://help.thumbtack.com/article/como-registrarse-como-profesional",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -774,6 +899,7 @@
       "titleES": "Como suscribirse a nuestras herramientas y servicios para socios",
       "urlEN": "https://help.thumbtack.com/article/partner-tools-and-services",
       "urlES": "https://help.thumbtack.com/article/socios-servicios-y-herraminetas",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -783,6 +909,7 @@
       "titleES": "Cómo dejar de recibir y pagar por prospectos",
       "urlEN": "https://help.thumbtack.com/article/how-to-stop-receiving-and-paying-for-leads",
       "urlES": "https://help.thumbtack.com/article/como-dejar-de-recibir-y-pagar-por-prospectos",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -792,6 +919,7 @@
       "titleES": "Cómo cambiar entre su cuenta de profesional y su cuenta de cliente",
       "urlEN": "https://help.thumbtack.com/article/how-to-switch-between-my-pro-and-customer-accounts",
       "urlES": "https://help.thumbtack.com/article/como-cambiar-entre-su-cuenta-de-profesional-y-su-cuenta-de-cliente",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -801,6 +929,7 @@
       "titleES": "Cómo realizar una verificación de antecedentes",
       "urlEN": "https://help.thumbtack.com/article/background-checks",
       "urlES": "https://help.thumbtack.com/article/verificacion-antecedentes",
+      "urlPT": "https://help.thumbtack.com/article/como-fazer-uma-verificacao-de-antecedentes-criminais",
       "notes": ""
     },
     {
@@ -810,6 +939,7 @@
       "titleES": "Cómo realizar un seguimiento de mis gastos",
       "urlEN": "https://help.thumbtack.com/article/track-my-spending",
       "urlES": "https://help.thumbtack.com/article/como-realizar-seguimiento-de-mis-gastos",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -819,6 +949,7 @@
       "titleES": "Cómo transferir la titularidad de su cuenta",
       "urlEN": "https://help.thumbtack.com/article/request-account-transfer",
       "urlES": "https://help.thumbtack.com/article/como-transferir-la-titularidad-de-su-cuenta",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -828,6 +959,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/how-to-troubleshoot-login-issues",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -837,6 +969,7 @@
       "titleES": "Cómo activar o desactivar sus preferencias de trabajo",
       "urlEN": "https://help.thumbtack.com/article/targeting-preferences",
       "urlES": "https://help.thumbtack.com/article/aprenda-administrar-sus-preferencias-de-enfoque",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -846,6 +979,7 @@
       "titleES": "Cómo cancelar las notificaciones",
       "urlEN": "https://help.thumbtack.com/article/unsubscribe",
       "urlES": "https://help.thumbtack.com/article/como-cancelar-notificaciones",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -855,6 +989,7 @@
       "titleES": "Cómo actualizar mi contraseña",
       "urlEN": "https://help.thumbtack.com/article/update-password",
       "urlES": "https://help.thumbtack.com/article/como-actualizar-mi-contrasena",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -864,6 +999,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/update-review",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -873,6 +1009,7 @@
       "titleES": "Cómo actualizar las notificaciones",
       "urlEN": "https://help.thumbtack.com/article/notifications",
       "urlES": "https://help.thumbtack.com/article/como-actualizar-notificaciones",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -882,6 +1019,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/consumer-verifying-my-personal-information",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -891,6 +1029,7 @@
       "titleES": "Cómo actualizar la información personal como profesional",
       "urlEN": "https://help.thumbtack.com/article/verifying-my-personal-information",
       "urlES": "https://help.thumbtack.com/article/como-actualizar-cuenta-profesional",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -900,6 +1039,7 @@
       "titleES": "Cómo subir una foto de perfil",
       "urlEN": "https://help.thumbtack.com/article/profile-photo",
       "urlES": "https://help.thumbtack.com/article/como-subir-una-foto-perfil",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -909,6 +1049,7 @@
       "titleES": "Cómo utilizar respuestas rápidas",
       "urlEN": "https://help.thumbtack.com/article/save-my-replies",
       "urlES": "https://help.thumbtack.com/article/como-utilizar-respuestas-rapidas",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -918,6 +1059,7 @@
       "titleES": "Cómo utilizar plantillas de cotización",
       "urlEN": "https://help.thumbtack.com/article/quote-templates",
       "urlES": "https://help.thumbtack.com/article/como-utilizar-plantillas-de-cotizacion",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -927,6 +1069,7 @@
       "titleES": "Cómo utilizar la Comunidad de Thumbtack",
       "urlEN": "https://help.thumbtack.com/article/pro-community",
       "urlES": "https://help.thumbtack.com/article/como-utilizar-la-comunidad-de-thumbtack",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -936,6 +1079,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/verifying-insurance",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -945,6 +1089,7 @@
       "titleES": "Cómo ver mi panel de rendimiento",
       "urlEN": "https://help.thumbtack.com/article/insights",
       "urlES": "https://help.thumbtack.com/article/como-ver-mis-datos-del-perfil",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -954,6 +1099,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/license-upload-requirements-in-california",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -963,6 +1109,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/license-upload-requirements",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -972,6 +1119,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/lowes-installation",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -981,6 +1129,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/manage-on-demand-bookings",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -990,6 +1139,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/marketplace-payments-terms",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -999,6 +1149,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/midea-recall-program",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1008,6 +1159,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/moen-flo-installation",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1017,6 +1169,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/negotiation-tips-customers",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1026,6 +1179,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/negotiation-tips",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1035,6 +1189,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/activate",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1044,6 +1199,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/non-discrimination-policy",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1053,6 +1209,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/on-demand-bookings-terms-and-conditions",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1062,6 +1219,17 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/on-demand-bookings",
       "urlES": "",
+      "urlPT": "",
+      "notes": ""
+    },
+    {
+      "translationKey": "payment methods",
+      "audience": "pro",
+      "titleEN": "",
+      "titleES": "Métodos de pago",
+      "urlEN": "",
+      "urlES": "https://help.thumbtack.com/article/metodos-de-pago",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1071,6 +1239,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/data-protection-and-information-privacy",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1080,6 +1249,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/privacy-protection-policy",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1089,6 +1259,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/pro-guide-to-the-thumbtack-guarantee",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1098,6 +1269,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/ranking-101",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1107,6 +1279,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/refund-policy-customers",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1116,6 +1289,7 @@
       "titleES": "Política de reembolsos para profesionales",
       "urlEN": "https://help.thumbtack.com/article/refund-policy",
       "urlES": "https://help.thumbtack.com/article/politica-reebolsos-profesionales",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1125,6 +1299,7 @@
       "titleES": "Política de reembolsos para números de Thumbtack",
       "urlEN": "https://help.thumbtack.com/article/refund-policy-thumbtack-numbers",
       "urlES": "https://help.thumbtack.com/article/politica-de-reembolsos-para-numeros-de-thumbtack",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1134,6 +1309,17 @@
       "titleES": "Política de divulgación responsable",
       "urlEN": "https://help.thumbtack.com/article/responsible-disclosure-policy",
       "urlES": "https://help.thumbtack.com/article/politica-divulgacion-responsable",
+      "urlPT": "",
+      "notes": ""
+    },
+    {
+      "translationKey": "reviews",
+      "audience": "pro",
+      "titleEN": "",
+      "titleES": "Reseñas",
+      "urlEN": "",
+      "urlES": "https://help.thumbtack.com/article/evaluaciones",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1143,6 +1329,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/pay-a-pro",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1152,6 +1339,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/safety-tips",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1161,6 +1349,17 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/screening-on-thumbtack",
       "urlES": "",
+      "urlPT": "",
+      "notes": ""
+    },
+    {
+      "translationKey": "search results",
+      "audience": "pro",
+      "titleEN": "",
+      "titleES": "Resultados de búsqueda",
+      "urlEN": "",
+      "urlES": "https://help.thumbtack.com/article/resultados-de-busqueda",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1170,6 +1369,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/profile-growth",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1179,6 +1379,7 @@
       "titleES": "Términos y Condiciones de Pago Almacenados",
       "urlEN": "https://help.thumbtack.com/article/stored-payment-terms-and-conditions",
       "urlES": "https://help.thumbtack.com/article/terminos-y-condiciones-de-pago-almacenados",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1188,6 +1389,17 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/budget-fees-payments-taxes-terms",
       "urlES": "",
+      "urlPT": "",
+      "notes": ""
+    },
+    {
+      "translationKey": "thumbtack code of conduct",
+      "audience": "pro",
+      "titleEN": "",
+      "titleES": "Código de Conducta de Thumbtack",
+      "urlEN": "",
+      "urlES": "https://help.thumbtack.com/article/codigo-de-conducta-de-thumbtack",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1197,6 +1409,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/thumbtack-code-of-conduct",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1206,6 +1419,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/thumbtack-earnings-chargeback-protection-terms-and-conditions",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1215,6 +1429,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/real-estate-rebate-terms-and-conditions",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1224,6 +1439,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/thumbtack-guarantee-terms",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1233,6 +1449,17 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/thumbtack-policies",
       "urlES": "",
+      "urlPT": "",
+      "notes": ""
+    },
+    {
+      "translationKey": "thumbtack pro resources in spanish",
+      "audience": "pro",
+      "titleEN": "",
+      "titleES": "Recursos de Thumbtack en español para profesionales",
+      "urlEN": "",
+      "urlES": "https://help.thumbtack.com/article/recursos-de-thumbtack-en-espanol-para-profesionales",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1242,6 +1469,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/thumbtack-property-damage-and-money-back-guarantee-terms-and-conditions",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1251,6 +1479,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/thumbtack-purchase-order-terms-and-conditions",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1260,6 +1489,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/thumbtack-referral-program-terms-of-use",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1269,6 +1499,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/thumbtack-sms-terms-and-conditions",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1278,6 +1509,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/thumbtack-solution-center-homepage",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1287,6 +1519,7 @@
       "titleES": "Normas para usuarios de Thumbtack",
       "urlEN": "https://help.thumbtack.com/article/thumbtack-user-guidelines",
       "urlES": "https://help.thumbtack.com/article/normas-para-usuarios-de-thumbtack",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1296,6 +1529,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/thumbtack-benefithub-rebate-terms",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1305,6 +1539,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/thumbtack-cinch-rebate-terms",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1314,6 +1549,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/thumbtack-csc-rebate-terms",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1323,6 +1559,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/major-rocket-rebate",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1332,6 +1569,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/thumbtack-perplexity-rebate-terms",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1341,6 +1579,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/thumbtack-townsq-rebate-terms",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1350,6 +1589,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/terms-of-use",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1359,6 +1599,7 @@
       "titleES": "Términos del Compromiso de Calidad de Thumbtack",
       "urlEN": "https://help.thumbtack.com/article/quality-commitment-terms",
       "urlES": "https://help.thumbtack.com/article/terminos-del-compromiso-de-calidad-de-thumbtack",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1368,6 +1609,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/time-ran-out-customer",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1377,6 +1619,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/time-ran-out-pros",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1386,6 +1629,7 @@
       "titleES": "Consejos para recibir pagos",
       "urlEN": "https://help.thumbtack.com/article/tips-for-taking-payments",
       "urlES": "https://help.thumbtack.com/article/consejos-para-recibir-pagos",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1395,6 +1639,7 @@
       "titleES": "Solución de problemas con su cuenta de profesional",
       "urlEN": "https://help.thumbtack.com/article/troubleshooting-pro-account-issues",
       "urlES": "https://help.thumbtack.com/article/solucion-de-problemas-con-su-cuenta-de-profesional",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1404,6 +1649,7 @@
       "titleES": "Entendiendo los cargos del impuesto sobre las ventas",
       "urlEN": "https://help.thumbtack.com/article/understanding-sales-tax-charges",
       "urlES": "https://help.thumbtack.com/article/entendiendo-los-cargos-del-impuesto-sobre-las-ventas",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1413,6 +1659,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/upload-documentation",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1422,6 +1669,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/upload-documentation-pro",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1431,6 +1679,7 @@
       "titleES": "Uso del logo de Thumbtack",
       "urlEN": "https://help.thumbtack.com/article/use-of-the-thumbtack-logo",
       "urlES": "https://help.thumbtack.com/article/uso-del-logo-de-thumbtack",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1440,6 +1689,7 @@
       "titleES": "¿Qué son los trabajos reclamables",
       "urlEN": "https://help.thumbtack.com/article/claimable-job",
       "urlES": "https://help.thumbtack.com/article/que-son-los-trabajos-reclamables",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1449,6 +1699,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/claimable-service-calls",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1458,6 +1709,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/direct-calls",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1467,6 +1719,7 @@
       "titleES": "¿Qué son los prospectos, los trabajos reclamables y las oportunidades",
       "urlEN": "https://help.thumbtack.com/article/types-of-leads",
       "urlES": "https://help.thumbtack.com/article/que-son-los-prospectos-y-las-reservas",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1476,6 +1729,7 @@
       "titleES": "¿Qué son las Oportunidades",
       "urlEN": "https://help.thumbtack.com/article/opportunities",
       "urlES": "https://help.thumbtack.com/article/que-son-las-oportunidades",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1485,6 +1739,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/personalized-preferences",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1494,6 +1749,7 @@
       "titleES": "¿Qué son los resultados de búsqueda",
       "urlEN": "https://help.thumbtack.com/article/search-results",
       "urlES": "https://help.thumbtack.com/article/que-son-los-resultados-de-busqueda",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1503,6 +1759,17 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/smart-match-leads",
       "urlES": "",
+      "urlPT": "",
+      "notes": ""
+    },
+    {
+      "translationKey": "what are smart match leads?",
+      "audience": "pro",
+      "titleEN": "",
+      "titleES": "¿Qué son los prospectos de Smart Match",
+      "urlEN": "",
+      "urlES": "https://help.thumbtack.com/article/prospectos-smart-match",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1512,6 +1779,7 @@
       "titleES": "¿Qué son los números de Thumbtack",
       "urlEN": "https://help.thumbtack.com/article/thumbtack-phone-numbers-on-direct-leads",
       "urlES": "https://help.thumbtack.com/article/que-son-los-numeros-de-thumbtack",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1521,6 +1789,7 @@
       "titleES": "¿Qué es un perfil",
       "urlEN": "https://help.thumbtack.com/article/profile",
       "urlES": "https://help.thumbtack.com/article/que-es-un-perfil",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1530,6 +1799,7 @@
       "titleES": "¿Qué es un servicio en Thumbtack",
       "urlEN": "https://help.thumbtack.com/article/my-services",
       "urlES": "https://help.thumbtack.com/article/que-es-un-servicio-en-thumbtack",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1539,6 +1809,7 @@
       "titleES": "¿Qué es un negocio verificado",
       "urlEN": "https://help.thumbtack.com/article/verified-businesses",
       "urlES": "https://help.thumbtack.com/article/que-es-un-negocio-verificado",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1548,6 +1819,7 @@
       "titleES": "¿Qué es Front Desk",
       "urlEN": "https://help.thumbtack.com/article/what-is-front-desk",
       "urlES": "https://help.thumbtack.com/article/que-es-front-desk",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1557,6 +1829,7 @@
       "titleES": "¿Qué son los depósitos instantáneos",
       "urlEN": "https://help.thumbtack.com/article/what-are-instant-deposits",
       "urlES": "https://help.thumbtack.com/article/depositos-instantaneos",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1566,6 +1839,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/smarter-lead-matching",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1575,6 +1849,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/what-is-the-solution-center",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1584,6 +1859,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/the-thumbtack-guarantee",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1593,6 +1869,7 @@
       "titleES": "¿Qué es el programa Thumbtack Pro Rewards",
       "urlEN": "https://help.thumbtack.com/article/thumbtack-pro-rewards-program",
       "urlES": "https://help.thumbtack.com/article/programa-thumbtack-pro-rewards",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1602,6 +1879,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/quality-commitment",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1611,6 +1889,7 @@
       "titleES": "Qué hacer cuando un cliente no responde",
       "urlEN": "https://help.thumbtack.com/article/what-to-do-when-a-customer-doesnt-respond",
       "urlES": "https://help.thumbtack.com/article/que-hacer-cuando-un-cliente-no-responde",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1620,6 +1899,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/why-is-thumbtack-involved",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1629,6 +1909,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/withdrawn-dispute-customer",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1638,6 +1919,7 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/withdrawn-dispute-pros",
       "urlES": "",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1647,6 +1929,7 @@
       "titleES": "Guía para sus primeras dos semanas en Thumbtack",
       "urlEN": "https://help.thumbtack.com/article/new-pro-guide-1",
       "urlES": "https://help.thumbtack.com/article/guia-para-las-primeras-dos-semanas-en-thumbtack",
+      "urlPT": "",
       "notes": ""
     }
   ]
