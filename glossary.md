@@ -1,6 +1,6 @@
 # Thumbtack ES-US Glossary (approved)
 
-Offline fallback snapshot of 240 approved terms (machine source: `glossary.json`, synced from the Apps Script endpoint). Product/UI/specific terms must stay consistent; ordinary words not listed here vary by context.
+Offline fallback snapshot of 234 approved terms (machine source: `glossary.json`, synced from the Apps Script endpoint). Product/UI/specific terms must stay consistent; ordinary words not listed here vary by context.
 
 
 ## PRODUCT — never translate, keep English exactly (2)
@@ -36,7 +36,7 @@ Offline fallback snapshot of 240 approved terms (machine source: `glossary.json`
 - **View details** → `View details ("Ver detalles")`  — _Acción para ver la información completa de un trabajo u oportunidad._
 - **Weekly Budget** → `Weekly Budget ("Presupuesto Semanal")`  — _El límite de gasto que puedes establecer para los prospectos._
 
-## TERMS / specific vocabulary — canonical ES when used in the sense in Context (213)
+## TERMS / specific vocabulary — canonical ES when used in the sense in Context (207)
 
 - **+ Add new** → + Agregar nuevo  — _Etiqueta de botón para añadir números adicionales._
 - **Access code** → código de acceso  — _Código de 7 dígitos para conectar llamadas desde números no registrados._
@@ -69,7 +69,6 @@ Offline fallback snapshot of 240 approved terms (machine source: `glossary.json`
 - **Claimable Jobs** → Trabajos Reclamables  — _Proyectos disponibles en tu área que puedes reclamar si te interesan._
 - **Code of Conduct** → Código de Conducta  — _Las expectativas de comportamiento para profesionales y clientes en la plataforma._
 - **Confirmation letter** → Carta de confirmación  — _Documento (generalmente del banco) que verifica una acción, como retirar una disputa._
-- **Contact Us / Support** → Contáctanos / Soporte  — _La forma de comunicarte con el equipo de atención al cliente de Thumbtack._
 - **Content and Review Policy** → Política de Contenido y Reseñas  — _Las reglas de Thumbtack sobre lo que se puede publicar en reseñas y perfiles._
 - **Copy to clipboard** → Copiar al portapapeles  — _Función para copiar la información del cliente y pegarla externamente._
 - **Copyright Policy** → Política de Derechos de Autor  — _Las reglas sobre el uso de material protegido (fotos, textos)._
@@ -106,7 +105,6 @@ Offline fallback snapshot of 240 approved terms (machine source: `glossary.json`
 - **Forgot password?** → ¿Olvidó su contraseña?  — _Enlace de ayuda para recuperar el acceso a la cuenta._
 - **form** → formulario  — _Documento digital para solicitar cambios en la cuenta o servicio._
 - **Fraud and Damage Policy** → Política de Fraude y Daños  — _Lo que cubre Thumbtack en caso de fraude o daños materiales._
-- **Front Desk** → Front Desk  — _Nombre del servicio de respuesta automática de Thumbtack._
 - **GDPR (General Data Protection Regulation)** → GDPR (Reglamento General de Protección de Datos)  — _Regulación de la Unión Europea sobre protección de datos._
 - **Guidelines** → Pautas  — _Reglas y recomendaciones de la plataforma. El corpus usa 'pautas'; evitar 'directrices'._
 - **Help Center** → Centro de Ayuda  — _La colección de todos nuestros artículos y guías de soporte._
@@ -140,13 +138,11 @@ Offline fallback snapshot of 240 approved terms (machine source: `glossary.json`
 - **Opportunities tab** → Pestaña de Oportunidades  — _Sección de la aplicación donde los profesionales encuentran nuevos clientes._
 - **Opt-Out** → Optar por Excluirse  — _El acto de elegir no permitir que se venda o comparta tu información personal._
 - **Outstanding balance** → Saldo pendiente  — _Una cantidad de dinero que le debes a Thumbtack._
-- **partner tool** → herramientas de socios  — _Aplicaciones externas que tienen una integración directa y oficial._
 - **partner tool** → herramienta de socios  — _Aplicaciones externas que tienen una colaboración oficial con Thumbtack._
 - **Partner Tools** → Herramientas de Socios  — _Integraciones con otras plataformas (ej. GoSite)._
 - **payment history** → historial de pagos  — _Registro detallado de todas las transacciones y gastos realizados por el profesional._
 - **Payment Information** → Información de Pago  — _Detalles financieros como números de tarjeta de crédito o cuentas bancarias._
 - **payment method** → método de pago  — _Tarjeta de crédito o débito guardada para realizar los cobros futuros._
-- **Payments** → Payments ("Pagos")  — _Sección de la cuenta donde se gestionan las tarjetas bancarias._
 - **Pending** → Pendiente  — _Estado de una solicitud de reembolso que aún espera aprobación._
 - **Performance Dashboard** → Panel de Rendimiento  — _La sección donde analizas tus estadísticas (vistas, respuestas, etc.)._
 - **Personal Information** → Información personal  — _Cualquier dato que pueda ser usado para identificar a un individuo._
@@ -173,7 +169,6 @@ Offline fallback snapshot of 240 approved terms (machine source: `glossary.json`
 - **Quote** → Cotización  — _La propuesta de precio que envías a un prospecto._
 - **Quote Templates** → Plantillas de Cotización  — _Modelos de cotizaciones pre-hechos para enviar a los clientes._
 - **Rank** → posición  — _Su posición en los resultados de búsqueda._
-- **Rank / Ranking** → Clasificación / Posición  — _Tu posición en los resultados de búsqueda de los clientes._
 - **Ranking** → clasificación  — _El ordenamiento de profesionales en los resultados de búsqueda._
 - **ratings** → calificaciones  — _Puntuaciones otorgadas por los clientes a los profesionales._
 - **Receipts** → Recibos  — _Pestaña donde se pueden visualizar y descargar los comprobantes de pago._
@@ -197,7 +192,6 @@ Offline fallback snapshot of 240 approved terms (machine source: `glossary.json`
 - **Responsible Disclosure** → Divulgación Responsable  — _La política para reportar vulnerabilidades de seguridad que encuentres._
 - **review** → reseña  — _Calificación y comentario dejado por los clientes sobre el profesional._
 - **Reviews** → Reseñas  — _Las valoraciones y comentarios que los clientes dejan en tu perfil._
-- **Right to...** → Derecho a...  — _Se refiere a los derechos de privacidad (Corregir, Eliminar, Saber, etc.)._
 - **Sales Tax** → Impuesto sobre las Ventas  — _El impuesto que se puede aplicar a los servicios según la ubicación._
 - **Save changes** → Save changes (“Guardar cambios”)  — _Botón para confirmar y guardar las actualizaciones realizadas._
 - **Security** → Seguridad  — _Medidas para proteger tu cuenta, como la autenticación de dos factores._

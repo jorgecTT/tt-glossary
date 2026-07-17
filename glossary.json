@@ -1,7 +1,7 @@
 {
   "ok": true,
   "mode": "glossary",
-  "count": 240,
+  "count": 234,
   "terms": [
     {
       "en": "Account",
@@ -182,15 +182,6 @@
       "dateAdded": "2026-07-10T05:00:00.000Z",
       "status": "manual",
       "type": "term"
-    },
-    {
-      "en": "Contact Us / Support",
-      "es": "Contáctanos / Soporte",
-      "context": "La forma de comunicarte con el equipo de atención al cliente de Thumbtack.",
-      "sourceArticle": "manual glossary import",
-      "dateAdded": "2026-07-10T05:00:00.000Z",
-      "status": "rejected",
-      "type": ""
     },
     {
       "en": "Content and Review Policy",
@@ -715,15 +706,6 @@
       "type": "term"
     },
     {
-      "en": "Rank / Ranking",
-      "es": "Clasificación / Posición",
-      "context": "Tu posición en los resultados de búsqueda de los clientes.",
-      "sourceArticle": "manual glossary import",
-      "dateAdded": "2026-07-10T05:00:00.000Z",
-      "status": "rejected",
-      "type": ""
-    },
-    {
       "en": "Reactivate account",
       "es": "Reactivar cuenta",
       "context": "Volver a habilitar una cuenta que estaba desactivada o suspendida.",
@@ -830,15 +812,6 @@
       "dateAdded": "2026-07-10T05:00:00.000Z",
       "status": "manual",
       "type": "term"
-    },
-    {
-      "en": "Right to...",
-      "es": "Derecho a...",
-      "context": "Se refiere a los derechos de privacidad (Corregir, Eliminar, Saber, etc.).",
-      "sourceArticle": "manual glossary import",
-      "dateAdded": "2026-07-10T05:00:00.000Z",
-      "status": "rejected",
-      "type": ""
     },
     {
       "en": "Sales Tax",
@@ -1273,15 +1246,6 @@
       "type": ""
     },
     {
-      "en": "partner tool",
-      "es": "herramientas de socios",
-      "context": "Aplicaciones externas que tienen una integración directa y oficial.",
-      "sourceArticle": "How to create a webhook",
-      "dateAdded": "2026-07-14T05:00:00.000Z",
-      "status": "rejected",
-      "type": ""
-    },
-    {
       "en": "test lead",
       "es": "prospecto de prueba",
       "context": "Datos de ejemplo enviados para verificar el funcionamiento de la conexión.",
@@ -1687,15 +1651,6 @@
       "type": ""
     },
     {
-      "en": "Payments",
-      "es": "Payments (\"Pagos\")",
-      "context": "Sección de la cuenta donde se gestionan las tarjetas bancarias.",
-      "sourceArticle": "How to sign up as a pro",
-      "dateAdded": "2026-07-14T05:00:00.000Z",
-      "status": "rejected",
-      "type": ""
-    },
-    {
       "en": "profile",
       "es": "perfil",
       "context": "Página pública con la información y servicios del profesional.",
@@ -2062,15 +2017,6 @@
       "sourceArticle": "What are Thumbtack numbers",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
-    },
-    {
-      "en": "Front Desk",
-      "es": "Front Desk",
-      "context": "Nombre del servicio de respuesta automática de Thumbtack.",
-      "sourceArticle": "What is Front Desk",
-      "dateAdded": "2026-07-14T05:00:00.000Z",
-      "status": "rejected",
       "type": ""
     },
     {
