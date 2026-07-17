@@ -30,14 +30,24 @@ jobs:
       - name: Regenerate glossary.md
         run: python3 scripts/build_md.py
 
+      - name: Fetch url_index (published article URLs) and build link map
+        env:
+          URL_INDEX_CSV: "https://docs.google.com/spreadsheets/d/16X-I4oT-W96XTwx1qs7ErqTAT6sJI7du3_vnYFp9MIo/export?format=csv&gid=1087407530"
+        run: |
+          set -euo pipefail
+          curl -sSL -m 60 "$URL_INDEX_CSV" -o url_index.csv
+          head -1 url_index.csv | grep -q "translationKey" # sanity check it's the CSV, not a login page
+          python3 scripts/build_articles.py url_index.csv
+          rm -f url_index.csv
+
       - name: Commit if changed
         run: |
           git config user.name "glossary-sync-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add glossary.json glossary.md
+          git add glossary.json glossary.md articles.json
           if git diff --cached --quiet; then
-            echo "No glossary changes."
+            echo "No changes."
           else
-            git commit -m "Sync glossary ($(date -u +%Y-%m-%dT%H:%MZ))"
+            git commit -m "Sync glossary + article link map ($(date -u +%Y-%m-%dT%H:%MZ))"
             git push
           fi
