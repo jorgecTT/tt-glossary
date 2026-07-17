@@ -30,21 +30,23 @@ jobs:
       - name: Regenerate glossary.md
         run: python3 scripts/build_md.py
 
-      - name: Fetch url_index (published article URLs) and build link map
+      - name: Fetch url_index, build link map + master book
         env:
           URL_INDEX_CSV: "https://docs.google.com/spreadsheets/d/16X-I4oT-W96XTwx1qs7ErqTAT6sJI7du3_vnYFp9MIo/export?format=csv&gid=1087407530"
+          EXEC_URL: "https://script.google.com/macros/s/AKfycbxbORV7ZpK1MdepVI__yFLzxMj7RZRF48kdTZ4TZI5qZp7d836UspO5F8_5TuHPtiNUmA/exec"
         run: |
           set -euo pipefail
           curl -sSL -m 60 "$URL_INDEX_CSV" -o url_index.csv
           head -1 url_index.csv | grep -q "translationKey" # sanity check it's the CSV, not a login page
           python3 scripts/build_articles.py url_index.csv
+          python3 scripts/build_masterbook.py "$EXEC_URL" url_index.csv
           rm -f url_index.csv
 
       - name: Commit if changed
         run: |
           git config user.name "glossary-sync-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add glossary.json glossary.md articles.json
+          git add glossary.json glossary.md articles.json masterbook.json
           if git diff --cached --quiet; then
             echo "No changes."
           else
