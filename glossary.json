@@ -1,7 +1,7 @@
 {
   "ok": true,
   "mode": "glossary",
-  "count": 233,
+  "count": 235,
   "terms": [
     {
       "en": "Account",
@@ -2097,6 +2097,24 @@
       "context": "El equipo/área de atención al cliente.",
       "sourceArticle": "glossary cleanup",
       "dateAdded": "2026-07-14T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Insights",
+      "es": "Panel de Rendimiento",
+      "context": "Nombre anterior de la sección hoy llamada Performance Dashboard, donde el profesional ve el rendimiento de su negocio (vistas, respuestas, contrataciones). Cuando el inglés nombra la sección o pestaña, use el doble render de UI: Insights (\"Panel de Rendimiento\").",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-17",
+      "status": "manual",
+      "type": "ui"
+    },
+    {
+      "en": "lead insights",
+      "es": "información de prospectos",
+      "context": "Datos sobre los prospectos: cuántos llegan, competencia y tendencias. Traducción directa. No confundir con la sección Insights (hoy Performance Dashboard / Panel de Rendimiento). Coincidencia multi-palabra: tiene prioridad sobre el término suelto Insights.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-07-17",
       "status": "manual",
       "type": "term"
     }

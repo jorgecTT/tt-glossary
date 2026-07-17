@@ -1,6 +1,6 @@
 # Thumbtack ES-US Glossary (approved)
 
-Offline fallback snapshot of 233 approved terms (machine source: `glossary.json`, synced from the Apps Script endpoint). Product/UI/specific terms must stay consistent; ordinary words not listed here vary by context.
+Offline fallback snapshot of 235 approved terms (machine source: `glossary.json`, synced from the Apps Script endpoint). Product/UI/specific terms must stay consistent; ordinary words not listed here vary by context.
 
 
 ## PRODUCT — never translate, keep English exactly (2)
@@ -8,7 +8,7 @@ Offline fallback snapshot of 233 approved terms (machine source: `glossary.json`
 - **Front Desk** → keep as `Front Desk`  — _Un servicio que ayuda a gestionar las llamadas y los prospectos iniciales._
 - **Thumbtack Pay** → keep as `Thumbtack Pay`  — _Sistema de procesamiento de pagos — nombre de producto, no se traduce._
 
-## UI — render as EnglishLabel ("Traducción") (25)
+## UI — render as EnglishLabel ("Traducción") (26)
 
 - **Account Settings** → `Account Settings ("Configuración de la cuenta")`  — _El área donde gestionas tu información personal, contraseña y notificaciones._
 - **Add new service** → `Add new service ("Agregar nuevo servicio")`  — _Acción para crear un servicio nuevo en su perfil._
@@ -18,6 +18,7 @@ Offline fallback snapshot of 233 approved terms (machine source: `glossary.json`
 - **Contact Us** → `Contact Us ("Contáctanos")`  — _Botón/enlace de UI para contactar al equipo de soporte._
 - **Deactivate Account** → `Deactivate Account ("Desactivar Cuenta")`  — _Pausar tu cuenta temporalmente para no recibir prospectos ni cargos._
 - **For you** → `For you ("Para usted")`  — _Pestaña donde ve recomendaciones y trabajos que coinciden con su preferencias._
+- **Insights** → `Insights ("Panel de Rendimiento")`  — _Nombre anterior de la sección hoy llamada Performance Dashboard, donde el profesional ve el rendimiento de su negocio (vistas, respuestas, contrataciones). Cuando el inglés nombra la sección o pestaña, use el doble render de UI: Insights ("Panel de Rendimiento")._
 - **Job Preferences** → `Job Preferences ("Preferencias de trabajo")`  — _La configuración de dónde, cuándo y qué tipo de trabajos quieres._
 - **Manage lead prices** → `Manage lead prices ("Administrar precios de prospectos")`  — _Etiqueta de UI para cambiar precios de prospectos._
 - **Mark as Hired** → `Mark as Hired ("Marcar como Contratado")`  — _La acción de indicar que un cliente te ha elegido para el trabajo._
@@ -36,7 +37,7 @@ Offline fallback snapshot of 233 approved terms (machine source: `glossary.json`
 - **View details** → `View details ("Ver detalles")`  — _Acción para ver la información completa de un trabajo u oportunidad._
 - **Weekly Budget** → `Weekly Budget ("Presupuesto Semanal")`  — _El límite de gasto que puedes establecer para los prospectos._
 
-## TERMS / specific vocabulary — canonical ES when used in the sense in Context (206)
+## TERMS / specific vocabulary — canonical ES when used in the sense in Context (207)
 
 - **+ Add new** → + Agregar nuevo  — _Etiqueta de botón para añadir números adicionales._
 - **Access code** → código de acceso  — _Código de 7 dígitos para conectar llamadas desde números no registrados._
@@ -117,6 +118,7 @@ Offline fallback snapshot of 233 approved terms (machine source: `glossary.json`
 - **Jobs page** → pestaña Jobs  — _Sección de la interfaz donde se gestionan los trabajos._
 - **Law Enforcement Requests** → Solicitudes de Autoridades  — _Peticiones de información por parte de la policía u organismos oficiales._
 - **lead** → prospecto  — _Cliente potencial interesado en contratar los servicios de un profesional._
+- **lead insights** → información de prospectos  — _Datos sobre los prospectos: cuántos llegan, competencia y tendencias. Traducción directa. No confundir con la sección Insights (hoy Performance Dashboard / Panel de Rendimiento). Coincidencia multi-palabra: tiene prioridad sobre el término suelto Insights._
 - **lead price** → precios de los prospectos  — _Monto exacto que el profesional paga por cada contacto de cliente potencial._
 - **Lead prices** → Precios de los prospectos  — _Frase en texto general para hablar de cuánto paga por prospectos._
 - **Leads** → Prospectos  — _Clientes potenciales que coinciden con tus preferencias de trabajo._
