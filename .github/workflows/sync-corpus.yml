@@ -1,0 +1,41 @@
+name: Sync corpus cache
+
+# Rebuilds corpus_full.json from the "corpus" tab of the Content Audit — Corpus
+# Cache sheet, which the Field Enablement Apps Script refreshes every night with
+# that day's HC/KA changes. This keeps the public mirror in sync so the
+# tt-content-index-auditor skill can fetch it from GitHub (which claude.ai's
+# sandbox allows) instead of script.google.com (which it blocks).
+
+on:
+  schedule:
+    - cron: "0 13 * * *" # daily at 13:00 UTC — after the nightly sheet update
+  workflow_dispatch: {} # allow manual runs from the Actions tab
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build corpus_full.json from the corpus sheet
+        env:
+          CORPUS_CSV_URL: "https://docs.google.com/spreadsheets/d/16X-I4oT-W96XTwx1qs7ErqTAT6sJI7du3_vnYFp9MIo/gviz/tq?tqx=out:csv&sheet=corpus"
+        run: |
+          set -euo pipefail
+          python3 scripts/build_corpus.py
+          # sanity: valid JSON with a healthy number of articles
+          python3 -c "import json; d=json.load(open('corpus_full.json')); assert d.get('ok') and d.get('count',0) > 400, 'suspiciously small corpus'; print('corpus_full.json OK:', d['count'], 'articles')"
+
+      - name: Commit if changed
+        run: |
+          git config user.name "corpus-sync-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add corpus_full.json
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "Sync corpus cache ($(date -u +%Y-%m-%dT%H:%MZ))"
+            git push
+          fi
