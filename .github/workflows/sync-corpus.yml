@@ -8,7 +8,7 @@ name: Sync corpus cache
 
 on:
   schedule:
-    - cron: "0 13 * * *" # daily at 13:00 UTC — after the nightly sheet update
+    - cron: "0 12 * * *" # daily at 12:00 UTC = 5am Pacific (PDT) — after the nightly sheet update
   workflow_dispatch: {} # allow manual runs from the Actions tab
 
 jobs:
