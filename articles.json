@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "count": 193,
+  "count": 194,
   "articles": [
     {
       "translationKey": "1099-k tax support faqs",
@@ -319,6 +319,16 @@
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/lowes-jobs",
       "urlES": "",
+      "urlPT": "",
+      "notes": ""
+    },
+    {
+      "translationKey": "how moen flo installation jobs work",
+      "audience": "pro",
+      "titleEN": "",
+      "titleES": "Cómo funcionan los trabajos de instalación de Moen Flo",
+      "urlEN": "",
+      "urlES": "https://help.thumbtack.com/article/como-funcionan-los-trabajos-de-instalacion-de-moen-flo",
       "urlPT": "",
       "notes": ""
     },
