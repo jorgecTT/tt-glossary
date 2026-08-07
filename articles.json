@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "count": 194,
+  "count": 197,
   "articles": [
     {
       "translationKey": "1099-k tax support faqs",
@@ -1303,6 +1303,16 @@
       "notes": ""
     },
     {
+      "translationKey": "refund policy for smarter lead matching",
+      "audience": "pro",
+      "titleEN": "Refund policy for smarter lead matching",
+      "titleES": "",
+      "urlEN": "https://help.thumbtack.com/article/refund-policy-smarter-lead-matching",
+      "urlES": "",
+      "urlPT": "",
+      "notes": ""
+    },
+    {
       "translationKey": "refund policy for thumbtack numbers",
       "audience": "pro",
       "titleEN": "Refund policy for Thumbtack numbers",
@@ -1850,6 +1860,16 @@
       "urlEN": "https://help.thumbtack.com/article/smarter-lead-matching",
       "urlES": "",
       "urlPT": "",
+      "notes": "duplicate EN: 1L8Igw9jSnIsemI58K9oiJ_k4il9aFlEylCf_lY2Tjto"
+    },
+    {
+      "translationKey": "what is the apps tab?",
+      "audience": "pro",
+      "titleEN": "What is the Apps tab",
+      "titleES": "¿Qué es la pestaña Apps",
+      "urlEN": "https://help.thumbtack.com/article/what-is-the-apps-tab",
+      "urlES": "https://help.thumbtack.com/article/que-es-la-pestana-apps",
+      "urlPT": "",
       "notes": ""
     },
     {
@@ -1928,6 +1948,16 @@
       "titleEN": "Withdrawn dispute",
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/withdrawn-dispute-pros",
+      "urlES": "",
+      "urlPT": "",
+      "notes": ""
+    },
+    {
+      "translationKey": "your guide to your first two weeks on thumbtack [english]",
+      "audience": "pro",
+      "titleEN": "Your guide to your first two weeks on Thumbtack",
+      "titleES": "",
+      "urlEN": "https://help.thumbtack.com/article/new-pro-guide-2",
       "urlES": "",
       "urlPT": "",
       "notes": ""
