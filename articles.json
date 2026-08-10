@@ -85,7 +85,7 @@
     {
       "translationKey": "claimable jobs policy",
       "audience": "pro",
-      "titleEN": "Claimable Jobs Policy",
+      "titleEN": "Preset Jobs Policy",
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/claimable-jobs-policy",
       "urlES": "",
@@ -1705,8 +1705,8 @@
     {
       "translationKey": "what are claimable jobs?",
       "audience": "pro",
-      "titleEN": "What are claimable jobs",
-      "titleES": "¿Qué son los trabajos reclamables",
+      "titleEN": "What are preset jobs",
+      "titleES": "¿Qué son los trabajos preestablecidos",
       "urlEN": "https://help.thumbtack.com/article/claimable-job",
       "urlES": "https://help.thumbtack.com/article/que-son-los-trabajos-reclamables",
       "urlPT": "",
@@ -1715,7 +1715,7 @@
     {
       "translationKey": "what are claimable service calls? [experiment]",
       "audience": "pro",
-      "titleEN": "What are claimable service calls",
+      "titleEN": "What are preset service calls",
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/claimable-service-calls",
       "urlES": "",
@@ -1735,8 +1735,8 @@
     {
       "translationKey": "what are leads, claimable jobs, and opportunities?",
       "audience": "pro",
-      "titleEN": "What are leads, claimable jobs, and opportunities",
-      "titleES": "¿Qué son los prospectos, los trabajos reclamables y las oportunidades",
+      "titleEN": "What are leads, preset jobs, and opportunities",
+      "titleES": "¿Qué son los prospectos, los trabajos preestablecidos y las oportunidades",
       "urlEN": "https://help.thumbtack.com/article/types-of-leads",
       "urlES": "https://help.thumbtack.com/article/que-son-los-prospectos-y-las-reservas",
       "urlPT": "",
