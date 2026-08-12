@@ -1099,7 +1099,7 @@
       "sourceArticle": "Here’s a guide to spending on Thumbtack.",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "term"
     },
     {
       "en": "Phone Number Guarantee",
@@ -1108,7 +1108,7 @@
       "sourceArticle": "Here’s a guide to spending on Thumbtack.",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "term"
     },
     {
       "en": "lead price",
@@ -1117,7 +1117,7 @@
       "sourceArticle": "Here’s a guide to spending on Thumbtack.",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "term"
     },
     {
       "en": "payment method",
@@ -1126,7 +1126,7 @@
       "sourceArticle": "Here’s a guide to spending on Thumbtack.",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "term"
     },
     {
       "en": "payment history",
@@ -1135,7 +1135,7 @@
       "sourceArticle": "Here’s a guide to spending on Thumbtack.",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "term"
     },
     {
       "en": "Payments",
@@ -1153,7 +1153,7 @@
       "sourceArticle": "Here’s a guide to spending on Thumbtack.",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "ui"
     },
     {
       "en": "Download",
@@ -1162,7 +1162,7 @@
       "sourceArticle": "Here’s a guide to spending on Thumbtack.",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "ui"
     },
     {
       "en": "Thumbtack",
@@ -1171,7 +1171,7 @@
       "sourceArticle": "How Thumbtack works",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "product"
     },
     {
       "en": "pros",
@@ -1180,7 +1180,7 @@
       "sourceArticle": "How Thumbtack works",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "term"
     },
     {
       "en": "pro account",
@@ -1189,7 +1189,7 @@
       "sourceArticle": "How Thumbtack works",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "term"
     },
     {
       "en": "Jobs page",
@@ -1198,7 +1198,7 @@
       "sourceArticle": "How Thumbtack works",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "ui"
     },
     {
       "en": "ratings",
@@ -1207,7 +1207,7 @@
       "sourceArticle": "How Thumbtack works",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "term"
     },
     {
       "en": "Pro Tip",
@@ -1216,7 +1216,7 @@
       "sourceArticle": "How Thumbtack works",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "product"
     },
     {
       "en": "Pill Pro",
@@ -1225,7 +1225,7 @@
       "sourceArticle": "How to create a webhook",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "product"
     },
     {
       "en": "webhook",
@@ -1234,7 +1234,7 @@
       "sourceArticle": "How to create a webhook",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "term"
     },
     {
       "en": "test lead",
@@ -1243,7 +1243,7 @@
       "sourceArticle": "How to create a webhook",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "term"
     },
     {
       "en": "Integrations",
@@ -1252,7 +1252,7 @@
       "sourceArticle": "How to create a webhook",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "ui"
     },
     {
       "en": "Manage webhooks",
@@ -1261,7 +1261,7 @@
       "sourceArticle": "How to create a webhook",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "ui"
     },
     {
       "en": "Create webhook",
@@ -1270,7 +1270,7 @@
       "sourceArticle": "How to create a webhook",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "ui"
     },
     {
       "en": "Save changes",
@@ -1279,7 +1279,7 @@
       "sourceArticle": "How to create a webhook",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "ui"
     },
     {
       "en": "Test this webhook",
@@ -1288,7 +1288,7 @@
       "sourceArticle": "How to create a webhook",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "ui"
     },
     {
       "en": "Recent deliveries",
@@ -1297,7 +1297,7 @@
       "sourceArticle": "How to create a webhook",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "ui"
     },
     {
       "en": "Failure",
@@ -1306,7 +1306,7 @@
       "sourceArticle": "How to create a webhook",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "ui"
     },
     {
       "en": "Responses",
@@ -1315,7 +1315,7 @@
       "sourceArticle": "How to create a webhook",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "ui"
     },
     {
       "en": "Delete webhook",
@@ -1324,7 +1324,7 @@
       "sourceArticle": "How to create a webhook",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "ui"
     },
     {
       "en": "Enabled",
@@ -1333,7 +1333,7 @@
       "sourceArticle": "How to create a webhook",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "ui"
     },
     {
       "en": "Disabled",
@@ -1342,7 +1342,7 @@
       "sourceArticle": "How to create a webhook",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "ui"
     },
     {
       "en": "endpoint URL",
@@ -1351,7 +1351,7 @@
       "sourceArticle": "How to create a webhook",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "ui"
     },
     {
       "en": "Authorization type",
@@ -1360,7 +1360,7 @@
       "sourceArticle": "How to create a webhook",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "ui"
     },
     {
       "en": "Thumbtack Pro app",
@@ -1369,7 +1369,7 @@
       "sourceArticle": "How to download our pro app",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "term"
     },
     {
       "en": "messages",
@@ -1378,7 +1378,7 @@
       "sourceArticle": "How to download our pro app",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "term"
     },
     {
       "en": "app store",
@@ -1387,7 +1387,7 @@
       "sourceArticle": "How to download our pro app",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "term"
     },
     {
       "en": "Download the pro app now",
@@ -1396,7 +1396,7 @@
       "sourceArticle": "How to download our pro app",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "ui"
     },
     {
       "en": "Thumbtack account",
@@ -1405,7 +1405,7 @@
       "sourceArticle": "How to download our pro app",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "term"
     },
     {
       "en": "auto-updates",
@@ -1414,7 +1414,7 @@
       "sourceArticle": "How to download our pro app",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "term"
     },
     {
       "en": "alerts",
@@ -1423,7 +1423,7 @@
       "sourceArticle": "How to download our pro app",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "term"
     },
     {
       "en": "partner tool",
@@ -1441,7 +1441,7 @@
       "sourceArticle": "How to set up a Zapier webhook",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "term"
     },
     {
       "en": "Create a Zap",
@@ -1450,7 +1450,7 @@
       "sourceArticle": "How to set up a Zapier webhook",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "ui"
     },
     {
       "en": "trigger",
@@ -1459,7 +1459,7 @@
       "sourceArticle": "How to set up a Zapier webhook",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "term"
     },
     {
       "en": "Action",
@@ -1468,7 +1468,7 @@
       "sourceArticle": "How to set up a Zapier webhook",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "ui"
     },
     {
       "en": "Customer Name",
@@ -1477,7 +1477,7 @@
       "sourceArticle": "How to set up a Zapier webhook",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "ui"
     },
     {
       "en": "business profiles",
@@ -1486,7 +1486,7 @@
       "sourceArticle": "How to set up a Zapier webhook",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "term"
     },
     {
       "en": "lead",
@@ -1495,7 +1495,7 @@
       "sourceArticle": "How to sign in to my account",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "term"
     },
     {
       "en": "pro",
@@ -1504,7 +1504,7 @@
       "sourceArticle": "How to sign in to my account",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "term"
     },
     {
       "en": "customer",
@@ -1513,7 +1513,7 @@
       "sourceArticle": "How to sign in to my account",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "term"
     },
     {
       "en": "Thumbtack Pro app",
@@ -1531,7 +1531,7 @@
       "sourceArticle": "How to sign in to my account",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "ui"
     },
     {
       "en": "Log in",
@@ -1540,7 +1540,7 @@
       "sourceArticle": "How to sign in to my account",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "ui"
     },
     {
       "en": "Forgot password?",
@@ -1549,7 +1549,7 @@
       "sourceArticle": "How to sign in to my account",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "ui"
     },
     {
       "en": "Resend",
@@ -1558,7 +1558,7 @@
       "sourceArticle": "How to sign in to my account",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "ui"
     },
     {
       "en": "magic link",
@@ -1567,7 +1567,7 @@
       "sourceArticle": "How to sign in to my account",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "term"
     },
     {
       "en": "Switch to business",
@@ -1576,7 +1576,7 @@
       "sourceArticle": "How to sign in to my account",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "ui"
     },
     {
       "en": "Switch to customer",
@@ -1585,7 +1585,7 @@
       "sourceArticle": "How to sign in to my account",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "ui"
     },
     {
       "en": "Sign up",
@@ -1594,7 +1594,7 @@
       "sourceArticle": "How to sign up as a pro",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "ui"
     },
     {
       "en": "Next",
@@ -1603,7 +1603,7 @@
       "sourceArticle": "How to sign up as a pro",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "ui"
     },
     {
       "en": "Sign up for free",
@@ -1612,7 +1612,7 @@
       "sourceArticle": "How to sign up as a pro",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "ui"
     },
     {
       "en": "targeting",
@@ -1621,7 +1621,7 @@
       "sourceArticle": "How to sign up as a pro",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "term"
     },
     {
       "en": "budget",
@@ -1630,7 +1630,7 @@
       "sourceArticle": "How to sign up as a pro",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "term"
     },
     {
       "en": "review",
@@ -1639,7 +1639,7 @@
       "sourceArticle": "How to sign up as a pro",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "term"
     },
     {
       "en": "profile",
@@ -1648,7 +1648,7 @@
       "sourceArticle": "How to sign up as a pro",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "term"
     },
     {
       "en": "setup checklist",
@@ -1657,7 +1657,7 @@
       "sourceArticle": "How to sign up as a pro",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "term"
     },
     {
       "en": "customer account",
@@ -1666,7 +1666,7 @@
       "sourceArticle": "How to switch between my pro and customer accounts",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "term"
     },
     {
       "en": "Thumbtack Pro app",
@@ -1684,7 +1684,7 @@
       "sourceArticle": "How to switch between my pro and customer accounts",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "term"
     },
     {
       "en": "Switch to business",
@@ -1702,7 +1702,7 @@
       "sourceArticle": "How to switch between my pro and customer accounts",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "term"
     },
     {
       "en": "Credentials",
@@ -1711,7 +1711,7 @@
       "sourceArticle": "How to take a background check",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "ui"
     },
     {
       "en": "Start",
@@ -1720,7 +1720,7 @@
       "sourceArticle": "How to take a background check",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "ui"
     },
     {
       "en": "background check badge",
@@ -1729,7 +1729,7 @@
       "sourceArticle": "How to take a background check",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "term"
     },
     {
       "en": "Thumbtack Pro Rewards",
@@ -1738,7 +1738,7 @@
       "sourceArticle": "How to take a background check",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "product"
     },
     {
       "en": "account owner",
@@ -1747,7 +1747,7 @@
       "sourceArticle": "How to take a background check",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "term"
     },
     {
       "en": "Take a background check",
@@ -1756,7 +1756,7 @@
       "sourceArticle": "How to take a background check",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "ui"
     },
     {
       "en": "criminal background check",
@@ -1765,7 +1765,7 @@
       "sourceArticle": "How to take a background check",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "term"
     },
     {
       "en": "Thumbtack balance",
@@ -1774,7 +1774,7 @@
       "sourceArticle": "Refund policy for pros",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "term"
     },
     {
       "en": "Credit package",
@@ -1783,7 +1783,7 @@
       "sourceArticle": "Refund policy for pros",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "term"
     },
     {
       "en": "Opportunities tab",
@@ -1792,7 +1792,7 @@
       "sourceArticle": "Refund policy for pros",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "ui"
     },
     {
       "en": "Courtesy credit",
@@ -1801,7 +1801,7 @@
       "sourceArticle": "Refund policy for pros",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "term"
     },
     {
       "en": "Promotional credits",
@@ -1810,7 +1810,7 @@
       "sourceArticle": "Refund policy for pros",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "term"
     },
     {
       "en": "Pending",
@@ -1819,7 +1819,7 @@
       "sourceArticle": "Refund policy for pros",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "ui"
     },
     {
       "en": "Refunded",
@@ -1828,7 +1828,7 @@
       "sourceArticle": "Refund policy for pros",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "ui"
     },
     {
       "en": "Denied",
@@ -1837,7 +1837,7 @@
       "sourceArticle": "Refund policy for pros",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "ui"
     },
     {
       "en": "Refund Requested",
@@ -1846,7 +1846,7 @@
       "sourceArticle": "Refund policy for pros",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "ui"
     },
     {
       "en": "Thumbtack Help",
@@ -1855,7 +1855,7 @@
       "sourceArticle": "Refund policy for pros",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "term"
     },
     {
       "en": "Thumbtack numbers",
@@ -1864,7 +1864,7 @@
       "sourceArticle": "What are Thumbtack numbers",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "term"
     },
     {
       "en": "Refund",
@@ -1873,7 +1873,7 @@
       "sourceArticle": "What are Thumbtack numbers",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "term"
     },
     {
       "en": "Registered phone numbers",
@@ -1882,7 +1882,7 @@
       "sourceArticle": "What are Thumbtack numbers",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "ui"
     },
     {
       "en": "Register a new number",
@@ -1891,7 +1891,7 @@
       "sourceArticle": "What are Thumbtack numbers",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "ui"
     },
     {
       "en": "+ Add new",
@@ -1900,7 +1900,7 @@
       "sourceArticle": "What are Thumbtack numbers",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "ui"
     },
     {
       "en": "Add from your contacts",
@@ -1909,7 +1909,7 @@
       "sourceArticle": "What are Thumbtack numbers",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "ui"
     },
     {
       "en": "Add manually",
@@ -1918,7 +1918,7 @@
       "sourceArticle": "What are Thumbtack numbers",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "ui"
     },
     {
       "en": "Settings",
@@ -1927,7 +1927,7 @@
       "sourceArticle": "What are Thumbtack numbers",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "ui"
     },
     {
       "en": "View or share number",
@@ -1936,7 +1936,7 @@
       "sourceArticle": "What are Thumbtack numbers",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "ui"
     },
     {
       "en": "Send text",
@@ -1945,7 +1945,7 @@
       "sourceArticle": "What are Thumbtack numbers",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "ui"
     },
     {
       "en": "View phone number",
@@ -1954,7 +1954,7 @@
       "sourceArticle": "What are Thumbtack numbers",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "ui"
     },
     {
       "en": "Copy to clipboard",
@@ -1963,7 +1963,7 @@
       "sourceArticle": "What are Thumbtack numbers",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "ui"
     },
     {
       "en": "Access code",
@@ -1972,7 +1972,7 @@
       "sourceArticle": "What are Thumbtack numbers",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "term"
     },
     {
       "en": "Thumbtack messenger",
@@ -1981,7 +1981,7 @@
       "sourceArticle": "What are Thumbtack numbers",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "term"
     },
     {
       "en": "Customer Relationship Management (CRM)",
@@ -1990,7 +1990,7 @@
       "sourceArticle": "What are Thumbtack numbers",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "term"
     },
     {
       "en": "Application Programming Interface (API)",
@@ -1999,7 +1999,7 @@
       "sourceArticle": "What are Thumbtack numbers",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "term"
     },
     {
       "en": "Pro API",
@@ -2008,7 +2008,7 @@
       "sourceArticle": "What are Thumbtack numbers",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "term"
     },
     {
       "en": "automated lead response service",
@@ -2017,7 +2017,7 @@
       "sourceArticle": "What is Front Desk",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "term"
     },
     {
       "en": "Let's get you enrolled",
@@ -2026,7 +2026,7 @@
       "sourceArticle": "What is Front Desk",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "ui"
     },
     {
       "en": "monthly subscription",
@@ -2035,7 +2035,7 @@
       "sourceArticle": "What is Front Desk",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "term"
     },
     {
       "en": "plan",
@@ -2044,7 +2044,7 @@
       "sourceArticle": "What is Front Desk",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "term"
     },
     {
       "en": "form",
@@ -2053,7 +2053,7 @@
       "sourceArticle": "What is Front Desk",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "auto",
-      "type": ""
+      "type": "term"
     },
     {
       "en": "Thumbtack messenger",
