@@ -33,8 +33,8 @@
     "glossary": {
       "file": "glossary.json",
       "url": "https://raw.githubusercontent.com/jorgecTT/tt-glossary/main/glossary.json",
-      "bytes": 73348,
-      "sha256": "10aa0ef329ba74f3be35c552e25cb7a2b81509223df807f23e113835eb96b93d",
+      "bytes": 73492,
+      "sha256": "452871f33149fa406d8faff0f39050f6b8044e5e9d98ac8bfe73073443e07ae4",
       "description": "Approved EN->ES terms with type (product/ui/term), context and status. Authority: the Localization Auditor app. status=rejected is dropped at sync.",
       "count": 235
     },
@@ -48,8 +48,8 @@
     "masterbook": {
       "file": "masterbook.json",
       "url": "https://raw.githubusercontent.com/jorgecTT/tt-glossary/main/masterbook.json",
-      "bytes": 522321,
-      "sha256": "3a02ed67c67f9eb520a7a2326dcd9ac9a0b93649a9736bd5efd8f5fe8f98dc04",
+      "bytes": 524190,
+      "sha256": "cd8faaa671faff54b6ce0e7f451fd60672f5a4a5e23a824899a651fc24c17ba3",
       "description": "Translation memory: previously approved ES content keyed by translationKey.",
       "count": 107
     }
