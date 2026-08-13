@@ -25,8 +25,8 @@ out = []
 out.append(
     "<!-- GENERATED FILE — DO NOT EDIT. Produced by scripts/build_md.py from "
     "glossary.json on every sync; hand edits are silently overwritten. "
-    "The glossary's authority is the Localization Auditor app — add or change terms "
-    "there (including via its \"Paste terms from Claude\" input). -->"
+    "Add NEW terms as rows in the manual glossary Sheet (tab gid=1113586630); "
+    "change EXISTING terms in the Localization Auditor app, whose value wins. -->"
 )
 out.append("")
 out.append("# Thumbtack ES-US Glossary (approved)")

@@ -26,7 +26,7 @@ DATASETS = {
         "glossary",
         "terms",
         "Approved EN->ES terms with type (product/ui/term), context and status. "
-        "Authority: the Localization Auditor app. status=rejected is dropped at sync.",
+        "Authority: the manual Sheet for new terms, the Localization Auditor app for changes (it wins). status=rejected is dropped at sync.",
     ),
     "corpus_full.json": (
         "corpus",
@@ -108,7 +108,7 @@ manifest = {
         "corpus too, not just the glossary."
     ),
     "authorities": {
-        "glossary": "The Localization Auditor app. Do not edit the legacy manual Sheet or these files by hand.",
+        "glossary": "New terms: the manual glossary Sheet (tab gid=1113586630), read live by the Apps Script. Changing an existing term: the Localization Auditor app, whose value wins over the Sheet. Never edit the files in this repo by hand.",
         "corpus": "The corpus Sheet, fed by the Google Docs content index.",
     },
     "datasets": datasets,

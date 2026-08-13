@@ -53,7 +53,8 @@ inputs lying around that look editable.
 
 | Store | The one place it's edited |
 |---|---|
-| **Glossary** | **The Localization Auditor app.** It builds terms from audited articles, assigns each term's `type`, resolves conflicts, and accepts pasted batches. It is the authority — not the legacy manual Sheet |
+| **Glossary — new terms** | The **manual glossary Sheet** (tab `gid=1113586630`, 3 columns: English, Spanish, context). The Apps Script reads this tab live; `type` is assigned downstream, so you don't supply it. This is the bulk-add path — paste rows and run the sync |
+| **Glossary — changing an existing term** | **The Localization Auditor app.** It builds terms from audited articles, assigns each `type`, resolves conflicts, and accepts pasted batches. **Its value wins over the Sheet**, so an edit made only in the Sheet may not take effect |
 | **Corpus** | The **corpus Sheet**, fed nightly from the Google Docs content index |
 
 **Do not edit anything in this repo by hand.** `glossary.json`, `glossary.md`,
@@ -61,10 +62,13 @@ inputs lying around that look editable.
 are all generated and will be silently overwritten on the next sync. `glossary.json`
 carries a `_generated` field and `glossary.md` a `GENERATED` comment saying so.
 
-**Do not edit the legacy manual glossary Sheet either.** It was the original seed import
-and the Localization Auditor has since overridden several of its values — including
-reclassifying terms as `product` and correcting Spanish. Editing it now produces changes
-that appear to work and then don't.
+**The manual glossary Sheet is a live input, not a dead artifact** — the Apps Script reads
+it on every sync, and adding a new row there is the supported way to bulk-add terms. What
+it is *not* is the final word: the Localization Auditor sits on top and has overridden
+several of its values, including reclassifying `Front Desk` and `Thumbtack Pay` as
+`product` and rewriting `Top Pro Badge`'s Spanish. So **add new terms in the Sheet, but
+change existing ones in the app** — editing an already-overridden term in the Sheet
+produces a change that appears to work and doesn't.
 
 ## Syncs
 

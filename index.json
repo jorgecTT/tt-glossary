@@ -2,7 +2,7 @@
   "name": "tt-glossary",
   "note": "Manifest of every dataset mirrored here. Resolve this file first, then read the URL of the dataset you need. No timestamp by design -- see scripts/build_index.py. Repo name is historical: it mirrors the content corpus too, not just the glossary.",
   "authorities": {
-    "glossary": "The Localization Auditor app. Do not edit the legacy manual Sheet or these files by hand.",
+    "glossary": "New terms: the manual glossary Sheet (tab gid=1113586630), read live by the Apps Script. Changing an existing term: the Localization Auditor app, whose value wins over the Sheet. Never edit the files in this repo by hand.",
     "corpus": "The corpus Sheet, fed by the Google Docs content index."
   },
   "datasets": {
@@ -35,14 +35,14 @@
       "url": "https://raw.githubusercontent.com/jorgecTT/tt-glossary/main/glossary.json",
       "bytes": 73492,
       "sha256": "452871f33149fa406d8faff0f39050f6b8044e5e9d98ac8bfe73073443e07ae4",
-      "description": "Approved EN->ES terms with type (product/ui/term), context and status. Authority: the Localization Auditor app. status=rejected is dropped at sync.",
+      "description": "Approved EN->ES terms with type (product/ui/term), context and status. Authority: the manual Sheet for new terms, the Localization Auditor app for changes (it wins). status=rejected is dropped at sync.",
       "count": 235
     },
     "glossary_md": {
       "file": "glossary.md",
       "url": "https://raw.githubusercontent.com/jorgecTT/tt-glossary/main/glossary.md",
-      "bytes": 30977,
-      "sha256": "96bf658d53a367f750b08bd6ed16bee132474bf41a3f6251b3605398e14ea4cd",
+      "bytes": 30983,
+      "sha256": "c5c30c6fd240a7c5dcd045e5e3538bb3988af83c620ee60302f9ea783058545f",
       "description": "Human-readable glossary, grouped by type. Generated from glossary.json; also the offline fallback bundled in the translation skill."
     },
     "masterbook": {
