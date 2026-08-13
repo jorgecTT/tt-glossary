@@ -2,7 +2,7 @@
 
 # Thumbtack ES-US Glossary (approved)
 
-Offline fallback snapshot of 235 approved terms (machine source: `glossary.json`, synced from the Apps Script endpoint). Product/UI/specific terms must stay consistent; ordinary words not listed here vary by context.
+Offline fallback snapshot of 245 approved terms (machine source: `glossary.json`, synced from the Apps Script endpoint). Product/UI/specific terms must stay consistent; ordinary words not listed here vary by context.
 
 
 ## PRODUCT — never translate, keep English exactly (6)
@@ -91,7 +91,7 @@ Offline fallback snapshot of 235 approved terms (machine source: `glossary.json`
 - **View phone number** → `View phone number ("Ver número de teléfono")`  — _Botón para mostrar el contacto telefónico asignado al cliente._
 - **Weekly Budget** → `Weekly Budget ("Presupuesto Semanal")`  — _El límite de gasto que puedes establecer para los prospectos._
 
-## TERMS / specific vocabulary — canonical ES when used in the sense in Context (155)
+## TERMS / specific vocabulary — canonical ES when used in the sense in Context (165)
 
 - **Access code** → código de acceso  — _Código de 7 dígitos para conectar llamadas desde números no registrados._
 - **Account** → Cuenta  — _Tu cuenta de profesional en Thumbtack._
@@ -118,6 +118,8 @@ Offline fallback snapshot of 235 approved terms (machine source: `glossary.json`
 - **Chargeback Protection** → Protección contra Contracargos  — _Una política que protege al profesional si un cliente disputa un pago hecho a través de Thumbtack Pay._
 - **Claimable Jobs** → Trabajos Reclamables  — _Proyectos disponibles en tu área que puedes reclamar si te interesan._
 - **Code of Conduct** → Código de Conducta  — _Las expectativas de comportamiento para profesionales y clientes en la plataforma._
+- **Community Top Voice** → voz destacada de la comunidad  — _Reconocimiento a los profesionales más activos y útiles en la comunidad._
+- **Community Top Voices** → voces destacadas de la comunidad  — _Plural de Community Top Voice._
 - **Confirmation letter** → Carta de confirmación  — _Documento (generalmente del banco) que verifica una acción, como retirar una disputa._
 - **Content and Review Policy** → Política de Contenido y Reseñas  — _Las reglas de Thumbtack sobre lo que se puede publicar en reseñas y perfiles._
 - **Copyright Policy** → Política de Derechos de Autor  — _Las reglas sobre el uso de material protegido (fotos, textos)._
@@ -151,6 +153,8 @@ Offline fallback snapshot of 235 approved terms (machine source: `glossary.json`
 - **jobs** → trabajos  — _Servicios contratados o tareas asignadas a un profesional._
 - **Law Enforcement Requests** → Solicitudes de Autoridades  — _Peticiones de información por parte de la policía u organismos oficiales._
 - **lead** → prospecto  — _Cliente potencial interesado en contratar los servicios de un profesional._
+- **lead credit** → crédito para prospectos  — _Singular de lead credits._
+- **lead credits** → créditos para prospectos  — _Créditos que se aplican al costo de los prospectos. Multi-palabra: gana sobre Credits._
 - **lead insights** → información de prospectos  — _Datos sobre los prospectos: cuántos llegan, competencia y tendencias. Traducción directa. No confundir con la sección Insights (hoy Performance Dashboard / Panel de Rendimiento). Coincidencia multi-palabra: tiene prioridad sobre el término suelto Insights._
 - **lead price** → precios de los prospectos  — _Monto exacto que el profesional paga por cada contacto de cliente potencial._
 - **Lead prices** → Precios de los prospectos  — _Frase en texto general para hablar de cuánto paga por prospectos._
@@ -183,6 +187,7 @@ Offline fallback snapshot of 235 approved terms (machine source: `glossary.json`
 - **pro account** → cuenta de profesional  — _Tipo de cuenta específica para proveedores de servicios._
 - **Pro API** → API para profesionales  — _Interfaz técnica específica para las herramientas de los profesionales._
 - **Pro App** → aplicación Thumbtack Pro  — _Nombre de la app móvil para profesionales. 'Thumbtack Pro' no se traduce._
+- **Pro Community** → comunidad de Thumbtack para profesionales  — _Forma corta de Thumbtack Pro Community. En español se nombra completo para que quede claro de qué comunidad se habla._
 - **Pro Rewards** → Recompensas para Profesionales  — _El programa de lealtad que ofrece beneficios a los profesionales._
 - **profile** → perfil  — _Página pública con la información y servicios del profesional._
 - **Profile Photo** → Foto de Perfil  — _Tu foto personal que ayuda a los clientes a conocerte._
@@ -218,6 +223,7 @@ Offline fallback snapshot of 235 approved terms (machine source: `glossary.json`
 - **Starting Price** → Precio inicial  — _Precio base visible en resultados de búsqueda; la UI del buscador muestra 'Desde'._
 - **Support** → Soporte  — _El equipo/área de atención al cliente._
 - **Suspicious Activity** → Actividad Sospechosa  — _Cualquier comportamiento que parezca fraudulento o que viole las normas._
+- **swag** → artículos promocionales  — _Productos de marca (camisetas, gorras, calcomanías) que Thumbtack regala._
 - **Switch to business** → Cambiar a cuenta de profesional  — _Acción del menú para cambiar a la interfaz de negocio._
 - **Tap** → Seleccione  — _Verbo para pasos en la app móvil: Tap X = Seleccione X. En Desktop: 'Haga clic en'._
 - **targeting** → segmentación  — _Término técnico referido a la configuración de las preferencias de trabajo._
@@ -237,8 +243,12 @@ Offline fallback snapshot of 235 approved terms (machine source: `glossary.json`
 - **Thumbtack Pro app** → aplicación para profesionales de Thumbtack  — _Nombre oficial de la aplicación móvil de la plataforma._
 - **Thumbtack Pro app** → aplicación de Thumbtack Pro  — _Aplicación específica para que los profesionales gestionen su negocio._
 - **Thumbtack Pro app** → Aplicación Thumbtack Pro  — _App móvil diseñada para que los profesionales gestionen su negocio._
+- **Thumbtack Pro Community** → comunidad de Thumbtack para profesionales  — _El foro y la página web donde los profesionales se conectan y comparten consejos. Se traduce; no es nombre de producto._
 - **Thumbtack Quality Commitment** → Compromiso de calidad de Thumbtack  — _Garantía que protege y respalda la inversión del profesional en la plataforma._
-- **Top Pro Badge** → insignia de Top Pro  — _Top Pro' es el nombre del programa y no se traduce._
+- **Thumbtack swag** → artículos promocionales de Thumbtack  — _Igual que swag, con la marca explícita._
+- **Top Pro** → profesional destacado  — _Reconocimiento a los profesionales con mejor desempeño. Se traduce; no es una etiqueta de la interfaz._
+- **Top Pro Badge** → insignia de profesional destacado  — _Insignia que reciben los profesionales destacados por su desempeño._
+- **Top Pros** → profesionales destacados  — _Plural de Top Pro._
 - **Travel Areas** → Zonas de Desplazamiento  — _Las áreas geográficas donde estás dispuesto a trabajar._
 - **trigger** → disparador  — _Evento inicial que activa la automatización en Zapier._
 - **Troubleshooting** → Solución de Problemas  — _Pasos para resolver problemas técnicos con la aplicación o el sitio web._

@@ -1,7 +1,7 @@
 {
   "ok": true,
   "mode": "glossary",
-  "count": 235,
+  "count": 245,
   "terms": [
     {
       "en": "Account",
@@ -923,8 +923,8 @@
     },
     {
       "en": "Top Pro Badge",
-      "es": "insignia de Top Pro",
-      "context": "Top Pro' es el nombre del programa y no se traduce.",
+      "es": "insignia de profesional destacado",
+      "context": "Insignia que reciben los profesionales destacados por su desempeño.",
       "sourceArticle": "manual glossary import",
       "dateAdded": "2026-07-10T05:00:00.000Z",
       "status": "manual",
@@ -2062,7 +2062,7 @@
       "sourceArticle": "What is Front Desk",
       "dateAdded": "2026-07-14T05:00:00.000Z",
       "status": "conflict",
-      "type": ""
+      "type": "term"
     },
     {
       "en": "Rank",
@@ -2115,6 +2115,96 @@
       "context": "Datos sobre los prospectos: cuántos llegan, competencia y tendencias. Traducción directa. No confundir con la sección Insights (hoy Performance Dashboard / Panel de Rendimiento). Coincidencia multi-palabra: tiene prioridad sobre el término suelto Insights.",
       "sourceArticle": "manual glossary import",
       "dateAdded": "2026-07-17",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Thumbtack Pro Community",
+      "es": "comunidad de Thumbtack para profesionales",
+      "context": "El foro y la página web donde los profesionales se conectan y comparten consejos. Se traduce; no es nombre de producto.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-08-13T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Pro Community",
+      "es": "comunidad de Thumbtack para profesionales",
+      "context": "Forma corta de Thumbtack Pro Community. En español se nombra completo para que quede claro de qué comunidad se habla.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-08-13T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Top Pro",
+      "es": "profesional destacado",
+      "context": "Reconocimiento a los profesionales con mejor desempeño. Se traduce; no es una etiqueta de la interfaz.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-08-13T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Top Pros",
+      "es": "profesionales destacados",
+      "context": "Plural de Top Pro.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-08-13T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Community Top Voice",
+      "es": "voz destacada de la comunidad",
+      "context": "Reconocimiento a los profesionales más activos y útiles en la comunidad.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-08-13T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Community Top Voices",
+      "es": "voces destacadas de la comunidad",
+      "context": "Plural de Community Top Voice.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-08-13T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "lead credits",
+      "es": "créditos para prospectos",
+      "context": "Créditos que se aplican al costo de los prospectos. Multi-palabra: gana sobre Credits.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-08-13T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "lead credit",
+      "es": "crédito para prospectos",
+      "context": "Singular de lead credits.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-08-13T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "swag",
+      "es": "artículos promocionales",
+      "context": "Productos de marca (camisetas, gorras, calcomanías) que Thumbtack regala.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-08-13T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Thumbtack swag",
+      "es": "artículos promocionales de Thumbtack",
+      "context": "Igual que swag, con la marca explícita.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-08-13T05:00:00.000Z",
       "status": "manual",
       "type": "term"
     }

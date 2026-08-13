@@ -33,16 +33,16 @@
     "glossary": {
       "file": "glossary.json",
       "url": "https://raw.githubusercontent.com/jorgecTT/tt-glossary/main/glossary.json",
-      "bytes": 73492,
-      "sha256": "452871f33149fa406d8faff0f39050f6b8044e5e9d98ac8bfe73073443e07ae4",
+      "bytes": 76736,
+      "sha256": "c9a5d8cb8e3cabb5c8e39c17442d432c44dd018172de7f216cb19306e0caf1e3",
       "description": "Approved EN->ES terms with type (product/ui/term), context and status. Authority: the manual Sheet for new terms, the Localization Auditor app for changes (it wins). status=rejected is dropped at sync.",
-      "count": 235
+      "count": 245
     },
     "glossary_md": {
       "file": "glossary.md",
       "url": "https://raw.githubusercontent.com/jorgecTT/tt-glossary/main/glossary.md",
-      "bytes": 30983,
-      "sha256": "c5c30c6fd240a7c5dcd045e5e3538bb3988af83c620ee60302f9ea783058545f",
+      "bytes": 32333,
+      "sha256": "65d4bb0f9d6e7e3664642642e5a7c90a29827fa90855a70ba2320179e88208f3",
       "description": "Human-readable glossary, grouped by type. Generated from glossary.json; also the offline fallback bundled in the translation skill."
     },
     "masterbook": {
