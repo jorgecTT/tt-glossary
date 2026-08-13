@@ -1,0 +1,57 @@
+{
+  "name": "tt-glossary",
+  "note": "Manifest of every dataset mirrored here. Resolve this file first, then read the URL of the dataset you need. No timestamp by design -- see scripts/build_index.py. Repo name is historical: it mirrors the content corpus too, not just the glossary.",
+  "authorities": {
+    "glossary": "The Localization Auditor app. Do not edit the legacy manual Sheet or these files by hand.",
+    "corpus": "The corpus Sheet, fed by the Google Docs content index."
+  },
+  "datasets": {
+    "aliases": {
+      "file": "aliases.json",
+      "url": "https://raw.githubusercontent.com/jorgecTT/tt-glossary/main/aliases.json",
+      "bytes": 478,
+      "sha256": "3c65451bfaab50921e62617500d1469e46a318f9def6f85e6e3858255d2248c8",
+      "description": "Old Help Center slugs that changed, so links can be rewritten.",
+      "count": 3
+    },
+    "articles": {
+      "file": "articles.json",
+      "url": "https://raw.githubusercontent.com/jorgecTT/tt-glossary/main/articles.json",
+      "bytes": 71306,
+      "sha256": "2345c666fdff5332334281d9a3422ab1b1ddd2d4ab78751acfa1fa057e9cf23f",
+      "description": "translationKey -> published EN/ES/PT Help Center URLs.",
+      "count": 197
+    },
+    "corpus": {
+      "file": "corpus_full.json",
+      "url": "https://raw.githubusercontent.com/jorgecTT/tt-glossary/main/corpus_full.json",
+      "bytes": 6749174,
+      "sha256": "1ab96070adc1238c617ac823a944ddee0eb817d8511fa8f9a201175071703584",
+      "description": "The full content index: Help Center articles + internal KAs, EN/ES/PT, including fullText and publishedUrl. Authority: the corpus Sheet.",
+      "count": 544
+    },
+    "glossary": {
+      "file": "glossary.json",
+      "url": "https://raw.githubusercontent.com/jorgecTT/tt-glossary/main/glossary.json",
+      "bytes": 73348,
+      "sha256": "10aa0ef329ba74f3be35c552e25cb7a2b81509223df807f23e113835eb96b93d",
+      "description": "Approved EN->ES terms with type (product/ui/term), context and status. Authority: the Localization Auditor app. status=rejected is dropped at sync.",
+      "count": 235
+    },
+    "glossary_md": {
+      "file": "glossary.md",
+      "url": "https://raw.githubusercontent.com/jorgecTT/tt-glossary/main/glossary.md",
+      "bytes": 30977,
+      "sha256": "96bf658d53a367f750b08bd6ed16bee132474bf41a3f6251b3605398e14ea4cd",
+      "description": "Human-readable glossary, grouped by type. Generated from glossary.json; also the offline fallback bundled in the translation skill."
+    },
+    "masterbook": {
+      "file": "masterbook.json",
+      "url": "https://raw.githubusercontent.com/jorgecTT/tt-glossary/main/masterbook.json",
+      "bytes": 522321,
+      "sha256": "3a02ed67c67f9eb520a7a2326dcd9ac9a0b93649a9736bd5efd8f5fe8f98dc04",
+      "description": "Translation memory: previously approved ES content keyed by translationKey.",
+      "count": 107
+    }
+  }
+}

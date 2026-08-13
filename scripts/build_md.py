@@ -22,6 +22,13 @@ ui = sorted([t for t in terms if t.get("type") == "ui"], key=lambda t: (t.get("e
 spec = sorted([t for t in terms if t.get("type") not in ("product", "ui")], key=lambda t: (t.get("en") or "").lower())
 
 out = []
+out.append(
+    "<!-- GENERATED FILE — DO NOT EDIT. Produced by scripts/build_md.py from "
+    "glossary.json on every sync; hand edits are silently overwritten. "
+    "The glossary's authority is the Localization Auditor app — add or change terms "
+    "there (including via its \"Paste terms from Claude\" input). -->"
+)
+out.append("")
 out.append("# Thumbtack ES-US Glossary (approved)")
 out.append("")
 out.append(

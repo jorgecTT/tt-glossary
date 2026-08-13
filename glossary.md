@@ -1,3 +1,5 @@
+<!-- GENERATED FILE — DO NOT EDIT. Produced by scripts/build_md.py from glossary.json on every sync; hand edits are silently overwritten. The glossary's authority is the Localization Auditor app — add or change terms there (including via its "Paste terms from Claude" input). -->
+
 # Thumbtack ES-US Glossary (approved)
 
 Offline fallback snapshot of 235 approved terms (machine source: `glossary.json`, synced from the Apps Script endpoint). Product/UI/specific terms must stay consistent; ordinary words not listed here vary by context.
