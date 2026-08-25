@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "count": 197,
+  "count": 198,
   "articles": [
     {
       "translationKey": "1099-k tax support faqs",
@@ -689,6 +689,16 @@
       "titleES": "Cómo pausar mis prospectos",
       "urlEN": "https://help.thumbtack.com/article/hide-my-business",
       "urlES": "https://help.thumbtack.com/article/como-pausar-mis-prospectos",
+      "urlPT": "",
+      "notes": ""
+    },
+    {
+      "translationKey": "how to pay a pro",
+      "audience": "customer",
+      "titleEN": "How to pay a pro",
+      "titleES": "",
+      "urlEN": "https://help.thumbtack.com/article/how-to-pay-a-pro",
+      "urlES": "",
       "urlPT": "",
       "notes": ""
     },
