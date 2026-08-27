@@ -17,10 +17,10 @@
     "articles": {
       "file": "articles.json",
       "url": "https://raw.githubusercontent.com/jorgecTT/tt-glossary/main/articles.json",
-      "bytes": 71595,
-      "sha256": "0248faab7c7a60731c54765148aa3bed0b1bb9a7e3e85beb3e8d96be4e456c71",
+      "bytes": 71293,
+      "sha256": "9bfebdade42747238028d257e3b49f898d179a2d77af00ab938aefbdb31654b9",
       "description": "translationKey -> published EN/ES/PT Help Center URLs.",
-      "count": 198
+      "count": 197
     },
     "corpus": {
       "file": "corpus_full.json",
