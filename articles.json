@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "count": 197,
+  "count": 198,
   "articles": [
     {
       "translationKey": "1099-k tax support faqs",
@@ -679,6 +679,16 @@
       "titleES": "Cómo enviar mensajes a los clientes",
       "urlEN": "https://help.thumbtack.com/article/my-messages",
       "urlES": "https://help.thumbtack.com/article/como-enviar-mensajes-a-los-clientes",
+      "urlPT": "",
+      "notes": ""
+    },
+    {
+      "translationKey": "how to migrate my webhook",
+      "audience": "pro",
+      "titleEN": "How to migrate my webhook",
+      "titleES": "",
+      "urlEN": "https://help.thumbtack.com/article/how-to-migrate-my-webhook",
+      "urlES": "",
       "urlPT": "",
       "notes": ""
     },
