@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "count": 198,
+  "count": 197,
   "articles": [
     {
       "translationKey": "1099-k tax support faqs",
@@ -1759,16 +1759,6 @@
       "titleES": "¿Qué son las Oportunidades",
       "urlEN": "https://help.thumbtack.com/article/opportunities",
       "urlES": "https://help.thumbtack.com/article/que-son-las-oportunidades",
-      "urlPT": "",
-      "notes": ""
-    },
-    {
-      "translationKey": "what are personalized preferences?",
-      "audience": "pro",
-      "titleEN": "What are personalized preferences",
-      "titleES": "",
-      "urlEN": "https://help.thumbtack.com/article/personalized-preferences",
-      "urlES": "",
       "urlPT": "",
       "notes": ""
     },
