@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "count": 197,
+  "count": 198,
   "articles": [
     {
       "translationKey": "1099-k tax support faqs",
@@ -1741,6 +1741,16 @@
       "urlES": "",
       "urlPT": "",
       "notes": ""
+    },
+    {
+      "translationKey": "what are jobs with set prices?",
+      "audience": "customer",
+      "titleEN": "What are jobs with set prices",
+      "titleES": "",
+      "urlEN": "https://help.thumbtack.com/article/jobs-with-set-prices",
+      "urlES": "",
+      "urlPT": "",
+      "notes": "duplicate EN: 18AV8RNr046JljY12OQCEfKN0umnbMhVH3-smqrNC8FQ"
     },
     {
       "translationKey": "what are leads, claimable jobs, and opportunities?",
