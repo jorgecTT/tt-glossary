@@ -25,10 +25,10 @@
     "corpus": {
       "file": "corpus_full.json",
       "url": "https://raw.githubusercontent.com/jorgecTT/tt-glossary/main/corpus_full.json",
-      "bytes": 6691444,
-      "sha256": "43864039d99c69ae689e57a5bd958c253e5a8dbafde3aa002e4757bbe24e66c4",
+      "bytes": 6706780,
+      "sha256": "3026ef3f7ab7494f80ab7dad146f9d4fca42ae499569091edf21bc33e6a50d42",
       "description": "The full content index: Help Center articles + internal KAs, EN/ES/PT, including fullText and publishedUrl. Authority: the corpus Sheet.",
-      "count": 543
+      "count": 544
     },
     "glossary": {
       "file": "glossary.json",
