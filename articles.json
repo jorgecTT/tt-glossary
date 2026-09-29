@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "count": 198,
+  "count": 199,
   "articles": [
     {
       "translationKey": "1099-k tax support faqs",
@@ -1145,7 +1145,7 @@
     {
       "translationKey": "lowe's installation through thumbtack",
       "audience": "customer",
-      "titleEN": "Lowe's installation through Thumbtack",
+      "titleEN": "Lowe's services through Thumbtack",
       "titleES": "",
       "urlEN": "https://help.thumbtack.com/article/lowes-installation",
       "urlES": "",
@@ -1325,8 +1325,8 @@
     {
       "translationKey": "refund policy for thumbtack numbers",
       "audience": "pro",
-      "titleEN": "Refund policy for Thumbtack numbers",
-      "titleES": "Política de reembolsos para números de Thumbtack",
+      "titleEN": "Fair Shot Refund policy",
+      "titleES": "Política de Reembolsos por oportunidad justa",
       "urlEN": "https://help.thumbtack.com/article/refund-policy-thumbtack-numbers",
       "urlES": "https://help.thumbtack.com/article/politica-de-reembolsos-para-numeros-de-thumbtack",
       "urlPT": "",
@@ -1849,6 +1849,16 @@
       "titleES": "¿Qué es Front Desk",
       "urlEN": "https://help.thumbtack.com/article/what-is-front-desk",
       "urlES": "https://help.thumbtack.com/article/que-es-front-desk",
+      "urlPT": "",
+      "notes": ""
+    },
+    {
+      "translationKey": "what is google ai search?",
+      "audience": "pro",
+      "titleEN": "What is Google AI search",
+      "titleES": "",
+      "urlEN": "https://help.thumbtack.com/article/what-is-google-ai-search",
+      "urlES": "",
       "urlPT": "",
       "notes": ""
     },
