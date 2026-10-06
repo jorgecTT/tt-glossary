@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "count": 199,
+  "count": 200,
   "articles": [
     {
       "translationKey": "1099-k tax support faqs",
@@ -1099,6 +1099,16 @@
       "titleES": "Cómo utilizar la Comunidad de Thumbtack",
       "urlEN": "https://help.thumbtack.com/article/pro-community",
       "urlES": "https://help.thumbtack.com/article/como-utilizar-la-comunidad-de-thumbtack",
+      "urlPT": "",
+      "notes": ""
+    },
+    {
+      "translationKey": "how to use thumbtack as your maintenance vendor (outsourced maintenance program pilot)",
+      "audience": "pro",
+      "titleEN": "How to use Thumbtack as your maintenance vendor",
+      "titleES": "",
+      "urlEN": "https://help.thumbtack.com/article/use-thumbtack-as-your-maintenance-vendor",
+      "urlES": "",
       "urlPT": "",
       "notes": ""
     },
