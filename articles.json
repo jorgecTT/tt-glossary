@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "count": 200,
+  "count": 201,
   "articles": [
     {
       "translationKey": "1099-k tax support faqs",
@@ -1273,6 +1273,16 @@
       "notes": ""
     },
     {
+      "translationKey": "preset jobs policy",
+      "audience": "pro",
+      "titleEN": "",
+      "titleES": "Política de trabajos preestablecidos",
+      "urlEN": "",
+      "urlES": "https://help.thumbtack.com/article/politica-de-trabajos-preestablecidos",
+      "urlPT": "",
+      "notes": ""
+    },
+    {
       "translationKey": "privacy protection policy",
       "audience": "pro and customer",
       "titleEN": "Privacy Protection Policy",
@@ -1866,9 +1876,9 @@
       "translationKey": "what is google ai search?",
       "audience": "pro",
       "titleEN": "What is Google AI search",
-      "titleES": "",
+      "titleES": "¿Qué es Google AI Search",
       "urlEN": "https://help.thumbtack.com/article/what-is-google-ai-search",
-      "urlES": "",
+      "urlES": "https://help.thumbtack.com/article/que-es-google-ai-search",
       "urlPT": "",
       "notes": ""
     },
@@ -1876,7 +1886,7 @@
       "translationKey": "what is instant deposit?",
       "audience": "pro",
       "titleEN": "What is instant deposit",
-      "titleES": "¿Qué son los depósitos instantáneos",
+      "titleES": "¿Qué es el depósito instantáneo",
       "urlEN": "https://help.thumbtack.com/article/what-are-instant-deposits",
       "urlES": "https://help.thumbtack.com/article/depositos-instantaneos",
       "urlPT": "",
