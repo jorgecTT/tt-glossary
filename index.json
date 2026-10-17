@@ -17,8 +17,8 @@
     "articles": {
       "file": "articles.json",
       "url": "https://raw.githubusercontent.com/jorgecTT/tt-glossary/main/articles.json",
-      "bytes": 72685,
-      "sha256": "629cbff64924200c5b4a081e8f191e530373dffbb8d65c689623856ad75819e0",
+      "bytes": 72706,
+      "sha256": "30f6e51a27586c247a8e4bb05688df8024aa85a2d5a69e36335ec4217878af6a",
       "description": "translationKey -> published EN/ES/PT Help Center URLs.",
       "count": 201
     },
@@ -48,8 +48,8 @@
     "masterbook": {
       "file": "masterbook.json",
       "url": "https://raw.githubusercontent.com/jorgecTT/tt-glossary/main/masterbook.json",
-      "bytes": 536870,
-      "sha256": "3b49b12accaa425bfdfb2b378eff04ea5d90698131655bd05233fbfbcc86c988",
+      "bytes": 538192,
+      "sha256": "be693431878d210f05773093c6333919a7e9cc03090c9ad78e9c5aaaa9eeaab0",
       "description": "Translation memory: previously approved ES content keyed by translationKey.",
       "count": 109
     }
