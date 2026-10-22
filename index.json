@@ -25,8 +25,8 @@
     "corpus": {
       "file": "corpus_full.json",
       "url": "https://raw.githubusercontent.com/jorgecTT/tt-glossary/main/corpus_full.json",
-      "bytes": 6930522,
-      "sha256": "4fea1f7d362ee391583d6f98530bc8cd84fd1dd89f25515af632f0536a5dce05",
+      "bytes": 6932056,
+      "sha256": "d9cf19bc35f6399fc96bdad9cf70c1b86aa057535fb2ab068d61b159568ba1c6",
       "description": "The full content index: Help Center articles + internal KAs, EN/ES/PT, including fullText and publishedUrl. Authority: the corpus Sheet.",
       "count": 549
     },
