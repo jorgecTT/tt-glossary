@@ -2,7 +2,7 @@
 
 # Thumbtack ES-US Glossary (approved)
 
-Offline fallback snapshot of 245 approved terms (machine source: `glossary.json`, synced from the Apps Script endpoint). Product/UI/specific terms must stay consistent; ordinary words not listed here vary by context.
+Offline fallback snapshot of 249 approved terms (machine source: `glossary.json`, synced from the Apps Script endpoint). Product/UI/specific terms must stay consistent; ordinary words not listed here vary by context.
 
 
 ## PRODUCT — never translate, keep English exactly (6)
@@ -91,7 +91,7 @@ Offline fallback snapshot of 245 approved terms (machine source: `glossary.json`
 - **View phone number** → `View phone number ("Ver número de teléfono")`  — _Botón para mostrar el contacto telefónico asignado al cliente._
 - **Weekly Budget** → `Weekly Budget ("Presupuesto Semanal")`  — _El límite de gasto que puedes establecer para los prospectos._
 
-## TERMS / specific vocabulary — canonical ES when used in the sense in Context (165)
+## TERMS / specific vocabulary — canonical ES when used in the sense in Context (169)
 
 - **Access code** → código de acceso  — _Código de 7 dígitos para conectar llamadas desde números no registrados._
 - **Account** → Cuenta  — _Tu cuenta de profesional en Thumbtack._
@@ -113,6 +113,7 @@ Offline fallback snapshot of 245 approved terms (machine source: `glossary.json`
 - **Business Hours** → Horario Comercial  — _Las horas de operación que muestras en tu perfil._
 - **business profiles** → perfiles de negocio  — _Cuentas de empresa que un profesional gestiona en Thumbtack._
 - **Calendar Sync** → Sincronización de Calendario  — _Conectar tu calendario personal (ej. Google) con Thumbtack._
+- **Cancellation fee** → Cargo por cancelación  — _Cargo que se cobra cuando el profesional cancela un trabajo reclamado fuera del plazo permitido. Multi-palabra: gana sobre Fee._
 - **Category** → Categoría  — _El área general de servicio que ofreces (ej. "Mejoras del hogar")._
 - **CCPA (California Consumer Privacy Act)** → CCPA (Ley de Privacidad del Consumidor de California)  — _Ley de California que otorga a los consumidores derechos sobre su información personal._
 - **Chargeback Protection** → Protección contra Contracargos  — _Una política que protege al profesional si un cliente disputa un pago hecho a través de Thumbtack Pay._
@@ -140,6 +141,7 @@ Offline fallback snapshot of 245 approved terms (machine source: `glossary.json`
 - **Disputed charges** → Cargos disputados  — _Cargos que un cliente ha reclamado a su banco como no válidos._
 - **Earnings** → Ganancias  — _El dinero que recibes de tus clientes por los trabajos realizados._
 - **Estimate** → Cotización aproximada  — _Un precio aproximado basado en los detalles iniciales del cliente._
+- **Fee** → Cargo  — _Monto que se le cobra al profesional como penalidad (cancelación, inasistencia). No usar 'tarifa', que suena a precio. 'Lead fees' sigue siendo 'cargos por prospectos'. Distinto de Flat Fee (Tarifa fija)._
 - **Flat Fee** → Tarifa Fija  — _Un precio único y total para un servicio definido._
 - **form** → formulario  — _Documento digital para solicitar cambios en la cuenta o servicio._
 - **Fraud and Damage Policy** → Política de Fraude y Daños  — _Lo que cubre Thumbtack en caso de fraude o daños materiales._
@@ -167,6 +169,8 @@ Offline fallback snapshot of 245 approved terms (machine source: `glossary.json`
 - **Message** → Mensaje  — _La comunicación escrita con clientes a través de la plataforma._
 - **messages** → mensajes  — _Comunicación directa entre el cliente y el profesional dentro de la aplicación._
 - **monthly subscription** → suscripción mensual  — _Modelo de cobro recurrente cada mes por el uso de la herramienta._
+- **No-show** → Inasistencia  — _Cuando el profesional (o el cliente: 'inasistencia del cliente') no se presenta a un trabajo programado._
+- **No-show fee** → Cargo por inasistencia  — _Cargo que se cobra cuando el profesional no se presenta a un trabajo que reclamó. Multi-palabra: gana sobre Fee._
 - **Non-Discrimination Policy** → Política de no Discriminación  — _La prohibición estricta de cualquier tipo de discriminación._
 - **Opportunities** → Oportunidades  — _Proyectos disponibles que pueden no coincidir exactamente con tus preferencias._
 - **Opt-Out** → Optar por Excluirse  — _El acto de elegir no permitir que se venda o comparta tu información personal._

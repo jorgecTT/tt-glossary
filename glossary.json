@@ -1,7 +1,7 @@
 {
   "ok": true,
   "mode": "glossary",
-  "count": 245,
+  "count": 249,
   "terms": [
     {
       "en": "Account",
@@ -2205,6 +2205,42 @@
       "context": "Igual que swag, con la marca explícita.",
       "sourceArticle": "manual glossary import",
       "dateAdded": "2026-08-13T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Fee",
+      "es": "Cargo",
+      "context": "Monto que se le cobra al profesional como penalidad (cancelación, inasistencia). No usar 'tarifa', que suena a precio. 'Lead fees' sigue siendo 'cargos por prospectos'. Distinto de Flat Fee (Tarifa fija).",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-10-23T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "Cancellation fee",
+      "es": "Cargo por cancelación",
+      "context": "Cargo que se cobra cuando el profesional cancela un trabajo reclamado fuera del plazo permitido. Multi-palabra: gana sobre Fee.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-10-23T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "No-show fee",
+      "es": "Cargo por inasistencia",
+      "context": "Cargo que se cobra cuando el profesional no se presenta a un trabajo que reclamó. Multi-palabra: gana sobre Fee.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-10-23T05:00:00.000Z",
+      "status": "manual",
+      "type": "term"
+    },
+    {
+      "en": "No-show",
+      "es": "Inasistencia",
+      "context": "Cuando el profesional (o el cliente: 'inasistencia del cliente') no se presenta a un trabajo programado.",
+      "sourceArticle": "manual glossary import",
+      "dateAdded": "2026-10-23T05:00:00.000Z",
       "status": "manual",
       "type": "term"
     }
