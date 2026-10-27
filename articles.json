@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "count": 201,
+  "count": 202,
   "articles": [
     {
       "translationKey": "1099-k tax support faqs",
@@ -1889,6 +1889,16 @@
       "titleES": "¿Qué es el depósito instantáneo",
       "urlEN": "https://help.thumbtack.com/article/what-are-instant-deposits",
       "urlES": "https://help.thumbtack.com/article/depositos-instantaneos",
+      "urlPT": "",
+      "notes": ""
+    },
+    {
+      "translationKey": "what is lead boost?",
+      "audience": "pro",
+      "titleEN": "What is lead boost",
+      "titleES": "",
+      "urlEN": "https://help.thumbtack.com/article/lead-boost",
+      "urlES": "",
       "urlPT": "",
       "notes": ""
     },
