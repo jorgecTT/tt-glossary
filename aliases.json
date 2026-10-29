@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "count": 3,
+  "count": 4,
   "aliases": [
     {
       "oldSlug": "weekly-insights",
@@ -16,6 +16,11 @@
       "oldSlug": "este-slug-no-existe-jamas",
       "currentSlug": "",
       "notes": "returns 200 but slug not found in url_index — likely a soft-404 (article does not exist). Verify manually."
+    },
+    {
+      "oldSlug": "how-to-create-a-custom-lead-integration",
+      "currentSlug": "how-to-create-a-webhook",
+      "notes": ""
     }
   ]
 }

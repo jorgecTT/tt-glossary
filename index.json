@@ -9,10 +9,10 @@
     "aliases": {
       "file": "aliases.json",
       "url": "https://raw.githubusercontent.com/jorgecTT/tt-glossary/main/aliases.json",
-      "bytes": 478,
-      "sha256": "3c65451bfaab50921e62617500d1469e46a318f9def6f85e6e3858255d2248c8",
+      "bytes": 617,
+      "sha256": "c46b70d3d6c40290e6d98cc252cb0dc057c290c6f9d45dc8ec0925e9c4be25bd",
       "description": "Old Help Center slugs that changed, so links can be rewritten.",
-      "count": 3
+      "count": 4
     },
     "articles": {
       "file": "articles.json",
@@ -48,8 +48,8 @@
     "masterbook": {
       "file": "masterbook.json",
       "url": "https://raw.githubusercontent.com/jorgecTT/tt-glossary/main/masterbook.json",
-      "bytes": 544451,
-      "sha256": "6a4338f7472a7c363582d6fee7c5b0b48f5bd40f627cba6c5749990155385fa8",
+      "bytes": 545129,
+      "sha256": "80c2241c782baabeacb66fc5850a6c6c8a7baaea5d3f0e145394bb7dcad86c53",
       "description": "Translation memory: previously approved ES content keyed by translationKey.",
       "count": 109
     }
