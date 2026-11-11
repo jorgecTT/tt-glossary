@@ -17,8 +17,8 @@
     "articles": {
       "file": "articles.json",
       "url": "https://raw.githubusercontent.com/jorgecTT/tt-glossary/main/articles.json",
-      "bytes": 72975,
-      "sha256": "ce7aa9563bbfc2c8c1de9315b570f1b8e5937c1507ba64d3febedf07f08c8946",
+      "bytes": 72984,
+      "sha256": "a6ce56ac285722323c93674b2ac272d220ec4162bd934a2be5fcfbaa747a37e4",
       "description": "translationKey -> published EN/ES/PT Help Center URLs.",
       "count": 202
     },
