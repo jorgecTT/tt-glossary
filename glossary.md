@@ -1,264 +1,467 @@
-<!-- GENERATED FILE — DO NOT EDIT. Produced by scripts/build_md.py from glossary.json on every sync; hand edits are silently overwritten. Add NEW terms as rows in the manual glossary Sheet (tab gid=1113586630); change EXISTING terms in the Localization Auditor app, whose value wins. -->
+<!-- GENERATED FILE — DO NOT EDIT. Produced by scripts/build_md.py from glossary.json on every sync; hand edits are silently overwritten. Add NEW terms as rows in the manual glossary Sheet (tab gid=1113586630); change EXISTING terms in the Localization Auditor app, whose value wins; app labels, variations, do-not-use and English context live in the glossary_extra tab of the corpus sheet. -->
 
 # Thumbtack ES-US Glossary (approved)
 
-Offline fallback snapshot of 249 approved terms (machine source: `glossary.json`, synced from the Apps Script endpoint). Product/UI/specific terms must stay consistent; ordinary words not listed here vary by context.
+Offline fallback snapshot of 449 approved terms (machine source: `glossary.json`, synced from the Apps Script endpoint). Product/UI/specific terms must stay consistent; ordinary words not listed here vary by context. "Do not use" versions are never allowed, even if older articles have them.
 
 
-## PRODUCT — never translate, keep English exactly (6)
+## PRODUCT — never translate, keep English exactly (5)
 
-- **Front Desk** → keep as `Front Desk`  — _Un servicio que ayuda a gestionar las llamadas y los prospectos iniciales._
-- **Pill Pro** → keep as `Pill Pro`  — _Distintivo o programa para profesionales dentro de la plataforma._
-- **Pro Tip** → keep as `Pro Tip`  — _Etiqueta que acompaña consejos prácticos para el usuario profesional._
+- **Front Desk** → keep as `Front Desk`  — _Un servicio que ayuda a gestionar las llamadas y los prospectos iniciales._  Do not use: Servicio de Recepción, recepción
+- **Pro Rewards** → keep as `Pro Rewards`  — _Programa de lealtad que ofrece beneficios a los profesionales. Es un nombre de producto y no se traduce._  Variations: Always in English, also in "Thumbtack Pro Rewards" and level names (e.g. "nivel Platino de Pro Rewards"). · Do not use: Recompensas Pro, Recompensas para Profesionales
 - **Thumbtack** → keep as `Thumbtack`  — _Nombre de la plataforma para conectar profesionales con clientes._
-- **Thumbtack Pay** → keep as `Thumbtack Pay`  — _Sistema de procesamiento de pagos — nombre de producto, no se traduce._
+- **Thumbtack Pay** → keep as `Thumbtack Pay`  — _Sistema de procesamiento de pagos. Es un nombre de producto y no se traduce._  Do not use: Pago de Thumbtack
 - **Thumbtack Pro Rewards** → keep as `Thumbtack Pro Rewards`  — _Programa de lealtad y beneficios para los profesionales de Thumbtack._
 
-## UI — render as EnglishLabel ("Traducción") (74)
+## UI — render as EnglishLabel (“Traducción”) (252)
 
-- **+ Add new** → `+ Add new ("+ Agregar nuevo")`  — _Etiqueta de botón para añadir números adicionales._
-- **Account Settings** → `Account Settings ("Configuración de la cuenta")`  — _El área donde gestionas tu información personal, contraseña y notificaciones._
-- **Action** → `Action ("Action (“Acción”)")`  — _Paso de Zapier que define qué ocurre tras el disparo._
-- **Add from your contacts** → `Add from your contacts ("Agregar desde sus contactos")`  — _Opción para importar números de la agenda del dispositivo._
-- **Add manually** → `Add manually ("Agregar manualmente")`  — _Opción para ingresar un número de teléfono por escrito._
-- **Add new service** → `Add new service ("Agregar nuevo servicio")`  — _Acción para crear un servicio nuevo en su perfil._
-- **Authorization type** → `Authorization type ("Authorization type (“Tipo de autorización”)")`  — _Ajuste de seguridad para validar la conexión entre herramientas._
-- **Business Profile** → `Business Profile ("Perfil de Negocio")`  — _Tu página en Thumbtack que los clientes ven._
-- **Change Password** → `Change Password ("Cambiar Contraseña")`  — _El proceso para actualizar tu contraseña por seguridad._
-- **Close Account** → `Close Account ("Cerrar Cuenta")`  — _Eliminar tu cuenta de Thumbtack de forma permanente._
-- **Contact Us** → `Contact Us ("Contáctanos")`  — _Botón/enlace de UI para contactar al equipo de soporte._
-- **Copy to clipboard** → `Copy to clipboard ("Copiar al portapapeles")`  — _Función para copiar la información del cliente y pegarla externamente._
-- **Create a Zap** → `Create a Zap ("Create a Zap (“Crear un Zap”)")`  — _Botón en Zapier para iniciar un nuevo flujo automatizado._
-- **Create webhook** → `Create webhook ("Create webhook (“Crear webhook”)")`  — _Botón para iniciar la configuración de una nueva conexión._
-- **Credentials** → `Credentials ("Credenciales")`  — _Sección de la cuenta donde se encuentran las verificaciones y documentos._
-- **Customer Name** → `Customer Name ("Customer Name (“Nombre del cliente”)")`  — _Campo de datos que identifica al usuario solicitante._
-- **Deactivate Account** → `Deactivate Account ("Desactivar Cuenta")`  — _Pausar tu cuenta temporalmente para no recibir prospectos ni cargos._
-- **Delete webhook** → `Delete webhook ("Delete webhook (“Eliminar webhook”)")`  — _Botón para remover permanentemente una conexión de datos._
-- **Denied** → `Denied ("Rechazado")`  — _Estado de una solicitud de reembolso que no fue aprobada._
-- **Disabled** → `Disabled ("Disabled (“Desactivado”)")`  — _Estado que indica que la conexión está apagada._
-- **Download** → `Download ("Descargar")`  — _Acción o botón para guardar el archivo del recibo en el dispositivo._
-- **Download the pro app now** → `Download the pro app now ("Descargue la aplicación para profesionales ahora")`  — _Etiqueta de botón para iniciar la descarga de la herramienta móvil._
-- **Enabled** → `Enabled ("Enabled (“Activado”)")`  — _Estado que indica que el webhook está funcionando activamente._
-- **endpoint URL** → `endpoint URL ("endpoint URL (“URL de destino”)")`  — _Dirección digital donde se reciben los datos de los prospectos._
-- **Failure** → `Failure ("Failure (“Falla”)")`  — _Estado que indica que ocurrió un error en la entrega._
-- **For you** → `For you ("Para usted")`  — _Pestaña donde ve recomendaciones y trabajos que coinciden con su preferencias._
-- **Forgot password?** → `Forgot password? ("¿Olvidó su contraseña?")`  — _Enlace de ayuda para recuperar el acceso a la cuenta._
-- **Insights** → `Insights ("Panel de Rendimiento")`  — _Nombre anterior de la sección hoy llamada Performance Dashboard, donde el profesional ve el rendimiento de su negocio (vistas, respuestas, contrataciones). Cuando el inglés nombra la sección o pestaña, use el doble render de UI: Insights ("Panel de Rendimiento")._
-- **Integrations** → `Integrations ("Integrations (“Integraciones”)")`  — _Opción del menú para gestionar conexiones con herramientas externas._
-- **Job Preferences** → `Job Preferences ("Preferencias de trabajo")`  — _La configuración de dónde, cuándo y qué tipo de trabajos quieres._
-- **Jobs page** → `Jobs page ("pestaña Jobs")`  — _Sección de la interfaz donde se gestionan los trabajos._
-- **Let's get you enrolled** → `Let's get you enrolled ("Inscríbase ahora")`  — _Botón para iniciar el registro de un negocio en el servicio._
-- **Log in** → `Log in ("Iniciar sesión")`  — _Botón o acción para entrar a la cuenta de usuario._
-- **Manage lead prices** → `Manage lead prices ("Administrar precios de prospectos")`  — _Etiqueta de UI para cambiar precios de prospectos._
-- **Manage webhooks** → `Manage webhooks ("Manage webhooks (“Administrar webhooks”)")`  — _Sección del panel para editar las conexiones automáticas configuradas._
-- **Mark as Hired** → `Mark as Hired ("Marcar como Contratado")`  — _La acción de indicar que un cliente te ha elegido para el trabajo._
-- **Next** → `Next ("Next ("Siguiente")")`  — _Botón para avanzar al siguiente paso en la configuración._
-- **Notifications** → `Notifications ("Notificaciones")`  — _Las alertas que recibes por correo, SMS o en la aplicación._
-- **Open leads** → `Open leads ("Prospectos abiertos")`  — _Otra forma de referirse a Oportunidades (según experimento/UX)._
-- **Opportunities tab** → `Opportunities tab ("Pestaña de Oportunidades")`  — _Sección de la aplicación donde los profesionales encuentran nuevos clientes._
-- **Pause Leads** → `Pause Leads ("Pausar Prospectos")`  — _Detener temporalmente la recepción de nuevos prospectos._
-- **Payments** → `Payments ("Pagos")`  — _Sección del perfil para gestionar la facturación y el historial de cobros._
-- **Pending** → `Pending ("Pendiente")`  — _Estado de una solicitud de reembolso que aún espera aprobación._
-- **Portfolio** → `Portfolio ("Portafolio")`  — _La colección de fotos y videos de tus trabajos anteriores._
-- **Preload my balance** → `Preload my balance ("Precargar mi Saldo")`  — _Añadir fondos a tu cuenta de Thumbtack por adelantado._
-- **Quick Replies** → `Quick Replies ("Respuestas Rápidas")`  — _Plantillas de mensajes guardados para responder rápidamente a los clientes._
-- **Reactivate account** → `Reactivate account ("Reactivar cuenta")`  — _Volver a habilitar una cuenta que estaba desactivada o suspendida._
-- **Receipts** → `Receipts ("Recibos")`  — _Pestaña donde se pueden visualizar y descargar los comprobantes de pago._
-- **Recent deliveries** → `Recent deliveries ("Recent deliveries (“Entregas recientes”)")`  — _Pestaña que muestra el historial de envíos de datos realizados._
-- **Refund Requested** → `Refund Requested ("Reembolso Solicitado")`  — _Estado que indica que la solicitud de reembolso ha sido enviada._
-- **Refunded** → `Refunded ("Reembolsado")`  — _Estado de una solicitud aprobada y acreditada a la cuenta._
-- **Register a new number** → `Register a new number ("Registrar un nuevo número")`  — _Botón para añadir un número de teléfono a la cuenta._
-- **Registered phone numbers** → `Registered phone numbers ("Números de teléfono registrados")`  — _Sección de configuración para gestionar los teléfonos vinculados._
-- **Resend** → `Resend ("Reenviar")`  — _Botón para solicitar un nuevo código de verificación por SMS._
-- **Responses** → `Responses ("Responses (“Respuestas”)")`  — _Pestaña con detalles técnicos sobre el resultado del envío._
-- **Save** → `Save ("Guardar")`  — _Botón para guardar cambios._
-- **Save changes** → `Save changes ("Save changes (“Guardar cambios”)")`  — _Botón para confirmar y guardar las actualizaciones realizadas._
-- **Search Results** → `Search Results ("Resultados de Búsqueda")`  — _La lista de profesionales que un cliente ve al buscar un servicio._
-- **Send text** → `Send text ("Enviar mensaje de texto")`  — _Botón para remitir los detalles de contacto por mensaje escrito._
-- **Settings** → `Settings ("Configuración")`  — _Menú para ajustar las preferencias de la cuenta._
-- **Sign up** → `Sign up ("Sign up ("Registrarse")")`  — _Botón en la aplicación para iniciar el proceso de registro._
-- **Sign up for free** → `Sign up for free ("Sign up for free ("Registrarse gratis")")`  — _Botón en la versión de escritorio para crear una cuenta gratuita._
-- **Sign up or log in** → `Sign up or log in ("Registrarse o iniciar sesión")`  — _Opción en la interfaz para crear una cuenta o acceder._
-- **Start** → `Start ("Comenzar")`  — _Botón de acción para iniciar el trámite de validación de identidad._
-- **Switch to business** → `Switch to business ("Cambiar a cuenta comercial")`  — _Opción del menú para cambiar a la vista de profesional._
-- **Switch to customer** → `Switch to customer ("Cambiar a cuenta de cliente")`  — _Opción del menú para cambiar a la vista de cliente._
-- **Take a background check** → `Take a background check ("Realice una verificación de antecedentes")`  — _Etiqueta del botón de llamado a la acción al final del texto._
-- **Test this webhook** → `Test this webhook ("Test this webhook (“Probar este webhook”)")`  — _Acción para validar que la información llega correctamente al destino._
-- **Track my spending** → `Track my spending ("Rastrear mis Gastos")`  — _Revisar el historial de tus pagos a Thumbtack._
-- **Turn On/Off Preferences** → `Turn On/Off Preferences ("Activar/Desactivar Preferencias")`  — _Habilitar o deshabilitar tu perfil para recibir prospectos de pago._
-- **View details** → `View details ("Ver detalles")`  — _Acción para ver la información completa de un trabajo u oportunidad._
-- **View or share number** → `View or share number ("Ver o compartir número")`  — _Acción para visualizar o enviar los datos de contacto del cliente._
-- **View phone number** → `View phone number ("Ver número de teléfono")`  — _Botón para mostrar el contacto telefónico asignado al cliente._
-- **Weekly Budget** → `Weekly Budget ("Presupuesto Semanal")`  — _El límite de gasto que puedes establecer para los prospectos._
+- **+ Add new** → `+ Add new (“+ Agregar nuevo”)`  — _Etiqueta de botón para añadir números adicionales._
+- **+ Add service** → `+ Add service (“+ Agregar servicio”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo agregar o eliminar un servicio._
+- **+ New Post** → `+ New Post (“+ Nueva publicación”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo utilizar la Comunidad de Thumbtack._
+- **Account Details** → `Account Details (“Detalles de la cuenta”)`  — _Botón o etiqueta de la aplicación. Se usa en: Solución de problemas con su cuenta de profesional._
+- **Account information and licensing** → `Account information and licensing (“Información de la cuenta y licencias”)`  — _Botón o etiqueta de la aplicación. Se usa en: Solución de problemas con su cuenta de profesional._
+- **Account information update** → `Account information update (“Actualización de información de la cuenta”)`  — _Botón o etiqueta de la aplicación. Se usa en: Solución de problemas con su cuenta de profesional._
+- **Account Settings** → `Account Settings (“Configuración de la cuenta”)`  — _El área donde usted gestiona su información personal, contraseña y notificaciones._
+- **Action** → `Action (“Acción”)`  — _Paso de Zapier que define qué ocurre tras el disparo._
+- **Activity** → `Activity (“Actividad”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo solicitar un reembolso._
+- **Add** → `Add (“Agregar”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo administrar el seguro de su negocio._
+- **Add a card** → `Add a card (“Agregar una tarjeta”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo agregar o eliminar una tarjeta de crédito._
+- **Add a new card** → `Add a new card (“Agregar una nueva tarjeta”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo agregar o eliminar una tarjeta de crédito._
+- **Add additional insurance** → `Add additional insurance (“Agregar otro seguro”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo administrar el seguro de su negocio._
+- **Add another business profile** → `Add another business profile (“Agregar otro perfil de negocio”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo agregar o eliminar un perfil de negocio._
+- **Add card** → `Add card (“Agregar tarjeta”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo agregar o eliminar una tarjeta de crédito._
+- **Add from your contacts** → `Add from your contacts (“Agregar desde sus contactos”)`  — _Opción para importar números de la agenda del dispositivo._
+- **Add funds** → `Add funds (“Agregar fondos”)`  — _Botón o etiqueta de la aplicación. Se usa en: Como precargar mi saldo._
+- **Add item** → `Add item (“Agregar concepto”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo crear cotizaciones y facturas en Thumbtack._
+- **Add manually** → `Add manually (“Agregar manualmente”)`  — _Opción para ingresar un número de teléfono por escrito._
+- **Add new project** → `Add new project (“Agregar nuevo proyecto”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo administrar mis proyectos destacados._
+- **Add new service** → `Add new service (“Agregar nuevo servicio”)`  — _Acción para crear un servicio nuevo en su perfil._
+- **Add project** → `Add project (“Agregar proyecto”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo administrar mis proyectos destacados._
+- **Add rating** → `Add rating (“Agregar calificación”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo importar reseñas a mi perfil de Thumbtack._
+- **Add reviews** → `Add reviews (“Agregar reseñas”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo importar reseñas a mi perfil de Thumbtack._
+- **Add reviews from Google** → `Add reviews from Google (“Agregar reseñas desde Google”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo importar reseñas a mi perfil de Thumbtack._
+- **Agree and continue** → `Agree and continue (“Aceptar y continuar”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo configurar el depósito directo._
+- **All my businesses** → `All my businesses (“Todos mis negocios”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo ver mi panel de rendimiento._
+- **Apps** → `Apps (“Aplicaciones”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo crear un webhook._
+- **Apps & Integrations** → `Apps & Integrations (“Aplicaciones e integraciones”)`  — _Botón o etiqueta de la aplicación. Se usa en: ¿Qué es la pestaña Apps._
+- **Ask for reviews** → `Ask for reviews (“Solicitar reseñas”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo importar reseñas a mi perfil de Thumbtack._  Do not use: Pedir reseñas
+- **Authorization type** → `Authorization type (“Tipo de autorización”)`  — _Ajuste de seguridad para validar la conexión entre herramientas._
+- **Available for instant deposit** → `Available for instant deposit (“Disponible para depósito instantáneo”)`  — _Botón o etiqueta de la aplicación. Se usa en: ¿Qué es el depósito instantáneo._
+- **Billing settings** → `Billing settings (“Configuración de facturación”)`  — _Botón o etiqueta de la aplicación. Se usa en: Como precargar mi saldo._
+- **Business FAQs** → `Business FAQs (“Preguntas frecuentes del negocio”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo establecer el precio de mis servicios._
+- **Business Insurance** → `Business Insurance (“Seguro comercial”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo administrar el seguro de su negocio._
+- **Business Profile** → `Business Profile (“Perfil de negocio”)`  — _Su página en Thumbtack que ven los clientes._
+- **Calendar** → `Calendar (“Calendario”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo administrar mi disponibilidad._
+- **Calendar year** → `Calendar year (“Año calendario”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo ver mi panel de rendimiento._
+- **Can't do it** → `Can't do it (“No puedo hacerlo”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo responder a los prospectos._
+- **Cancel** → `Cancel (“Cancelar”)`  — _Botón o etiqueta de la aplicación. Se usa en: Política de trabajos preestablecidos._
+- **Cancel invoice** → `Cancel invoice (“Cancelar factura”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo crear cotizaciones y facturas en Thumbtack._
+- **Change Password** → `Change Password (“Cambiar contraseña”)`  — _El proceso para actualizar su contraseña por seguridad._
+- **Choose file** → `Choose file (“Elegir archivo”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo administrar el seguro de su negocio._
+- **Choose Trigger Event** → `Choose Trigger Event (“Elegir evento disparador”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo configurar un webhook en Zapier._
+- **Choose type** → `Choose type (“Elegir tipo”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo crear cotizaciones y facturas en Thumbtack._
+- **City** → `City (“Ciudad”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo configurar un webhook en Zapier._
+- **Close** → `Close (“Cerrar”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo configurar un webhook en Zapier._
+- **Close Account** → `Close Account (“Cerrar cuenta”)`  — _Eliminar su cuenta de Thumbtack de forma permanente._
+- **Closed** → `Closed (“Cerrado”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo administrar mi disponibilidad._
+- **Contact Us** → `Contact Us (“Contáctenos”)`  — _Botón o enlace para contactar al equipo de soporte._  Do not use: Contáctanos
+- **Continue** → `Continue (“Continuar”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo configurar un webhook en Zapier._
+- **Continue with Selected Record** → `Continue with Selected Record (“Continuar con el registro seleccionado”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo configurar un webhook en Zapier._
+- **Convert to invoice** → `Convert to invoice (“Convertir en factura”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo crear cotizaciones y facturas en Thumbtack._
+- **Copy** → `Copy (“Copiar”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo configurar un webhook en Zapier._
+- **Copy shareable link** → `Copy shareable link (“Copiar enlace para compartir”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo solicitar reseñas._
+- **Copy to clipboard** → `Copy to clipboard (“Copiar al portapapeles”)`  — _Función para copiar la información del cliente y pegarla externamente._
+- **Create a Zap** → `Create a Zap (“Crear un Zap”)`  — _Botón en Zapier para iniciar un nuevo flujo automatizado._
+- **Create estimate or invoice** → `Create estimate or invoice (“Crear cotización o factura”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo crear cotizaciones y facturas en Thumbtack._
+- **Create quick reply** → `Create quick reply (“Crear respuesta rápida”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo utilizar respuestas rápidas._
+- **Create webhook** → `Create webhook (“Crear webhook”)`  — _Botón para iniciar la configuración de una nueva conexión._
+- **Credentials** → `Credentials (“Credenciales”)`  — _Sección de la cuenta donde se encuentran las verificaciones y documentos._
+- **Credited** → `Credited (“Acreditado”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo solicitar un reembolso._
+- **Customer Name** → `Customer Name (“Nombre del cliente”)`  — _Campo de datos que identifica al usuario solicitante._
+- **Customer Phone** → `Customer Phone (“Teléfono del cliente”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo configurar un webhook en Zapier._
+- **Customers travel to me** → `Customers travel to me (“Los clientes vienen a mí”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo administrar mis áreas de desplazamiento._  Do not use: Los clientes viajan hacia mí
+- **Date range** → `Date range (“Rango de fechas”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo ver mi panel de rendimiento._
+- **Deactivate Account** → `Deactivate Account (“Desactivar cuenta”)`  — _Pausar su cuenta temporalmente para no recibir prospectos ni cargos._
+- **Deactivate this service** → `Deactivate this service (“Desactivar este servicio”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo agregar o eliminar un servicio._
+- **Decline** → `Decline (“Rechazar”)`  — _Botón o etiqueta de la aplicación. Se usa en: ¿Qué son los prospectos de Smart Match._
+- **Define specific business hours** → `Define specific business hours (“Definir horario comercial específico”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo administrar mi disponibilidad._
+- **Delete** → `Delete (“Eliminar”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo utilizar plantillas de cotización._
+- **Delete project** → `Delete project (“Eliminar proyecto”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo administrar mis proyectos destacados._
+- **Delete Template** → `Delete Template (“Eliminar plantilla”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo utilizar plantillas de cotización._
+- **Delete webhook** → `Delete webhook (“Eliminar webhook”)`  — _Botón para eliminar permanentemente una conexión de datos._
+- **Denied** → `Denied (“Rechazado”)`  — _Estado de una solicitud de reembolso que no fue aprobada._
+- **Deposit** → `Deposit (“Depositar”)`  — _Botón o etiqueta de la aplicación. Se usa en: ¿Qué es el depósito instantáneo._
+- **Deposit accounts** → `Deposit accounts (“Cuentas de depósito”)`  — _Botón o etiqueta de la aplicación. Se usa en: ¿Qué es el depósito instantáneo._
+- **Disabled** → `Disabled (“Desactivado”)`  — _Estado que indica que la conexión está apagada._
+- **Done** → `Done (“Listo”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo administrar el seguro de su negocio._
+- **Download** → `Download (“Descargar”)`  — _Acción o botón para guardar el archivo del recibo en el dispositivo._
+- **Download CSV file** → `Download CSV file (“Descargar archivo CSV”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo ver mi panel de rendimiento._
+- **Download lead details** → `Download lead details (“Descargar detalles de prospectos”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo ver mi panel de rendimiento._
+- **Download the pro app now** → `Download the pro app now (“Descargar la aplicación para profesionales ahora”)`  — _Etiqueta de botón para iniciar la descarga de la herramienta móvil._
+- **Duplicate** → `Duplicate (“Duplicar”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo crear cotizaciones y facturas en Thumbtack._
+- **Edit** → `Edit (“Editar”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo utilizar plantillas de cotización._
+- **Edit availability settings** → `Edit availability settings (“Editar configuración de disponibilidad”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo administrar mi disponibilidad._  Do not use: Editar disponibilidad
+- **Edit password** → `Edit password (“Editar contraseña”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo actualizar mi contraseña._
+- **Edit your travel type** → `Edit your travel type (“Editar tipo de desplazamiento”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo administrar mis áreas de desplazamiento._
+- **Email** → `Email (“Correo electrónico”)`  — _Botón o etiqueta de la aplicación. Se usa en: Solución de problemas con su cuenta de profesional._
+- **Email address** → `Email address (“Dirección de correo electrónico”)`  — _Botón o etiqueta de la aplicación. Se usa en: Solución de problemas con su cuenta de profesional._
+- **Enabled** → `Enabled (“Activado”)`  — _Estado que indica que el webhook está funcionando activamente._
+- **endpoint URL** → `endpoint URL (“URL de destino”)`  — _Dirección digital donde se reciben los datos de los prospectos._
+- **Exact match** → `Exact match (“Coincidencia exacta”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo responder a los prospectos._
+- **Failure** → `Failure (“Error”)`  — _Estado que indica que ocurrió un error en la entrega._
+- **Feature this project** → `Feature this project (“Destacar este proyecto”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo administrar mis proyectos destacados._
+- **Featured Projects** → `Featured Projects (“Proyectos destacados”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo administrar mis proyectos destacados._
+- **Folders** → `Folders (“Carpetas”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo realizar el seguimiento de mis trabajos._
+- **For you** → `For you (“Para usted”)`  — _Pestaña donde ve recomendaciones y trabajos que coinciden con sus preferencias._
+- **Forgot password?** → `Forgot password? (“¿Olvidó su contraseña?”)`  — _Enlace de ayuda para recuperar el acceso a la cuenta._
+- **Get reviews** → `Get reviews (“Obtener reseñas”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo importar reseñas a mi perfil de Thumbtack._
+- **Go live now** → `Go live now (“Activar ahora”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo pausar mis prospectos y ocultar mi negocio._
+- **Great Value** → `Great Value (“Buen precio”)`  — _Botón o etiqueta de la aplicación. Se usa en: ¿Qué son los resultados de búsqueda._  Do not use: Buen valor
+- **Hide business now** → `Hide business now (“Ocultar negocio ahora”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo pausar mis prospectos y ocultar mi negocio._
+- **Hide my business** → `Hide my business (“Ocultar mi negocio”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo pausar mis prospectos y ocultar mi negocio._
+- **Hide my business temporarily** → `Hide my business temporarily (“Ocultar mi negocio temporalmente”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo pausar mis prospectos y ocultar mi negocio._
+- **Home** → `Home (“Inicio”)`  — _Botón o etiqueta de la aplicación. Se usa en: Pautas para usuarios de Thumbtack._  Variations: Tab in the app: Home (“Inicio”). A house (home improvement, home services): "hogar". · Do not use: Hogar (for the tab)
+- **Import from Google** → `Import from Google (“Importar desde Google”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo importar reseñas a mi perfil de Thumbtack._
+- **Import from other sites** → `Import from other sites (“Importar de otros sitios”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo importar reseñas a mi perfil de Thumbtack._
+- **Import reviews from other sites** → `Import reviews from other sites (“Importar reseñas de otros sitios”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo importar reseñas a mi perfil de Thumbtack._
+- **In High Demand** → `In High Demand (“Muy solicitado”)`  — _Botón o etiqueta de la aplicación. Se usa en: ¿Qué son los resultados de búsqueda._
+- **Inbox** → `Inbox (“Bandeja de entrada”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo dejar una reseña a un profesional._  Do not use: buzón de entrada
+- **Inbox filters** → `Inbox filters (“Filtros de bandeja de entrada”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo realizar el seguimiento de mis trabajos._
+- **Insights** → `Insights (“Panel de rendimiento”)`  — _Nombre anterior de la sección hoy llamada Performance Dashboard, donde el profesional ve el rendimiento de su negocio (vistas, respuestas, contrataciones). Cuando el inglés nombra la sección o pestaña, use el formato de UI: Insights (“Panel de rendimiento”)._
+- **Integrations** → `Integrations (“Integraciones”)`  — _Opción del menú para gestionar conexiones con herramientas externas._
+- **Invoice** → `Invoice (“Factura”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo crear cotizaciones y facturas en Thumbtack._
+- **Invoices & estimates** → `Invoices & estimates (“Facturas y cotizaciones”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo crear cotizaciones y facturas en Thumbtack._
+- **Job done** → `Job done (“Trabajo terminado”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo realizar el seguimiento de mis trabajos._
+- **Job Preferences** → `Job Preferences (“Preferencias de trabajo”)`  — _La configuración de dónde, cuándo y qué tipo de trabajos usted quiere._
+- **Jobs page** → `Jobs page (“Trabajos”)`  — _Sección de la aplicación donde se gestionan los trabajos. Se escribe: Jobs (“Trabajos”)._
+- **Lead time** → `Lead time (“Tiempo de aviso”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo administrar mi disponibilidad._  Do not use: tiempo de antelación
+- **Learn more** → `Learn more (“Más información”)`  — _Botón o etiqueta de la aplicación. Se usa en: ¿Qué es la pestaña Apps._
+- **Let's get you enrolled** → `Let's get you enrolled (“Inscribirse ahora”)`  — _Botón para iniciar el registro de un negocio en el servicio._
+- **Location** → `Location (“Ubicación”)`  — _Botón o etiqueta de la aplicación. Se usa en: ¿Qué son los prospectos de Smart Match._
+- **Log in** → `Log in (“Iniciar sesión”)`  — _Botón o acción para entrar a la cuenta de usuario._  Variations: Button Log in or Sign in: "Iniciar sesión". The noun login: "inicio de sesión".
+- **Login** → `Login (“Inicio de sesión”)`  — _Botón o etiqueta de la aplicación. Se usa en: Solución de problemas con su cuenta de profesional._
+- **Manage insurance** → `Manage insurance (“Administrar seguro”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo administrar el seguro de su negocio._
+- **Manage lead prices** → `Manage lead prices (“Administrar precios de prospectos”)`  — _Etiqueta de UI para cambiar precios de prospectos._
+- **Manage third-party platform visibility** → `Manage third-party platform visibility (“Administrar la visibilidad en plataformas de terceros”)`  — _Botón o etiqueta de la aplicación. Se usa en: ¿Qué es Google AI Search._
+- **Manage webhooks** → `Manage webhooks (“Administrar webhooks”)`  — _Sección del panel para editar las conexiones automáticas configuradas._
+- **Manage your budget** → `Manage your budget (“Administrar su presupuesto”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo editar mi presupuesto._
+- **Mark as Hired** → `Mark as Hired (“Marcar como contratado”)`  — _La acción de indicar que un cliente lo eligió a usted para el trabajo._
+- **Mark as paid** → `Mark as paid (“Marcar como pagada”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo crear cotizaciones y facturas en Thumbtack._  Variations: Invoice: "Marcar como pagada". If the label refers to a charge or payment: "Marcar como pagado".
+- **Mark as unavailable** → `Mark as unavailable (“Marcar como no disponible”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo administrar mi disponibilidad._
+- **Mark done** → `Mark done (“Marcar como terminado”)`  — _Botón o etiqueta de la aplicación. Se usa en: ¿Qué son los trabajos preestablecidos._
+- **More** → `More (“Más”)`  — _Botón o etiqueta de la aplicación. Se usa en: Pautas para usuarios de Thumbtack._
+- **My business isn't shown here** → `My business isn't shown here (“Mi negocio no se muestra aquí”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo importar reseñas a mi perfil de Thumbtack._
+- **New** → `New (“Nuevo”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo responder a los prospectos._
+- **Next** → `Next (“Siguiente”)`  — _Botón para avanzar al siguiente paso en la configuración._
+- **No hire** → `No hire (“No contratado”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo realizar el seguimiento de mis trabajos._
+- **None** → `None (“Ninguno”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo crear un webhook._
+- **Not available** → `Not available (“No disponible”)`  — _Botón o etiqueta de la aplicación. Se usa en: ¿Qué son los prospectos de Smart Match._
+- **Not now** → `Not now (“Ahora no”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo configurar el depósito directo._
+- **Not scheduled yet** → `Not scheduled yet (“Aún no programado”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo realizar el seguimiento de mis trabajos._
+- **Not what I do** → `Not what I do (“No es lo que hago”)`  — _Botón o etiqueta de la aplicación. Se usa en: ¿Qué son los prospectos de Smart Match._
+- **Notification settings** → `Notification settings (“Configuración de notificaciones”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo actualizar las notificaciones._
+- **Notifications** → `Notifications (“Notificaciones”)`  — _Las alertas que usted recibe por correo, mensaje de texto o en la aplicación._
+- **Now** → `Now (“Ahora”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo solicitar reseñas._
+- **OK** → `OK (“Aceptar”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo utilizar plantillas de cotización._
+- **On** → `On (“Activado”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo registrarse como profesional._
+- **On a future date** → `On a future date (“En una fecha futura”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo solicitar reseñas._
+- **Only picked you** → `Only picked you (“Solo lo eligió a usted”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo responder a los prospectos._
+- **Open leads** → `Open leads (“Prospectos abiertos”)`  — _Otra forma de referirse a Oportunidades (según experimento/UX)._
+- **Opportunities tab** → `Opportunities tab (“Oportunidades”)`  — _Sección de la aplicación donde los profesionales encuentran nuevos clientes. Se escribe: Opportunities (“Oportunidades”)._
+- **Other** → `Other (“Otro”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo administrar el seguro de su negocio._
+- **Overview** → `Overview (“Resumen”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo funcionan los trabajos de instalación de Moen Flo._
+- **Paid** → `Paid (“Pagado”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo responder a los prospectos._
+- **Password** → `Password (“Contraseña”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo actualizar mi contraseña._
+- **Pause** → `Pause (“Pausar”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo activar o desactivar sus preferencias de trabajo._
+- **Pause Leads** → `Pause Leads (“Pausar prospectos”)`  — _Detener temporalmente la recepción de nuevos prospectos._
+- **Pause this service** → `Pause this service (“Pausar este servicio”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo activar o desactivar sus preferencias de trabajo._
+- **Payments** → `Payments (“Pagos”)`  — _Sección del perfil para gestionar la facturación y el historial de cobros._
+- **Pending** → `Pending (“Pendiente”)`  — _Estado de una solicitud de reembolso que aún espera aprobación._
+- **Performance** → `Performance (“Rendimiento”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo ver mi panel de rendimiento._
+- **Photos & Videos** → `Photos & Videos (“Fotos y videos”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo agregar fotos y videos._
+- **Portfolio** → `Portfolio (“Portafolio”)`  — _La colección de fotos y videos de sus trabajos anteriores._
+- **Post Prices** → `Post Prices (“Publicar precios”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo establecer el precio de mis servicios._
+- **Preload my balance** → `Preload my balance (“Precargar mi saldo”)`  — _Agregar fondos a su cuenta de Thumbtack por adelantado._
+- **Preview profile** → `Preview profile (“Vista previa del perfil”)`  — _Botón o etiqueta de la aplicación. Se usa en: Como editar el perfil de su negocio._
+- **Quick Replies** → `Quick Replies (“Respuestas rápidas”)`  — _Plantillas de mensajes guardados para responder rápidamente a los clientes._
+- **Reactivate account** → `Reactivate account (“Reactivar cuenta”)`  — _Volver a habilitar una cuenta que estaba desactivada o suspendida._
+- **Receipts** → `Receipts (“Recibos”)`  — _Pestaña donde se pueden visualizar y descargar los comprobantes de pago._
+- **Recent deliveries** → `Recent deliveries (“Envíos recientes”)`  — _Pestaña que muestra el historial de envíos de datos realizados._  Do not use: Entregas recientes
+- **Refund denied** → `Refund denied (“Reembolso rechazado”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo solicitar un reembolso._
+- **Refund Requested** → `Refund Requested (“Reembolso solicitado”)`  — _Estado que indica que la solicitud de reembolso ha sido enviada._
+- **Refunded** → `Refunded (“Reembolsado”)`  — _Estado de una solicitud aprobada y acreditada a la cuenta._
+- **Register a new number** → `Register a new number (“Registrar un nuevo número”)`  — _Botón para añadir un número de teléfono a la cuenta._
+- **Registered phone numbers** → `Registered phone numbers (“Números de teléfono registrados”)`  — _Sección de configuración para gestionar los teléfonos vinculados._
+- **Remove** → `Remove (“Eliminar”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo agregar o eliminar un servicio._  Variations: "Eliminar", same as Delete.
+- **Remove this service** → `Remove this service (“Eliminar este servicio”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo agregar o eliminar un servicio._
+- **Reply** → `Reply (“Responder”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo responder a los prospectos._
+- **Report** → `Report (“Reportar”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo resolver problemas con un cliente._
+- **Report a scam or dispute** → `Report a scam or dispute (“Reportar una estafa o disputa”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo resolver problemas con un cliente._
+- **Request a review** → `Request a review (“Solicitar reseña”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo solicitar reseñas._
+- **Reschedule** → `Reschedule (“Reprogramar”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo reprogramar una reserva._
+- **Resend** → `Resend (“Reenviar”)`  — _Botón para solicitar un nuevo código de verificación por SMS._
+- **Respond** → `Respond (“Responder”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo responder a las reseñas._
+- **Responds Quickly** → `Responds Quickly (“Responde rápidamente”)`  — _Botón o etiqueta de la aplicación. Se usa en: ¿Qué son los resultados de búsqueda._
+- **Responses** → `Responses (“Respuestas”)`  — _Pestaña con detalles técnicos sobre el resultado del envío._
+- **Resume estimate or invoice** → `Resume estimate or invoice (“Reanudar cotización o factura”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo crear cotizaciones y facturas en Thumbtack._
+- **Review a pro** → `Review a pro (“Dejar una reseña a un profesional”)`  — _Botón o etiqueta de la aplicación. Se usa en: Política de Contenido y Reseñas._
+- **Save** → `Save (“Guardar”)`  — _Botón para guardar cambios._
+- **Save business hours** → `Save business hours (“Guardar horario comercial”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo administrar mi disponibilidad._  Do not use: Guardar horas de trabajo
+- **Save card** → `Save card (“Guardar tarjeta”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo agregar o eliminar una tarjeta de crédito._
+- **Save changes** → `Save changes (“Guardar cambios”)`  — _Botón para confirmar y guardar las actualizaciones realizadas._
+- **Save debit card** → `Save debit card (“Guardar tarjeta de débito”)`  — _Botón o etiqueta de la aplicación. Se usa en: ¿Qué es el depósito instantáneo._
+- **Save Password** → `Save Password (“Guardar contraseña”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo actualizar mi contraseña._
+- **Save travel area** → `Save travel area (“Guardar área de desplazamiento”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo administrar mis áreas de desplazamiento._  Do not use: Guardar área de viaje
+- **Save weekly budget** → `Save weekly budget (“Guardar presupuesto semanal”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo editar mi presupuesto._
+- **Schedule review** → `Schedule review (“Programar reseña”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo solicitar reseñas._
+- **Scheduled** → `Scheduled (“Programado”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo realizar el seguimiento de mis trabajos._
+- **Search Results** → `Search Results (“Resultados de búsqueda”)`  — _La lista de profesionales que un cliente ve al buscar un servicio._
+- **Send** → `Send (“Enviar”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo crear cotizaciones y facturas en Thumbtack._
+- **Send as new** → `Send as new (“Enviar como nueva”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo crear cotizaciones y facturas en Thumbtack._
+- **Send review request** → `Send review request (“Enviar solicitud de reseña”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo solicitar reseñas._
+- **Send text** → `Send text (“Enviar mensaje de texto”)`  — _Botón para remitir los detalles de contacto por mensaje escrito._
+- **Set to unlimited** → `Set to unlimited (“Establecer como ilimitado”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo editar mi presupuesto._
+- **Set up Action** → `Set up Action (“Configurar acción”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo configurar un webhook en Zapier._
+- **Set up targeting** → `Set up targeting (“Configurar segmentación”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo activar o desactivar sus preferencias de trabajo._
+- **Settings** → `Settings (“Configuración”)`  — _Menú para ajustar las preferencias de la cuenta._
+- **Share** → `Share (“Compartir”)`  — _Botón o etiqueta de la aplicación. Se usa en: ¿Qué son los números de Thumbtack._
+- **Sign in** → `Sign in (“Iniciar sesión”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo utilizar la Comunidad de Thumbtack._
+- **Sign up** → `Sign up (“Registrarse”)`  — _Botón en la aplicación para iniciar el proceso de registro._
+- **Sign up for free** → `Sign up for free (“Registrarse gratis”)`  — _Botón en la versión de escritorio para crear una cuenta gratuita._
+- **Sign up or log in** → `Sign up or log in (“Registrarse o iniciar sesión”)`  — _Opción en la interfaz para crear una cuenta o acceder._
+- **Smart Match** → `Smart Match (“Coincidencia inteligente”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo responder a los prospectos._
+- **Start** → `Start (“Comenzar”)`  — _Botón de acción para iniciar el trámite de validación de identidad._
+- **State** → `State (“Estado”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo configurar un webhook en Zapier._
+- **Submit** → `Submit (“Enviar”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo administrar la licencia de su negocio._
+- **Success Workshop** → `Success Workshop (“Taller para el éxito”)`  — _Botón o etiqueta de la aplicación. Se usa en: ¿Qué es el programa Thumbtack Pro Rewards._
+- **Switch to business** → `Switch to business (“Cambiar a cuenta de profesional”)`  — _Opción del menú para cambiar a la vista de profesional._  Do not use: Cambiar a cuenta comercial
+- **Switch to customer** → `Switch to customer (“Cambiar a cuenta de cliente”)`  — _Opción del menú para cambiar a la vista de cliente._
+- **Take a background check** → `Take a background check (“Realizar una verificación de antecedentes”)`  — _Botón de llamada a la acción al final del texto._
+- **Take a photo** → `Take a photo (“Tomar una foto”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo administrar el seguro de su negocio._
+- **Test** → `Test (“Probar”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo configurar un webhook en Zapier._
+- **Test this webhook** → `Test this webhook (“Probar este webhook”)`  — _Acción para validar que la información llega correctamente al destino._
+- **Track my spending** → `Track my spending (“Ver mis gastos”)`  — _Revisar el historial de sus pagos a Thumbtack._  Do not use: rastrear
+- **Travel to customers** → `Travel to customers (“Voy hasta los clientes”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo administrar mis áreas de desplazamiento._
+- **Trust and Safety** → `Trust and Safety (“Confianza y seguridad”)`  — _Botón o etiqueta de la aplicación. Se usa en: Solución de problemas con su cuenta de profesional._
+- **Turn off** → `Turn off (“Desactivar”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo activar o desactivar sus preferencias de trabajo._
+- **Turn on** → `Turn on (“Activar”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo activar o desactivar sus preferencias de trabajo._
+- **Turn On/Off Preferences** → `Turn On/Off Preferences (“Activar/desactivar preferencias”)`  — _Habilitar o deshabilitar su perfil para recibir prospectos de pago._
+- **Unblock this time** → `Unblock this time (“Desbloquear este horario”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo administrar mi disponibilidad._
+- **Undo** → `Undo (“Deshacer”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo contactar las oportunidades._
+- **Unsubscribe from all emails** → `Unsubscribe from all emails (“Cancelar suscripción a todos los correos electrónicos”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo cancelar las notificaciones._
+- **Unsubscribe from all SMS** → `Unsubscribe from all SMS (“Cancelar suscripción a todos los mensajes de texto”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo cancelar las notificaciones._
+- **Update** → `Update (“Actualizar”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo importar reseñas a mi perfil de Thumbtack._
+- **Update prices** → `Update prices (“Actualizar precios”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo establecer el precio de mis servicios._
+- **Upload** → `Upload (“Subir”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo agregar fotos y videos._  Variations: Always "Subir" (Upload image = "Subir imagen").
+- **Upload image** → `Upload image (“Subir imagen”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo solicitar un reembolso._  Do not use: Cargar imagen
+- **Use any open day or time** → `Use any open day or time (“Usar cualquier día u hora disponible”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo administrar mi disponibilidad._
+- **Use your quick reply** → `Use your quick reply (“Usar su respuesta rápida”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo utilizar respuestas rápidas._
+- **View business insights** → `View business insights (“Ver estadísticas del negocio”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo ver mi panel de rendimiento._
+- **View details** → `View details (“Ver detalles”)`  — _Acción para ver la información completa de un trabajo u oportunidad._
+- **View or share number** → `View or share number (“Ver o compartir número”)`  — _Acción para visualizar o enviar los datos de contacto del cliente._
+- **View phone number** → `View phone number (“Ver número de teléfono”)`  — _Botón para mostrar el contacto telefónico asignado al cliente._
+- **View your balance and charges** → `View your balance and charges (“Ver su saldo y cargos”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo solicitar un reembolso._
+- **View your profile as customer** → `View your profile as customer (“Ver su perfil como cliente”)`  — _Botón o etiqueta de la aplicación. Se usa en: Como editar el perfil de su negocio._
+- **Weekly Budget** → `Weekly Budget (“Presupuesto semanal”)`  — _El límite de gasto que puede establecer para los prospectos._
+- **What customers pay** → `What customers pay (“Lo que pagan los clientes”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo establecer el precio de mis servicios._
+- **When you're charged** → `When you're charged (“Cuándo se le cobra”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo se cobran los prospectos en mi tarjeta._
+- **Your path to Top Pro** → `Your path to Top Pro (“Su camino para ser profesional destacado”)`  — _Botón o etiqueta de la aplicación. Se usa en: ¿Qué es el programa Thumbtack Pro Rewards._
+- **Zip** → `Zip (“Código postal”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo configurar un webhook en Zapier._  Do not use: código ZIP
 
-## TERMS / specific vocabulary — canonical ES when used in the sense in Context (169)
+## TERMS / specific vocabulary — canonical ES when used in the sense in Context (164)
 
 - **Access code** → código de acceso  — _Código de 7 dígitos para conectar llamadas desde números no registrados._
-- **Account** → Cuenta  — _Tu cuenta de profesional en Thumbtack._
+- **Account** → cuenta  — _Su cuenta de profesional en Thumbtack._  In the app: `Account (“Cuenta”)` · Variations: "cuenta". Pro account: "cuenta de profesional". Customer account: "cuenta de cliente".
 - **account owner** → dueño de la cuenta  — _Persona responsable de la administración y cumplimiento de la cuenta._
-- **Add-ons** → Servicios adicionales  — _Servicios opcionales con costo extra. Alternativa coloquial: 'extras'._
+- **Add-ons** → servicios adicionales  — _Servicios opcionales con costo extra. Alternativa coloquial: 'extras'._
 - **alerts** → alertas  — _Notificaciones que informan al usuario sobre actividad en su cuenta._
 - **app store** → tienda de aplicaciones  — _Plataforma digital donde se descarga la aplicación móvil._
-- **Application Programming Interface (API)** → Interfaz de Programación de Aplicaciones (API)  — _Integración técnica para automatizar funciones entre sistemas._
-- **Authorized Agent** → Agente Autorizado  — _Un individuo designado por un usuario para hacer solicitudes de derechos de privacidad en su nombre._
+- **Application Programming Interface (API)** → interfaz de programación de aplicaciones (API)  — _Integración técnica para automatizar funciones entre sistemas._
+- **Authorized Agent** → agente autorizado  — _Una persona designada por un usuario para hacer solicitudes de derechos de privacidad en su nombre._
 - **auto-updates** → actualizaciones automáticas  — _Función del dispositivo para mantener la aplicación en su versión más reciente._
 - **automated lead response service** → servicio automatizado de respuesta a prospectos  — _Descripción de la función técnica principal del producto._
-- **Availability** → Disponibilidad  — _Las horas y días que marcas como disponible para trabajar._
-- **Background Check** → Verificación de Antecedentes  — _El proceso para verificar los antecedentes de un profesional._
+- **Availability** → disponibilidad  — _Los días y horas que usted marca como disponibles para trabajar._
+- **Background Check** → verificación de antecedentes  — _El proceso para verificar los antecedentes de un profesional._  In the app: `Background Check (“Verificación de antecedentes”)`
 - **background check badge** → distintivo de verificación de antecedentes  — _Insignia visual que aparece en el perfil tras aprobar la revisión._
-- **Base Price** → Precio Base  — _La cantidad estándar que cobras por un servicio._
-- **Behavioral Targeted Advertising** → Publicidad dirigida por comportamiento  — _Publicidad que usa datos del comportamiento en línea de un usuario para mostrar anuncios personalizados._
-- **Block Time** → Bloquear Tiempo  — _Marcar un periodo en tu calendario como no disponible._
+- **Base Price** → precio base  — _La cantidad estándar que usted cobra por un servicio._
+- **Behavioral Targeted Advertising** → publicidad basada en el comportamiento  — _Publicidad que usa datos del comportamiento en línea de un usuario para mostrar anuncios personalizados._
+- **Block Time** → bloquear horario  — _Marcar un periodo en su calendario como no disponible._  Do not use: bloquear tiempo
 - **budget** → presupuesto  — _Límite de gasto semanal para la obtención de prospectos._
-- **Business Hours** → Horario Comercial  — _Las horas de operación que muestras en tu perfil._
-- **business profiles** → perfiles de negocio  — _Cuentas de empresa que un profesional gestiona en Thumbtack._
-- **Calendar Sync** → Sincronización de Calendario  — _Conectar tu calendario personal (ej. Google) con Thumbtack._
-- **Cancellation fee** → Cargo por cancelación  — _Cargo que se cobra cuando el profesional cancela un trabajo reclamado fuera del plazo permitido. Multi-palabra: gana sobre Fee._
-- **Category** → Categoría  — _El área general de servicio que ofreces (ej. "Mejoras del hogar")._
+- **Business Hours** → horario comercial  — _Las horas de atención que usted muestra en su perfil._
+- **business profiles** → perfiles de negocio  — _Cuentas de empresa que un profesional gestiona en Thumbtack._  In the app: `business profiles (“Perfiles de negocio”)`
+- **Calendar Sync** → sincronización de calendario  — _Conectar su calendario personal (por ejemplo, Google) con Thumbtack._
+- **Cancellation fee** → cargo por cancelación  — _Cargo que se cobra cuando el profesional cancela un trabajo reclamado fuera del plazo permitido. Multi-palabra: gana sobre Fee._
+- **Category** → categoría  — _El área general de servicio que usted ofrece (por ejemplo, "Mejoras del hogar")._
 - **CCPA (California Consumer Privacy Act)** → CCPA (Ley de Privacidad del Consumidor de California)  — _Ley de California que otorga a los consumidores derechos sobre su información personal._
 - **Chargeback Protection** → Protección contra Contracargos  — _Una política que protege al profesional si un cliente disputa un pago hecho a través de Thumbtack Pay._
-- **Claimable Jobs** → Trabajos Reclamables  — _Proyectos disponibles en tu área que puedes reclamar si te interesan._
+- **Claimable Jobs** → trabajos disponibles para reclamar  — _Proyectos disponibles en su área que puede reclamar si le interesan._  Do not use: reclamables
 - **Code of Conduct** → Código de Conducta  — _Las expectativas de comportamiento para profesionales y clientes en la plataforma._
 - **Community Top Voice** → voz destacada de la comunidad  — _Reconocimiento a los profesionales más activos y útiles en la comunidad._
 - **Community Top Voices** → voces destacadas de la comunidad  — _Plural de Community Top Voice._
-- **Confirmation letter** → Carta de confirmación  — _Documento (generalmente del banco) que verifica una acción, como retirar una disputa._
+- **Confirmation letter** → carta de confirmación  — _Documento (generalmente del banco) que verifica una acción, como retirar una disputa._
 - **Content and Review Policy** → Política de Contenido y Reseñas  — _Las reglas de Thumbtack sobre lo que se puede publicar en reseñas y perfiles._
 - **Copyright Policy** → Política de Derechos de Autor  — _Las reglas sobre el uso de material protegido (fotos, textos)._
-- **Cost of Materials** → Costo de Materiales  — _El gasto en los materiales necesarios para realizar un trabajo._
-- **Courtesy credit** → Crédito de cortesía  — _Crédito otorgado discrecionalmente por situaciones no cubiertas por la política._
+- **Cost of Materials** → costo de materiales  — _El gasto en los materiales necesarios para realizar un trabajo._
+- **Courtesy credit** → crédito de cortesía  — _Crédito otorgado discrecionalmente por situaciones no cubiertas por la política._
 - **CPA (Colorado Privacy Act)** → CPA (Ley de Privacidad de Colorado)  — _Ley de Colorado que otorga a los consumidores derechos sobre sus datos personales._
-- **Credit package** → Paquete de créditos  — _Compra prepagada de créditos para adquirir prospectos en la plataforma._
-- **Credits** → Créditos  — _Se usan para promociones o reembolsos por parte de Thumbtack._
-- **criminal background check** → verificación de antecedentes penales  — _Revisión de registros criminales realizada por un proveedor externo acreditado._
+- **Credit package** → paquete de créditos  — _Compra prepagada de créditos para adquirir prospectos en la plataforma._
+- **Credits** → créditos  — _Créditos que Thumbtack otorga por promociones o reembolsos._
+- **criminal background check** → verificación de antecedentes penales  — _Revisión de antecedentes penales realizada por un proveedor externo acreditado._
 - **CTDPA (Connecticut Data Privacy Act)** → CTDPA (Ley de Privacidad de Datos de Connecticut)  — _Ley de Connecticut que rige la recopilación y uso de datos personales._
 - **customer** → cliente  — _Usuario que busca y contrata profesionales para sus proyectos._
 - **customer account** → cuenta de cliente  — _Cuenta utilizada por usuarios que buscan contratar profesionales._
-- **Customer Relationship Management (CRM)** → Gestión de Relaciones con el Cliente (CRM)  — _Sistema externo de gestión de clientes integrado con la plataforma._
-- **Customers** → Clientes  — _Las personas que buscan profesionales para sus proyectos._
-- **Data Privacy Laws** → Leyes de privacidad de datos  — _Leyes que regulan cómo las organizaciones manejan la información personal._
-- **Direct Deposit** → Depósito Directo  — _Recibir tus ganancias directamente en tu cuenta bancaria._
-- **Direct Leads** → Prospectos Directos  — _Clientes que te eligen específicamente a ti y te contactan directamente._
-- **Disputed charges** → Cargos disputados  — _Cargos que un cliente ha reclamado a su banco como no válidos._
-- **Earnings** → Ganancias  — _El dinero que recibes de tus clientes por los trabajos realizados._
-- **Estimate** → Cotización aproximada  — _Un precio aproximado basado en los detalles iniciales del cliente._
-- **Fee** → Cargo  — _Monto que se le cobra al profesional como penalidad (cancelación, inasistencia). No usar 'tarifa', que suena a precio. 'Lead fees' sigue siendo 'cargos por prospectos'. Distinto de Flat Fee (Tarifa fija)._
-- **Flat Fee** → Tarifa Fija  — _Un precio único y total para un servicio definido._
+- **Customer Relationship Management (CRM)** → gestión de relaciones con clientes (CRM)  — _Sistema externo de gestión de clientes integrado con la plataforma._
+- **Customers** → clientes  — _Las personas que buscan profesionales para sus proyectos._
+- **Data Privacy Laws** → leyes de privacidad de datos  — _Leyes que regulan cómo las organizaciones manejan la información personal._
+- **Direct Deposit** → depósito directo  — _Recibir sus ganancias directamente en su cuenta bancaria._
+- **Direct Leads** → prospectos directos  — _Clientes que lo eligen específicamente a usted y lo contactan directamente._
+- **Disputed charges** → cargos disputados  — _Cargos que un cliente ha reclamado a su banco como no válidos._
+- **Earnings** → ganancias  — _El dinero que usted recibe de sus clientes por los trabajos realizados._  In the app: `Earnings (“Ganancias”)`
+- **Estimate** → cotización aproximada  — _Un precio aproximado basado en los detalles iniciales del cliente._  Variations: Price estimate in general: "cotización aproximada". The document in the invoicing tool ("Create estimate or invoice"): "cotización".
+- **Fee** → cargo  — _Monto que se le cobra al profesional como penalidad (cancelación, inasistencia). No usar 'tarifa', que suena a precio. 'Lead fees' sigue siendo 'cargos por prospectos'. Distinto de Flat Fee (tarifa fija)._  Variations: Penalty (cancellation, no-show): "cargo". Lead fees: "cargos por prospectos". Flat Fee is a price: "tarifa fija". · Do not use: tarifa (for penalties)
+- **Flat Fee** → tarifa fija  — _Un precio único y total para un servicio definido._
 - **form** → formulario  — _Documento digital para solicitar cambios en la cuenta o servicio._
 - **Fraud and Damage Policy** → Política de Fraude y Daños  — _Lo que cubre Thumbtack en caso de fraude o daños materiales._
 - **GDPR (General Data Protection Regulation)** → GDPR (Reglamento General de Protección de Datos)  — _Regulación de la Unión Europea sobre protección de datos._
-- **Guidelines** → Pautas  — _Reglas y recomendaciones de la plataforma. El corpus usa 'pautas'; evitar 'directrices'._
+- **Guidelines** → pautas  — _Reglas y recomendaciones de la plataforma. El corpus usa 'pautas'; evitar 'directrices'._  Do not use: directrices
 - **Help Center** → Centro de Ayuda  — _La colección de todos nuestros artículos y guías de soporte._
-- **Hourly Rate** → Tarifa por Hora  — _Un precio fijado por cada hora de trabajo._
-- **Instant Deposit** → Depósito Instantáneo  — _Un servicio para recibir tus fondos más rápidamente, a menudo con una pequeña tarifa._
+- **Hourly Rate** → tarifa por hora  — _Un precio fijado por cada hora de trabajo._
+- **Instant Deposit** → depósito instantáneo  — _Un servicio para recibir sus fondos más rápido, a menudo con un pequeño cargo._
 - **integration** → integración  — _Conexión técnica entre Thumbtack y una aplicación externa._
-- **Job Types** → Tipos de trabajo  — _Los trabajos específicos dentro de un servicio (ej. "Pintar interior")._
-- **jobs** → trabajos  — _Servicios contratados o tareas asignadas a un profesional._
-- **Law Enforcement Requests** → Solicitudes de Autoridades  — _Peticiones de información por parte de la policía u organismos oficiales._
+- **Job Types** → tipos de trabajo  — _Los trabajos específicos dentro de un servicio (por ejemplo, "Pintar interiores")._  In the app: `Job Types (“Tipos de trabajo”)`
+- **jobs** → trabajos  — _Servicios contratados o tareas asignadas a un profesional._  In the app: `jobs (“Trabajos”)` · Variations: Tab in the app: Jobs (“Trabajos”). Normal word: "trabajos".
+- **Law Enforcement Requests** → solicitudes de las autoridades  — _Peticiones de información por parte de la policía u organismos oficiales._
 - **lead** → prospecto  — _Cliente potencial interesado en contratar los servicios de un profesional._
 - **lead credit** → crédito para prospectos  — _Singular de lead credits._
 - **lead credits** → créditos para prospectos  — _Créditos que se aplican al costo de los prospectos. Multi-palabra: gana sobre Credits._
-- **lead insights** → información de prospectos  — _Datos sobre los prospectos: cuántos llegan, competencia y tendencias. Traducción directa. No confundir con la sección Insights (hoy Performance Dashboard / Panel de Rendimiento). Coincidencia multi-palabra: tiene prioridad sobre el término suelto Insights._
-- **lead price** → precios de los prospectos  — _Monto exacto que el profesional paga por cada contacto de cliente potencial._
-- **Lead prices** → Precios de los prospectos  — _Frase en texto general para hablar de cuánto paga por prospectos._
-- **Leads** → Prospectos  — _Clientes potenciales que coinciden con tus preferencias de trabajo._
-- **License** → Licencia  — _La licencia profesional que puedes añadir a tu perfil para generar confianza._
-- **Linked account** → Cuenta vinculada  — _Una cuenta que nuestro sistema ha identificado como conectada a otra._
-- **Login Information** → Información de Inicio de Sesión  — _Tu correo electrónico y contraseña para acceder a Thumbtack._
+- **lead insights** → información de prospectos  — _Datos sobre los prospectos: cuántos llegan, competencia y tendencias. Traducción directa. No confundir con la sección Insights (hoy Performance Dashboard, "panel de rendimiento"). Coincidencia multipalabra: tiene prioridad sobre el término suelto Insights._
+- **lead price** → precio del prospecto  — _Monto exacto que el profesional paga por cada contacto de cliente potencial._
+- **Lead prices** → precios de los prospectos  — _Frase en texto general para hablar de cuánto paga por prospectos._
+- **Leads** → prospectos  — _Clientes potenciales que coinciden con sus preferencias de trabajo._  In the app: `Leads (“Prospectos”)` · Variations: Tab in the app: Leads (“Prospectos”). Normal word: "prospectos".
+- **License** → licencia  — _La licencia profesional que puede agregar a su perfil para generar confianza._
+- **Linked account** → cuenta vinculada  — _Una cuenta que nuestro sistema ha identificado como conectada a otra._
+- **Login Information** → información de inicio de sesión  — _Su correo electrónico y contraseña para acceder a Thumbtack._
 - **magic link** → magic link  — _Enlace seguro enviado por correo para acceder sin contraseña._
-- **Max lead prices** → Precios Máximos por Prospecto  — _El precio máximo que estás dispuesto a pagar por un tipo de prospecto._
-- **Message** → Mensaje  — _La comunicación escrita con clientes a través de la plataforma._
-- **messages** → mensajes  — _Comunicación directa entre el cliente y el profesional dentro de la aplicación._
+- **Max lead prices** → precios máximos por prospecto  — _El precio máximo que usted está dispuesto a pagar por un tipo de prospecto._
+- **Message** → mensaje  — _La comunicación escrita con clientes a través de la plataforma._
+- **messages** → mensajes  — _Comunicación directa entre el cliente y el profesional dentro de la aplicación._  In the app: `messages (“Mensajes”)`
 - **monthly subscription** → suscripción mensual  — _Modelo de cobro recurrente cada mes por el uso de la herramienta._
-- **No-show** → Inasistencia  — _Cuando el profesional (o el cliente: 'inasistencia del cliente') no se presenta a un trabajo programado._
-- **No-show fee** → Cargo por inasistencia  — _Cargo que se cobra cuando el profesional no se presenta a un trabajo que reclamó. Multi-palabra: gana sobre Fee._
-- **Non-Discrimination Policy** → Política de no Discriminación  — _La prohibición estricta de cualquier tipo de discriminación._
-- **Opportunities** → Oportunidades  — _Proyectos disponibles que pueden no coincidir exactamente con tus preferencias._
-- **Opt-Out** → Optar por Excluirse  — _El acto de elegir no permitir que se venda o comparta tu información personal._
-- **Outstanding balance** → Saldo pendiente  — _Una cantidad de dinero que le debes a Thumbtack._
+- **No-show** → inasistencia  — _Cuando el profesional (o el cliente: 'inasistencia del cliente') no se presenta a un trabajo programado._
+- **No-show fee** → cargo por inasistencia  — _Cargo que se cobra cuando el profesional no se presenta a un trabajo que reclamó. Multi-palabra: gana sobre Fee._
+- **Non-Discrimination Policy** → Política de No Discriminación  — _La prohibición estricta de cualquier tipo de discriminación._
+- **Opportunities** → oportunidades  — _Proyectos disponibles que pueden no coincidir exactamente con sus preferencias._  In the app: `Opportunities (“Oportunidades”)` · Variations: Tab in the app: Opportunities (“Oportunidades”). Normal word: "oportunidades".
+- **Opt-Out** → exclusión voluntaria  — _El acto de elegir que no se venda ni se comparta su información personal._  Do not use: optar por excluirse
+- **Outstanding balance** → saldo pendiente  — _Una cantidad de dinero que usted le debe a Thumbtack._
 - **partner tool** → herramienta de socios  — _Aplicaciones externas que tienen una colaboración oficial con Thumbtack._
-- **Partner Tools** → Herramientas de Socios  — _Integraciones con otras plataformas (ej. GoSite)._
+- **Partner Tools** → herramientas de socios  — _Integraciones con otras plataformas (por ejemplo, GoSite)._
 - **payment history** → historial de pagos  — _Registro detallado de todas las transacciones y gastos realizados por el profesional._
-- **Payment Information** → Información de Pago  — _Detalles financieros como números de tarjeta de crédito o cuentas bancarias._
+- **Payment Information** → información de pago  — _Detalles financieros como números de tarjeta de crédito o cuentas bancarias._
 - **payment method** → método de pago  — _Tarjeta de crédito o débito guardada para realizar los cobros futuros._
-- **Performance Dashboard** → Panel de Rendimiento  — _La sección donde analizas tus estadísticas (vistas, respuestas, etc.)._
-- **Personal Information** → Información personal  — _Cualquier dato que pueda ser usado para identificar a un individuo._
+- **Performance Dashboard** → panel de rendimiento  — _La sección donde usted analiza sus estadísticas (vistas, respuestas, etc.)._  In the app: `Performance Dashboard (“Panel de rendimiento”)`
+- **Personal Information** → información personal  — _Cualquier dato que permita identificar a una persona._
 - **Phone Number Guarantee** → Garantía de número de teléfono  — _Asegura que el profesional pueda ponerse en contacto con el cliente pagado._
 - **plan** → plan  — _Opciones de servicio con distintos niveles de precio y funciones._
-- **Policies** → Políticas  — _Las normas oficiales de Thumbtack sobre temas específicos._
-- **Price Range** → Rango de Precios  — _Un precio mínimo y máximo para trabajos complejos._
-- **Privacy Policy** → Política de Privacidad  — _El documento que explica cómo manejamos y protegemos tus datos._
+- **Policies** → políticas  — _Las normas oficiales de Thumbtack sobre temas específicos._
+- **Price Range** → rango de precios  — _Un precio mínimo y máximo para trabajos complejos._
+- **Privacy Policy** → Política de Privacidad  — _El documento que explica cómo manejamos y protegemos sus datos._
 - **pro** → profesional  — _Persona o empresa que ofrece sus servicios en la plataforma._
 - **pro account** → cuenta de profesional  — _Tipo de cuenta específica para proveedores de servicios._
 - **Pro API** → API para profesionales  — _Interfaz técnica específica para las herramientas de los profesionales._
 - **Pro App** → aplicación Thumbtack Pro  — _Nombre de la app móvil para profesionales. 'Thumbtack Pro' no se traduce._
-- **Pro Community** → comunidad de Thumbtack para profesionales  — _Forma corta de Thumbtack Pro Community. En español se nombra completo para que quede claro de qué comunidad se habla._
-- **Pro Rewards** → Recompensas para Profesionales  — _El programa de lealtad que ofrece beneficios a los profesionales._
-- **profile** → perfil  — _Página pública con la información y servicios del profesional._
-- **Profile Photo** → Foto de Perfil  — _Tu foto personal que ayuda a los clientes a conocerte._
-- **Project** → Proyecto  — _La necesidad o trabajo específico que un cliente publica._
-- **Promotional credits** → Créditos promocionales  — _Créditos recibidos como incentivo en intercambio por una compra._
-- **Promotions** → Promociones  — _Ofertas especiales que puedes aplicar para atraer clientes._
+- **Pro Community** → Comunidad de Thumbtack para profesionales  — _Forma corta de Thumbtack Pro Community. En español se nombra completo para que quede claro de qué comunidad se habla._
+- **profile** → perfil  — _Página pública con la información y servicios del profesional._  In the app: `profile (“Perfil”)`
+- **Profile Photo** → foto de perfil  — _Su foto personal, que ayuda a los clientes a conocerlo._
+- **Project** → proyecto  — _La necesidad o trabajo específico que un cliente publica._
+- **Promotional credits** → créditos promocionales  — _Créditos recibidos como incentivo a cambio de una compra._
+- **Promotions** → promociones  — _Ofertas especiales que puede aplicar para atraer clientes._
 - **pros** → profesionales  — _Especialistas o negocios registrados que ofrecen sus servicios._
-- **Push Notifications** → Notificaciones Push  — _Alertas que aparecen directamente en la pantalla de tu móvil desde la app._
-- **Quality Commitment** → Compromiso de Calidad  — _Las políticas de Thumbtack para asegurar un servicio de calidad._
-- **Quote** → Cotización  — _La propuesta de precio que envías a un prospecto._
-- **Quote Templates** → Plantillas de Cotización  — _Modelos de cotizaciones pre-hechos para enviar a los clientes._
+- **Push Notifications** → notificaciones push  — _Alertas que aparecen directamente en la pantalla de su celular desde la aplicación._
+- **Quality Commitment** → Compromiso de Calidad  — _Las políticas de Thumbtack para asegurar un servicio de calidad._  Do not use: Compromiso de calidad (lowercase)
+- **Quote** → cotización  — _La propuesta de precio que usted envía a un prospecto._
+- **Quote Templates** → plantillas de cotización  — _Modelos de cotización predefinidos para enviar a los clientes._  In the app: `Quote Templates (“Plantillas de cotización”)`
 - **Rank** → posición  — _Su posición en los resultados de búsqueda._
 - **Ranking** → clasificación  — _El ordenamiento de profesionales en los resultados de búsqueda._
 - **ratings** → calificaciones  — _Puntuaciones otorgadas por los clientes a los profesionales._
-- **Refer a Pro** → Recomendar a un Profesional  — _Sugerir a otro profesional de Thumbtack a un cliente._
-- **Referral Program** → Programa de Recomendación  — _El programa que te premia por traer nuevos profesionales a la plataforma._
-- **Refund** → reembolso  — _Devolución del pago si el cliente no responde al profesional._
-- **Refunds** → Reembolsos  — _Devoluciones de dinero por pagos de prospectos o servicios._
-- **Request a refund** → Solicitar un Reembolso  — _El acto de pedir la devolución del dinero por un prospecto que no cumplió con los criterios._
-- **Request to Delete** → Solicitud de Eliminación  — _El derecho de un usuario a solicitar la eliminación de su información personal._
-- **Request to Know** → Solicitud de Información  — _El derecho de un usuario a solicitar una copia de su información personal._
-- **Resolve Issues** → Resolver Problemas  — _El proceso de solucionar un desacuerdo o problema con un cliente._
-- **Respond to Leads** → Responder a Prospectos  — _La acción de contactar a un cliente potencial que te ha llegado._
-- **Respond to Reviews** → Responder a Reseñas  — _Escribir una respuesta pública a una reseña que has recibido._
-- **Responsible Disclosure** → Divulgación Responsable  — _La política para reportar vulnerabilidades de seguridad que encuentres._
-- **review** → reseña  — _Calificación y comentario dejado por los clientes sobre el profesional._
-- **Reviews** → Reseñas  — _Las valoraciones y comentarios que los clientes dejan en tu perfil._
-- **Sales Tax** → Impuesto sobre las Ventas  — _El impuesto que se puede aplicar a los servicios según la ubicación._
-- **Security** → Seguridad  — _Medidas para proteger tu cuenta, como la autenticación de dos factores._
-- **Services** → Servicios  — _Las diferentes prestaciones que ofreces a los clientes._
+- **Refer a Pro** → recomendar a un profesional  — _Recomendar a otro profesional de Thumbtack a un cliente._
+- **Referral Program** → Programa de Referidos  — _El programa que lo premia por traer nuevos profesionales a la plataforma._
+- **Refund** → reembolso  — _Devolución del pago si el cliente no responde al profesional._  Variations: Noun: "reembolso". Status Refunded: "Reembolsado". Request a refund: "solicitar un reembolso".
+- **Refunds** → reembolsos  — _Devoluciones de dinero por pagos de prospectos o servicios._
+- **Request a refund** → solicitar un reembolso  — _El acto de pedir la devolución del dinero por un prospecto que no cumplió con los criterios._  In the app: `Request a refund (“Solicitar un reembolso”)`
+- **Request to Delete** → solicitud de eliminación  — _El derecho de un usuario a solicitar la eliminación de su información personal._
+- **Request to Know** → solicitud de información  — _El derecho de un usuario a solicitar una copia de su información personal._
+- **Resolve Issues** → resolver problemas  — _El proceso de solucionar un desacuerdo o problema con un cliente._
+- **Respond to Leads** → responder a prospectos  — _La acción de contactar a un cliente potencial que le llegó._
+- **Respond to Reviews** → responder a reseñas  — _Escribir una respuesta pública a una reseña que recibió._
+- **Responsible Disclosure** → Divulgación Responsable  — _La política para reportar vulnerabilidades de seguridad que encuentre._
+- **review** → reseña  — _Calificación y comentario dejado por los clientes sobre el profesional._  Variations: Noun, a customer's rating: "reseña". Verb, to look something over ("review your balance"): "revisar" or "consultar".
+- **Reviews** → reseñas  — _Las calificaciones y comentarios que los clientes dejan en su perfil._  In the app: `Reviews (“Reseñas”)` · Variations: Tab or section in the app: Reviews (“Reseñas”). Normal word: "reseñas".
+- **Sales Tax** → impuesto sobre las ventas  — _El impuesto que se puede aplicar a los servicios según la ubicación._
+- **Security** → seguridad  — _Medidas para proteger su cuenta, como la autenticación de dos factores._
+- **Services** → servicios  — _Los diferentes servicios que usted ofrece a los clientes._  In the app: `Services (“Servicios”)`
 - **setup checklist** → lista de verificación  — _Guía de pasos necesarios para completar la cuenta del profesional._
-- **SMS Terms** → Términos de SMS  — _Las condiciones que aceptas al suscribirte a los mensajes de texto de Thumbtack._
-- **Starting Price** → Precio inicial  — _Precio base visible en resultados de búsqueda; la UI del buscador muestra 'Desde'._
-- **Support** → Soporte  — _El equipo/área de atención al cliente._
-- **Suspicious Activity** → Actividad Sospechosa  — _Cualquier comportamiento que parezca fraudulento o que viole las normas._
+- **SMS Terms** → Términos de SMS  — _Las condiciones que acepta al suscribirse a los mensajes de texto de Thumbtack._
+- **Starting Price** → precio inicial  — _Precio base visible en los resultados de búsqueda; el buscador muestra 'Desde'._
+- **Support** → soporte  — _El equipo/área de atención al cliente._
+- **Suspicious Activity** → actividad sospechosa  — _Cualquier comportamiento que parezca fraudulento o que viole las normas._
 - **swag** → artículos promocionales  — _Productos de marca (camisetas, gorras, calcomanías) que Thumbtack regala._
-- **Switch to business** → Cambiar a cuenta de profesional  — _Acción del menú para cambiar a la interfaz de negocio._
-- **Tap** → Seleccione  — _Verbo para pasos en la app móvil: Tap X = Seleccione X. En Desktop: 'Haga clic en'._
+- **Tap** → Seleccione  — _Verbo para pasos en la aplicación móvil: Tap X = Seleccione X. En computadora: 'Haga clic en'._  Variations: Mobile app: "Seleccione X". Computer: "Haga clic en X".
 - **targeting** → segmentación  — _Término técnico referido a la configuración de las preferencias de trabajo._
 - **Terms and Conditions** → Términos y Condiciones  — _El contrato legal completo que rige el uso de la plataforma._
 - **Terms of Use** → Términos de Uso  — _El acuerdo legal que rige el uso de la plataforma Thumbtack._
 - **test lead** → prospecto de prueba  — _Datos de ejemplo enviados para verificar el funcionamiento de la conexión._
-- **Third Party Requests** → Solicitudes de Terceros  — _Peticiones de información sobre un usuario por parte de alguien que no es el usuario._
+- **Third Party Requests** → solicitudes de terceros  — _Peticiones de información sobre un usuario por parte de alguien que no es el usuario._
 - **Thumbtack account** → cuenta de Thumbtack  — _Perfil personal del usuario para acceder a los servicios de la plataforma._
-- **Thumbtack app** → Aplicación Thumbtack  — _App móvil para buscar y contratar profesionales para proyectos._
-- **Thumbtack balance** → Saldo de Thumbtack  — _Fondos disponibles en la cuenta del profesional para pagar servicios._
+- **Thumbtack app** → aplicación Thumbtack  — _Aplicación móvil para buscar y contratar profesionales para proyectos._
+- **Thumbtack balance** → saldo de Thumbtack  — _Fondos disponibles en la cuenta del profesional para pagar servicios._  In the app: `Thumbtack balance (“Saldo de Thumbtack”)`
 - **Thumbtack Community** → Comunidad de Thumbtack  — _El foro para que los profesionales se conecten y compartan consejos._
-- **Thumbtack Guarantee** → Garantía Thumbtack  — _La protección que Thumbtack ofrece a los clientes en caso de problemas._
-- **Thumbtack Help** → Centro de ayuda de Thumbtack  — _Portal de soporte con artículos informativos para los usuarios._
-- **Thumbtack messenger** → mensajería de Thumbtack  — _Sistema de chat interno de la plataforma para comunicarse._
-- **Thumbtack messenger** → mensajero de Thumbtack  — _Canal de chat oficial de Thumbtack para la comunicación._
+- **Thumbtack Guarantee** → Garantía de Thumbtack  — _La protección que Thumbtack ofrece a los clientes en caso de problemas._
+- **Thumbtack Help** → Centro de Ayuda de Thumbtack  — _Portal de soporte con artículos informativos para los usuarios._
+- **Thumbtack messenger** → chat de Thumbtack  — _La herramienta para enviar y recibir mensajes en Thumbtack. Varía según el contexto: 'chat de Thumbtack' cuando se habla de la herramienta, 'mensajes de Thumbtack' cuando se habla de las conversaciones, 'mensajería de Thumbtack' cuando se habla del servicio en general. No usar 'mensajero'._  Variations: Tool: "chat de Thumbtack". The conversations: "mensajes de Thumbtack". The service in general: "mensajería de Thumbtack". · Do not use: mensajero
 - **Thumbtack numbers** → números de Thumbtack  — _Característica que asigna un número permanente para contactar clientes._
-- **Thumbtack Pro app** → aplicación para profesionales de Thumbtack  — _Nombre oficial de la aplicación móvil de la plataforma._
-- **Thumbtack Pro app** → aplicación de Thumbtack Pro  — _Aplicación específica para que los profesionales gestionen su negocio._
-- **Thumbtack Pro app** → Aplicación Thumbtack Pro  — _App móvil diseñada para que los profesionales gestionen su negocio._
-- **Thumbtack Pro Community** → comunidad de Thumbtack para profesionales  — _El foro y la página web donde los profesionales se conectan y comparten consejos. Se traduce; no es nombre de producto._
-- **Thumbtack Quality Commitment** → Compromiso de calidad de Thumbtack  — _Garantía que protege y respalda la inversión del profesional en la plataforma._
+- **Thumbtack Pro app** → aplicación Thumbtack Pro  — _Nombre de la aplicación móvil para profesionales. 'Thumbtack Pro' no se traduce._  Variations: "aplicación Thumbtack Pro". Short form: "la aplicación". Don't add "de". · Do not use: aplicación de Thumbtack Pro
+- **Thumbtack Pro Community** → Comunidad de Thumbtack para profesionales  — _El foro y la página web donde los profesionales se conectan y comparten consejos. Se traduce; no es nombre de producto._
+- **Thumbtack Quality Commitment** → Compromiso de Calidad de Thumbtack  — _Garantía que protege y respalda la inversión del profesional en la plataforma._
 - **Thumbtack swag** → artículos promocionales de Thumbtack  — _Igual que swag, con la marca explícita._
-- **Top Pro** → profesional destacado  — _Reconocimiento a los profesionales con mejor desempeño. Se traduce; no es una etiqueta de la interfaz._
+- **Top Pro** → profesional destacado  — _Reconocimiento a los profesionales con mejor desempeño. Se traduce; no es una etiqueta de la interfaz._  Do not use: Top Pro (in Spanish text)
 - **Top Pro Badge** → insignia de profesional destacado  — _Insignia que reciben los profesionales destacados por su desempeño._
 - **Top Pros** → profesionales destacados  — _Plural de Top Pro._
-- **Travel Areas** → Zonas de Desplazamiento  — _Las áreas geográficas donde estás dispuesto a trabajar._
+- **Travel Areas** → áreas de desplazamiento  — _Las áreas geográficas donde usted está dispuesto a trabajar._  In the app: `Travel Areas (“Áreas de desplazamiento”)` · Do not use: áreas de viaje, zonas de desplazamiento
 - **trigger** → disparador  — _Evento inicial que activa la automatización en Zapier._
-- **Troubleshooting** → Solución de Problemas  — _Pasos para resolver problemas técnicos con la aplicación o el sitio web._
-- **User Guidelines** → Guias para el Usuario  — _Normas específicas sobre cómo deben interactuar los usuarios en Thumbtack._
-- **Verification processes** → Procesos de verificación  — _Pasos para confirmar la identidad de un usuario antes de procesar una solicitud._
+- **Troubleshooting** → solución de problemas  — _Pasos para resolver problemas técnicos con la aplicación o el sitio web._
+- **User Guidelines** → Pautas para Usuarios  — _Normas específicas sobre cómo deben interactuar los usuarios en Thumbtack._
+- **Verification processes** → procesos de verificación  — _Pasos para confirmar la identidad de un usuario antes de procesar una solicitud._
 - **webhook** → webhook  — _Herramienta técnica para enviar información automáticamente a otras aplicaciones._
-- **Weekly spending limit** → Límite de gasto semanal  — _Tope total que usted decide gastar por semana._
-- **Weekly targeting budget** → Preferencias de su presupuesto semanal  — _Preferencia que controla el gasto semanal por prospectos según su configuración._
-- **Withdraw the disputes** → Retirar las disputas  — _La acción de cancelar un reclamo de pago que hiciste a tu banco._
+- **Weekly spending limit** → límite de gasto semanal  — _Tope total que usted decide gastar por semana._
+- **Weekly targeting budget** → presupuesto semanal  — _Ajuste que controla el gasto semanal en prospectos según su configuración._
+- **Withdraw the disputes** → retirar las disputas  — _La acción de cancelar un reclamo de pago que usted hizo con su banco._
+
+## SERVICE CATEGORIES — names of types of service (28)
+
+- **Accounting or tax professions** → Contabilidad o preparación de impuestos
+- **Architecture** → Arquitectura
+- **Attorney** → Servicios legales
+- **Carpentry** → Carpintería
+- **Concrete and foundation work** → Concreto y cimientos
+- **Drywall** → Instalación y reparación de paneles de yeso
+- **Electrical work** → Trabajos eléctricos
+- **Engineers** → Ingeniería
+- **Events** → Eventos
+- **Financial professions** → Servicios financieros
+- **Flooring and carpet** → Pisos y alfombras
+- **General contracting** → Contratistas generales  Do not use: contratación general
+- **Home improvement and home building** → Mejoras y construcción de viviendas
+- **HVAC work** → Calefacción, ventilación y aire acondicionado
+- **Insulation** → Aislamiento
+- **Landscaping** → Jardinería y paisajismo
+- **Lessons** → Clases
+- **Masonry** → Albañilería
+- **Metalworking** → Trabajos en metal
+- **Moving** → Mudanzas
+- **Painting** → Pintura
+- **Paving** → Pavimentación
+- **Pest control applicators** → Control de plagas
+- **Plumbing** → Plomería
+- **Pool and spa** → Piscinas y spas
+- **Roofing** → Techos
+- **Tiling** → Instalación de azulejos
+- **Wellness** → Bienestar
