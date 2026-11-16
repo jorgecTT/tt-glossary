@@ -38,7 +38,7 @@ Code.
 
 | File | What it is |
 |---|---|
-| `glossary.json` | Approved EN→ES terms: `en`, `es`, `context`, `type` (`product` / `ui` / `term`), `status`. Fetched by the translation skills at runtime |
+| `glossary.json` | Approved EN→ES terms: `en`, `es`, `context`, `type` (`product` / `ui` / `term`), `status`, plus (from the `glossary_extra` tab, since Nov 16, 2026) `kind` (`product` / `ui` / `term` / `category`), `app` (exact UI form, e.g. `Leads (“Prospectos”)`), `variations`, `doNotUse`, `contextEn`. Fetched by the translation skills at runtime |
 | `glossary.md` | The same glossary, human-readable and grouped by type. Also the offline fallback bundled in the translation skill's zip |
 | `corpus_full.json` | The content index — every HC article and internal KA, EN/ES/PT, with `fullText` and `publishedUrl`. Read by `tt-content-index-auditor` |
 | `articles.json` | `translationKey` → published EN/ES/PT Help Center URLs |
@@ -55,6 +55,7 @@ inputs lying around that look editable.
 |---|---|
 | **Glossary — new terms** | The **manual glossary Sheet** (tab `gid=1113586630`, 3 columns: English, Spanish, context). The Apps Script reads this tab live; `type` is assigned downstream, so you don't supply it. This is the bulk-add path — paste rows and run the sync |
 | **Glossary — changing an existing term** | **The Localization Auditor app.** It builds terms from audited articles, assigns each `type`, resolves conflicts, and accepts pasted batches. **Its value wins over the Sheet**, so an edit made only in the Sheet may not take effect |
+| **App label, variations, do not use, English context** | The **`glossary_extra` tab** of the corpus Sheet (one row per term). The public glossary Doc and Sheet are generated from `glossary_auto` + `glossary_extra` by `GlossaryDoc.gs` (content-index-tools) |
 | **Corpus** | The **corpus Sheet**, fed nightly from the Google Docs content index |
 
 **Do not edit anything in this repo by hand.** `glossary.json`, `glossary.md`,
