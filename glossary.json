@@ -1035,8 +1035,8 @@
       "type": "term",
       "kind": "term",
       "app": "",
-      "variations": "",
-      "doNotUse": "Compromiso de calidad (lowercase)",
+      "variations": "Always \"Compromiso de Calidad\", with a capital C.",
+      "doNotUse": "",
       "contextEn": "Thumbtack's policies to make sure service quality is high."
     },
     {
@@ -1441,7 +1441,7 @@
       "type": "term",
       "kind": "term",
       "app": "",
-      "variations": "",
+      "variations": "The badge as it shows in the app: \"Top Pro\". In normal text: \"insignia de profesional destacado\".",
       "doNotUse": "",
       "contextEn": "Badge top-performing pros receive."
     },
@@ -1693,7 +1693,7 @@
       "type": "term",
       "kind": "term",
       "app": "",
-      "variations": "Mobile app: \"Seleccione X\". Computer: \"Haga clic en X\".",
+      "variations": "Touch screen (Tap X): \"Seleccione X\". Computer (Click X): \"Haga clic en X\". \"Seleccione X\" also works for either one, so if the English says \"tap or click X\", use \"Seleccione X\".",
       "doNotUse": "",
       "contextEn": "Verb for steps in the mobile app: Tap X = Seleccione X. On desktop: \"Haga clic en\"."
     },
@@ -3226,16 +3226,16 @@
     {
       "en": "Top Pro",
       "es": "profesional destacado",
-      "context": "Reconocimiento a los profesionales con mejor desempeño. Se traduce; no es una etiqueta de la interfaz.",
+      "context": "Reconocimiento a los profesionales con mejor desempeño. En la aplicación (insignia, nivel o banner) se deja como Top Pro. En texto normal se traduce.",
       "sourceArticle": "manual glossary import",
       "dateAdded": "2026-08-13T05:00:00.000Z",
       "status": "manual",
       "type": "term",
       "kind": "term",
-      "app": "",
-      "variations": "",
-      "doNotUse": "Top Pro (in Spanish text)",
-      "contextEn": "Recognition for the best-performing pros. Translated; not a UI label."
+      "app": "Top Pro",
+      "variations": "In the app (badge, level or banner, like Your path to Top Pro (“Su camino hacia Top Pro”)): keep \"Top Pro\". In normal text: \"profesional destacado\".",
+      "doNotUse": "",
+      "contextEn": "Recognition for the best-performing pros. In the app it stays \"Top Pro\". In normal text it is translated."
     },
     {
       "en": "Top Pros",
@@ -3247,7 +3247,7 @@
       "type": "term",
       "kind": "term",
       "app": "",
-      "variations": "",
+      "variations": "In the app: \"Top Pro\". In normal text: \"profesionales destacados\".",
       "doNotUse": "",
       "contextEn": "Plural of Top Pro."
     },
@@ -3345,8 +3345,8 @@
       "type": "term",
       "kind": "term",
       "app": "",
-      "variations": "Penalty (cancellation, no-show): \"cargo\". Lead fees: \"cargos por prospectos\". Flat Fee is a price: \"tarifa fija\".",
-      "doNotUse": "tarifa (for penalties)",
+      "variations": "Never \"tarifa\" for a penalty. Penalty (cancellation, no-show): \"cargo\". Lead fees: \"cargos por prospectos\". Flat Fee is a price: \"tarifa fija\".",
+      "doNotUse": "",
       "contextEn": "Amount charged to the pro as a penalty (cancellation, no-show). Don't use \"tarifa\", which sounds like a price. \"Lead fees\" is still \"cargos por prospectos\". Different from Flat Fee (\"tarifa fija\")."
     },
     {
@@ -4507,8 +4507,8 @@
       "type": "ui",
       "kind": "ui",
       "app": "Home (“Inicio”)",
-      "variations": "Tab in the app: Home (“Inicio”). A house (home improvement, home services): \"hogar\".",
-      "doNotUse": "Hogar (for the tab)",
+      "variations": "Tab in the app: Home (“Inicio”), never \"Hogar\". A house or the Home service category: \"hogar\".",
+      "doNotUse": "",
       "contextEn": "Button or label in the app. Used in: Thumbtack user guidelines."
     },
     {

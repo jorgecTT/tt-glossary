@@ -17,8 +17,8 @@
     "articles": {
       "file": "articles.json",
       "url": "https://raw.githubusercontent.com/jorgecTT/tt-glossary/main/articles.json",
-      "bytes": 72607,
-      "sha256": "6301649c6e94f7217c661fea011411359e46fd1def62bbf2c9e99e84bb9fbcef",
+      "bytes": 72718,
+      "sha256": "8ba41db190c818bad2953321c7dec0031b45194ab3d8daa64ba8f71496841b16",
       "description": "translationKey -> published EN/ES/PT Help Center URLs.",
       "count": 202
     },
@@ -33,25 +33,25 @@
     "glossary": {
       "file": "glossary.json",
       "url": "https://raw.githubusercontent.com/jorgecTT/tt-glossary/main/glossary.json",
-      "bytes": 234434,
-      "sha256": "6098528310d58cdd989877cb6264a08989dcbb1d381cb04e772ea6a83eb26029",
+      "bytes": 234979,
+      "sha256": "a46dd587464f6b3312fd4a833011dbc77fa990e1d92526350302af4600c337cf",
       "description": "Approved EN->ES terms with type (product/ui/term), context and status. Authority: the manual Sheet for new terms, the Localization Auditor app for changes (it wins). status=rejected is dropped at sync.",
       "count": 449
     },
     "glossary_md": {
       "file": "glossary.md",
       "url": "https://raw.githubusercontent.com/jorgecTT/tt-glossary/main/glossary.md",
-      "bytes": 67103,
-      "sha256": "7ec161e3c56a760483c8b0e477b64a0f224f6aae00a467f2249514a5f55ff507",
+      "bytes": 67600,
+      "sha256": "565d3ed8e2fd73948f045801fb774f1d799075e3a2e1db7af9d4a4389cfeffda",
       "description": "Human-readable glossary, grouped by type. Generated from glossary.json; also the offline fallback bundled in the translation skill."
     },
     "masterbook": {
       "file": "masterbook.json",
       "url": "https://raw.githubusercontent.com/jorgecTT/tt-glossary/main/masterbook.json",
-      "bytes": 549056,
-      "sha256": "e6c7a25fe7d8bd375f52fe89374767755532089a2665f801c82ecb3fe5d28a74",
+      "bytes": 562763,
+      "sha256": "d3d289fb8bac75781395c0b7060e5fb10a0f45a1ecda3f43a6031f9a4f52fa57",
       "description": "Translation memory: previously approved ES content keyed by translationKey.",
-      "count": 109
+      "count": 110
     }
   }
 }

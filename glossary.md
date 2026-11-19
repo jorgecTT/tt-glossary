@@ -120,7 +120,7 @@ Offline fallback snapshot of 449 approved terms (machine source: `glossary.json`
 - **Hide business now** → `Hide business now (“Ocultar negocio ahora”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo pausar mis prospectos y ocultar mi negocio._
 - **Hide my business** → `Hide my business (“Ocultar mi negocio”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo pausar mis prospectos y ocultar mi negocio._
 - **Hide my business temporarily** → `Hide my business temporarily (“Ocultar mi negocio temporalmente”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo pausar mis prospectos y ocultar mi negocio._
-- **Home** → `Home (“Inicio”)`  — _Botón o etiqueta de la aplicación. Se usa en: Pautas para usuarios de Thumbtack._  Variations: Tab in the app: Home (“Inicio”). A house (home improvement, home services): "hogar". · Do not use: Hogar (for the tab)
+- **Home** → `Home (“Inicio”)`  — _Botón o etiqueta de la aplicación. Se usa en: Pautas para usuarios de Thumbtack._  Variations: Tab in the app: Home (“Inicio”), never "Hogar". A house or the Home service category: "hogar".
 - **Import from Google** → `Import from Google (“Importar desde Google”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo importar reseñas a mi perfil de Thumbtack._
 - **Import from other sites** → `Import from other sites (“Importar de otros sitios”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo importar reseñas a mi perfil de Thumbtack._
 - **Import reviews from other sites** → `Import reviews from other sites (“Importar reseñas de otros sitios”)`  — _Botón o etiqueta de la aplicación. Se usa en: Cómo importar reseñas a mi perfil de Thumbtack._
@@ -318,7 +318,7 @@ Offline fallback snapshot of 449 approved terms (machine source: `glossary.json`
 - **Disputed charges** → cargos disputados  — _Cargos que un cliente ha reclamado a su banco como no válidos._
 - **Earnings** → ganancias  — _El dinero que usted recibe de sus clientes por los trabajos realizados._  In the app: `Earnings (“Ganancias”)`
 - **Estimate** → cotización aproximada  — _Un precio aproximado basado en los detalles iniciales del cliente._  Variations: Price estimate in general: "cotización aproximada". The document in the invoicing tool ("Create estimate or invoice"): "cotización".
-- **Fee** → cargo  — _Monto que se le cobra al profesional como penalidad (cancelación, inasistencia). No usar 'tarifa', que suena a precio. 'Lead fees' sigue siendo 'cargos por prospectos'. Distinto de Flat Fee (tarifa fija)._  Variations: Penalty (cancellation, no-show): "cargo". Lead fees: "cargos por prospectos". Flat Fee is a price: "tarifa fija". · Do not use: tarifa (for penalties)
+- **Fee** → cargo  — _Monto que se le cobra al profesional como penalidad (cancelación, inasistencia). No usar 'tarifa', que suena a precio. 'Lead fees' sigue siendo 'cargos por prospectos'. Distinto de Flat Fee (tarifa fija)._  Variations: Never "tarifa" for a penalty. Penalty (cancellation, no-show): "cargo". Lead fees: "cargos por prospectos". Flat Fee is a price: "tarifa fija".
 - **Flat Fee** → tarifa fija  — _Un precio único y total para un servicio definido._
 - **form** → formulario  — _Documento digital para solicitar cambios en la cuenta o servicio._
 - **Fraud and Damage Policy** → Política de Fraude y Daños  — _Lo que cubre Thumbtack en caso de fraude o daños materiales._
@@ -376,7 +376,7 @@ Offline fallback snapshot of 449 approved terms (machine source: `glossary.json`
 - **Promotions** → promociones  — _Ofertas especiales que puede aplicar para atraer clientes._
 - **pros** → profesionales  — _Especialistas o negocios registrados que ofrecen sus servicios._
 - **Push Notifications** → notificaciones push  — _Alertas que aparecen directamente en la pantalla de su celular desde la aplicación._
-- **Quality Commitment** → Compromiso de Calidad  — _Las políticas de Thumbtack para asegurar un servicio de calidad._  Do not use: Compromiso de calidad (lowercase)
+- **Quality Commitment** → Compromiso de Calidad  — _Las políticas de Thumbtack para asegurar un servicio de calidad._  Variations: Always "Compromiso de Calidad", with a capital C.
 - **Quote** → cotización  — _La propuesta de precio que usted envía a un prospecto._
 - **Quote Templates** → plantillas de cotización  — _Modelos de cotización predefinidos para enviar a los clientes._  In the app: `Quote Templates (“Plantillas de cotización”)`
 - **Rank** → posición  — _Su posición en los resultados de búsqueda._
@@ -404,7 +404,7 @@ Offline fallback snapshot of 449 approved terms (machine source: `glossary.json`
 - **Support** → soporte  — _El equipo/área de atención al cliente._
 - **Suspicious Activity** → actividad sospechosa  — _Cualquier comportamiento que parezca fraudulento o que viole las normas._
 - **swag** → artículos promocionales  — _Productos de marca (camisetas, gorras, calcomanías) que Thumbtack regala._
-- **Tap** → Seleccione  — _Verbo para pasos en la aplicación móvil: Tap X = Seleccione X. En computadora: 'Haga clic en'._  Variations: Mobile app: "Seleccione X". Computer: "Haga clic en X".
+- **Tap** → Seleccione  — _Verbo para pasos en la aplicación móvil: Tap X = Seleccione X. En computadora: 'Haga clic en'._  Variations: Touch screen (Tap X): "Seleccione X". Computer (Click X): "Haga clic en X". "Seleccione X" also works for either one, so if the English says "tap or click X", use "Seleccione X".
 - **targeting** → segmentación  — _Término técnico referido a la configuración de las preferencias de trabajo._
 - **Terms and Conditions** → Términos y Condiciones  — _El contrato legal completo que rige el uso de la plataforma._
 - **Terms of Use** → Términos de Uso  — _El acuerdo legal que rige el uso de la plataforma Thumbtack._
@@ -422,9 +422,9 @@ Offline fallback snapshot of 449 approved terms (machine source: `glossary.json`
 - **Thumbtack Pro Community** → Comunidad de Thumbtack para profesionales  — _El foro y la página web donde los profesionales se conectan y comparten consejos. Se traduce; no es nombre de producto._
 - **Thumbtack Quality Commitment** → Compromiso de Calidad de Thumbtack  — _Garantía que protege y respalda la inversión del profesional en la plataforma._
 - **Thumbtack swag** → artículos promocionales de Thumbtack  — _Igual que swag, con la marca explícita._
-- **Top Pro** → profesional destacado  — _Reconocimiento a los profesionales con mejor desempeño. Se traduce; no es una etiqueta de la interfaz._  Do not use: Top Pro (in Spanish text)
-- **Top Pro Badge** → insignia de profesional destacado  — _Insignia que reciben los profesionales destacados por su desempeño._
-- **Top Pros** → profesionales destacados  — _Plural de Top Pro._
+- **Top Pro** → profesional destacado  — _Reconocimiento a los profesionales con mejor desempeño. En la aplicación (insignia, nivel o banner) se deja como Top Pro. En texto normal se traduce._  In the app: `Top Pro` · Variations: In the app (badge, level or banner, like Your path to Top Pro (“Su camino hacia Top Pro”)): keep "Top Pro". In normal text: "profesional destacado".
+- **Top Pro Badge** → insignia de profesional destacado  — _Insignia que reciben los profesionales destacados por su desempeño._  Variations: The badge as it shows in the app: "Top Pro". In normal text: "insignia de profesional destacado".
+- **Top Pros** → profesionales destacados  — _Plural de Top Pro._  Variations: In the app: "Top Pro". In normal text: "profesionales destacados".
 - **Travel Areas** → áreas de desplazamiento  — _Las áreas geográficas donde usted está dispuesto a trabajar._  In the app: `Travel Areas (“Áreas de desplazamiento”)` · Do not use: áreas de viaje, zonas de desplazamiento
 - **trigger** → disparador  — _Evento inicial que activa la automatización en Zapier._
 - **Troubleshooting** → solución de problemas  — _Pasos para resolver problemas técnicos con la aplicación o el sitio web._
