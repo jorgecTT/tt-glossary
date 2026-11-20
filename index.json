@@ -33,23 +33,23 @@
     "glossary": {
       "file": "glossary.json",
       "url": "https://raw.githubusercontent.com/jorgecTT/tt-glossary/main/glossary.json",
-      "bytes": 234979,
-      "sha256": "a46dd587464f6b3312fd4a833011dbc77fa990e1d92526350302af4600c337cf",
+      "bytes": 235158,
+      "sha256": "06c81166a0df48b1a1b366e6aaa93836cd3ac2a1de4d23123ae3edf517a81cd0",
       "description": "Approved EN->ES terms with type (product/ui/term), context and status. Authority: the manual Sheet for new terms, the Localization Auditor app for changes (it wins). status=rejected is dropped at sync.",
       "count": 449
     },
     "glossary_md": {
       "file": "glossary.md",
       "url": "https://raw.githubusercontent.com/jorgecTT/tt-glossary/main/glossary.md",
-      "bytes": 67600,
-      "sha256": "565d3ed8e2fd73948f045801fb774f1d799075e3a2e1db7af9d4a4389cfeffda",
+      "bytes": 67752,
+      "sha256": "6d1c53a2717cbbac7a8b9b0eb5d5c9fd27de354ad2c36aea8dc670730425607a",
       "description": "Human-readable glossary, grouped by type. Generated from glossary.json; also the offline fallback bundled in the translation skill."
     },
     "masterbook": {
       "file": "masterbook.json",
       "url": "https://raw.githubusercontent.com/jorgecTT/tt-glossary/main/masterbook.json",
-      "bytes": 562763,
-      "sha256": "d3d289fb8bac75781395c0b7060e5fb10a0f45a1ecda3f43a6031f9a4f52fa57",
+      "bytes": 562985,
+      "sha256": "f11afc1279cb9781488cb0d29725b29ae321545bb081b7424557b3bcbc3d9587",
       "description": "Translation memory: previously approved ES content keyed by translationKey.",
       "count": 110
     }

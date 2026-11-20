@@ -1441,7 +1441,7 @@
       "type": "term",
       "kind": "term",
       "app": "",
-      "variations": "The badge as it shows in the app: \"Top Pro\". In normal text: \"insignia de profesional destacado\".",
+      "variations": "Spanish text: \"insignia de profesional destacado\". When pointing to the badge in the app: Top Pro (“Profesional destacado”).",
       "doNotUse": "",
       "contextEn": "Badge top-performing pros receive."
     },
@@ -3226,16 +3226,16 @@
     {
       "en": "Top Pro",
       "es": "profesional destacado",
-      "context": "Reconocimiento a los profesionales con mejor desempeño. En la aplicación (insignia, nivel o banner) se deja como Top Pro. En texto normal se traduce.",
+      "context": "Reconocimiento a los profesionales con mejor desempeño. En español siempre es profesional destacado. Si se señala algo en la aplicación, va la etiqueta en inglés y el español entre paréntesis.",
       "sourceArticle": "manual glossary import",
       "dateAdded": "2026-08-13T05:00:00.000Z",
       "status": "manual",
       "type": "term",
       "kind": "term",
-      "app": "Top Pro",
-      "variations": "In the app (badge, level or banner, like Your path to Top Pro (“Su camino hacia Top Pro”)): keep \"Top Pro\". In normal text: \"profesional destacado\".",
+      "app": "Top Pro (“Profesional destacado”)",
+      "variations": "Spanish text always says \"profesional destacado\". When pointing to something in the app, write the English label and the Spanish in parentheses, like Your path to Top Pro (“Su camino para ser profesional destacado”).",
       "doNotUse": "",
-      "contextEn": "Recognition for the best-performing pros. In the app it stays \"Top Pro\". In normal text it is translated."
+      "contextEn": "Recognition for the best-performing pros. The English label stays when pointing to the app; the Spanish is always \"profesional destacado\"."
     },
     {
       "en": "Top Pros",
@@ -3247,7 +3247,7 @@
       "type": "term",
       "kind": "term",
       "app": "",
-      "variations": "In the app: \"Top Pro\". In normal text: \"profesionales destacados\".",
+      "variations": "Spanish text: \"profesionales destacados\".",
       "doNotUse": "",
       "contextEn": "Plural of Top Pro."
     },
