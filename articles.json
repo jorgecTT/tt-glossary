@@ -1,7 +1,27 @@
 {
   "ok": true,
-  "count": 202,
+  "count": 218,
   "articles": [
+    {
+      "translationKey": "1. program overview",
+      "audience": "pro",
+      "titleEN": "Moen Flo Certification",
+      "titleES": "",
+      "urlEN": "https://help.thumbtack.com/article/moen-flo-certification",
+      "urlES": "",
+      "urlPT": "",
+      "notes": ""
+    },
+    {
+      "translationKey": "10. post-job checklist",
+      "audience": "pro",
+      "titleEN": "Post-job checklist",
+      "titleES": "",
+      "urlEN": "https://help.thumbtack.com/article/moen-post-job-checklist",
+      "urlES": "",
+      "urlPT": "",
+      "notes": ""
+    },
     {
       "translationKey": "1099-k tax support faqs",
       "audience": "pro",
@@ -9,6 +29,96 @@
       "titleES": "Preguntas frecuentes sobre el formulario tributario 1099-K",
       "urlEN": "https://help.thumbtack.com/article/1099-k",
       "urlES": "https://help.thumbtack.com/article/preguntas-frecuentes-sobre-el-formulario-tributario-1099-k",
+      "urlPT": "",
+      "notes": ""
+    },
+    {
+      "translationKey": "11. take the certification",
+      "audience": "pro",
+      "titleEN": "Take the certification",
+      "titleES": "",
+      "urlEN": "https://help.thumbtack.com/article/moen-certification",
+      "urlES": "",
+      "urlPT": "",
+      "notes": ""
+    },
+    {
+      "translationKey": "2. how you get jobs",
+      "audience": "pro",
+      "titleEN": "Section 2 How you get jobs",
+      "titleES": "",
+      "urlEN": "https://help.thumbtack.com/article/moen-how-you-get-jobs",
+      "urlES": "",
+      "urlPT": "",
+      "notes": "duplicate EN: 1F9CRVa3msnZgLbr_Ut72TL6m3DqhU2KJBMWWdR6bzW8"
+    },
+    {
+      "translationKey": "3. communicating with the customer",
+      "audience": "pro",
+      "titleEN": "Communicating with the customer",
+      "titleES": "",
+      "urlEN": "https://help.thumbtack.com/article/moen-communicating-with-the-customer",
+      "urlES": "",
+      "urlPT": "",
+      "notes": ""
+    },
+    {
+      "translationKey": "4. getting paid",
+      "audience": "pro",
+      "titleEN": "Getting paid Flat rates and direct deposit",
+      "titleES": "",
+      "urlEN": "https://help.thumbtack.com/article/moen-getting-paid",
+      "urlES": "",
+      "urlPT": "",
+      "notes": ""
+    },
+    {
+      "translationKey": "5. pre-job preparation",
+      "audience": "pro",
+      "titleEN": "Pre-job preparation",
+      "titleES": "",
+      "urlEN": "https://help.thumbtack.com/article/moen-pre-job-preparation",
+      "urlES": "",
+      "urlPT": "",
+      "notes": "duplicate EN: 1RvnShpvTKTooZ7H6oC_ivx8vkf7W5DWQneTGp2BVq9U"
+    },
+    {
+      "translationKey": "6. during the job",
+      "audience": "pro",
+      "titleEN": "During the job",
+      "titleES": "",
+      "urlEN": "https://help.thumbtack.com/article/during-the-job",
+      "urlES": "",
+      "urlPT": "",
+      "notes": ""
+    },
+    {
+      "translationKey": "7. installation step-by-step",
+      "audience": "pro",
+      "titleEN": "Installation step-by-step",
+      "titleES": "",
+      "urlEN": "https://help.thumbtack.com/article/moen-installation-steps",
+      "urlES": "",
+      "urlPT": "",
+      "notes": ""
+    },
+    {
+      "translationKey": "8. installation scenarios",
+      "audience": "pro",
+      "titleEN": "Installation scenarios",
+      "titleES": "",
+      "urlEN": "https://help.thumbtack.com/article/moen-installation-scenarios",
+      "urlES": "",
+      "urlPT": "",
+      "notes": ""
+    },
+    {
+      "translationKey": "9. customer experience and education",
+      "audience": "pro",
+      "titleEN": "Customer experience and education",
+      "titleES": "",
+      "urlEN": "https://help.thumbtack.com/article/customer-experience-and-education",
+      "urlES": "",
       "urlPT": "",
       "notes": ""
     },
@@ -1563,6 +1673,16 @@
       "notes": ""
     },
     {
+      "translationKey": "thumbtack toolkit terms and conditions",
+      "audience": "pro and customer",
+      "titleEN": "Thumbtack Toolkit Terms and Conditions",
+      "titleES": "",
+      "urlEN": "https://help.thumbtack.com/article/thumbtack-toolkit-terms-and-conditions",
+      "urlES": "",
+      "urlPT": "",
+      "notes": ""
+    },
+    {
       "translationKey": "thumbtack user guidelines",
       "audience": "pro and customer",
       "titleEN": "Thumbtack user guidelines",
@@ -1773,6 +1893,16 @@
       "notes": "duplicate EN: 18AV8RNr046JljY12OQCEfKN0umnbMhVH3-smqrNC8FQ"
     },
     {
+      "translationKey": "what are lead boosts?",
+      "audience": "pro",
+      "titleEN": "",
+      "titleES": "¿Qué es el impulso de prospectos",
+      "urlEN": "",
+      "urlES": "https://help.thumbtack.com/article/que-es-el-impulso-de-prospectos",
+      "urlPT": "",
+      "notes": ""
+    },
+    {
       "translationKey": "what are leads, claimable jobs, and opportunities?",
       "audience": "pro",
       "titleEN": "What are leads, preset jobs, and opportunities",
@@ -1789,6 +1919,16 @@
       "titleES": "¿Qué son las Oportunidades",
       "urlEN": "https://help.thumbtack.com/article/opportunities",
       "urlES": "https://help.thumbtack.com/article/que-son-las-oportunidades",
+      "urlPT": "",
+      "notes": ""
+    },
+    {
+      "translationKey": "what are preset service calls? [samsung jobs]",
+      "audience": "pro",
+      "titleEN": "",
+      "titleES": "¿Qué son las llamadas de servicio preestablecidas",
+      "urlEN": "",
+      "urlES": "https://help.thumbtack.com/article/que-son-las-llamadas-de-servicio-preestablecidas",
       "urlPT": "",
       "notes": ""
     },
@@ -1863,6 +2003,16 @@
       "notes": ""
     },
     {
+      "translationKey": "what is ai mode in google search?",
+      "audience": "pro",
+      "titleEN": "What is AI Mode in Google Search",
+      "titleES": "",
+      "urlEN": "https://help.thumbtack.com/article/what-is-ai-mode-in-google-search",
+      "urlES": "",
+      "urlPT": "",
+      "notes": ""
+    },
+    {
       "translationKey": "what is front desk?",
       "audience": "pro",
       "titleEN": "What is Front Desk",
@@ -1876,7 +2026,7 @@
       "translationKey": "what is google ai search?",
       "audience": "pro",
       "titleEN": "What is AI Mode in Google Search?",
-      "titleES": "¿Qué es Google AI Search",
+      "titleES": "¿Qué es AI Mode en Google Search",
       "urlEN": "https://help.thumbtack.com/article/what-is-google-ai-search",
       "urlES": "https://help.thumbtack.com/article/que-es-google-ai-search",
       "urlPT": "",
@@ -1949,6 +2099,16 @@
       "titleES": "¿Qué es el programa Thumbtack Pro Rewards",
       "urlEN": "https://help.thumbtack.com/article/thumbtack-pro-rewards-program",
       "urlES": "https://help.thumbtack.com/article/programa-thumbtack-pro-rewards",
+      "urlPT": "",
+      "notes": ""
+    },
+    {
+      "translationKey": "what is thumbtack toolkit?",
+      "audience": "pro",
+      "titleEN": "What is Thumbtack Toolkit",
+      "titleES": "",
+      "urlEN": "https://help.thumbtack.com/article/toolkit",
+      "urlES": "",
       "urlPT": "",
       "notes": ""
     },
