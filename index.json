@@ -48,8 +48,8 @@
     "masterbook": {
       "file": "masterbook.json",
       "url": "https://raw.githubusercontent.com/jorgecTT/tt-glossary/main/masterbook.json",
-      "bytes": 575519,
-      "sha256": "9d0e12e784ad01b35d4b15179f6bb50d33e53c531758ee0f90077a05ce72ecce",
+      "bytes": 575435,
+      "sha256": "2caadd92f6354ce92f8072d51324122c97fe5e4138682b4a5503596048bc2695",
       "description": "Translation memory: previously approved ES content keyed by translationKey.",
       "count": 112
     }
